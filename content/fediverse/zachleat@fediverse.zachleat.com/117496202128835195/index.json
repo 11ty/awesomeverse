@@ -1,0 +1,126 @@
+{
+	"comments": [
+		{
+			"id": "117496304526050970",
+			"parentId": 0,
+			"url": "https://blether.nathanupchurch.com/@nathan/statuses/01M5Q48D0ZZW9EB2H70Q9VRGGW",
+			"author": {
+				"name": ":censer: Nathan",
+				"url": "https://blether.nathanupchurch.com/@nathan",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/116/942/036/812/017/403/original/bee1d7e0714c871c.jpeg"
+			},
+			"date": "2026-10-24T14:15:26.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> I suppose it is!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117496347027834954",
+			"parentId": "117496304526050970",
+			"url": "https://fediverse.zachleat.com/@zachleat/117496347027834954",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-24T14:26:14.915Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://blether.nathanupchurch.com/@nathan\" class=\"u-url mention\">@<span>nathan</span></a></span> it absolutely is</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117496597849978199",
+			"parentId": 0,
+			"url": "https://mastodon.social/@westbrook/117496597519157314",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2026-10-24T15:29:57.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> Why do you force this child to keep a septic tank in their room like that?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117496614727049314",
+			"parentId": "117496597849978199",
+			"url": "https://fediverse.zachleat.com/@zachleat/117496614727049314",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-24T15:34:19.679Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> we respect the old ways</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117499485790211364",
+			"parentId": "117496614727049314",
+			"url": "https://mastodon.social/@noleli/117499485479871703",
+			"author": {
+				"name": "Noah Liebman",
+				"url": "https://mastodon.social/@noleli",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/295/087/214/311/131/original/6a44233a1ef67e81.jpg"
+			},
+			"date": "2026-10-25T03:44:23.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>westbrook</span></a></span> brb upgrading the diaper pail in the baby’s room</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117502063751916060",
+			"parentId": 0,
+			"url": "https://mastodon.social/@chrisfinazzo/117502063172603370",
+			"author": {
+				"name": "Chris Finazzo",
+				"url": "https://mastodon.social/@chrisfinazzo",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/526/160/762/976/693/original/d4989b5b8cc742dc.jpg"
+			},
+			"date": "2026-10-25T14:39:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117507429856967317",
+			"parentId": "117499485790211364",
+			"url": "https://fediverse.zachleat.com/@zachleat/117507429856967317",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-26T13:24:45.465Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\">@<span>noleli</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> look… I’m very glad to be done with the diaper genie</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117507583252834994",
+			"parentId": "117507429856967317",
+			"url": "https://mastodon.social/@westbrook/117507580776400355",
+			"author": {
+				"name": "westbrook",
+				"url": "https://mastodon.social/@westbrook",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/cache/accounts/avatars/109/292/789/947/647/037/original/03d44aaa7398e979.jpg"
+			},
+			"date": "2026-10-26T14:03:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>noleli</span></a></span> The nose crinkle or the way it wafted up out of the cartoonish smoke lines?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117507732753271081",
+			"parentId": "117507583252834994",
+			"url": "https://fediverse.zachleat.com/@zachleat/117507732753271081",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/fediversezachleatcom/accounts/avatars/109/286/461/031/266/152/original/dc489c3746a44e00.png"
+			},
+			"date": "2026-10-26T14:41:47.299Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@westbrook\" class=\"u-url mention\">@<span>westbrook</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@noleli\" class=\"u-url mention\">@<span>noleli</span></a></span> both and I’m beginning to think a genie was never in there at all</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 13,
+		"comments": 3,
+		"via": "fediverse"
+	}
+}

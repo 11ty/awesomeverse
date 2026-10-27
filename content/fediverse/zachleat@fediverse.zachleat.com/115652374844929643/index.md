@@ -1,0 +1,14 @@
+---
+title: December 2, 2025 at 10:39:52 PM UTC
+authors:
+  - name: Zach Leatherman
+    url: https://fediverse.zachleat.com/@zachleat
+date: 2025-12-02T22:39:52.333Z
+metadata:
+  slug: '115652374844929643'
+  uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/115652374844929643
+  type: fediverse
+  url: https://fediverse.zachleat.com/@zachleat/115652374844929643
+  importHash: 2cac1a46eecb766a
+---
+As a security precaution I had previously configured every single 11ty repository to have its own single-package-scoped npm token (there were probably ~30 or so), so this is a lovely improvement 😅

@@ -1,0 +1,16 @@
+---
+title: May 8, 2026 at 2:51:19 PM UTC
+authors:
+  - name: Zach Leatherman
+    url: https://fediverse.zachleat.com/@zachleat
+date: 2026-05-08T14:51:19.762Z
+metadata:
+  slug: '116539515192110323'
+  uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/116539515192110323
+  type: fediverse
+  url: https://fediverse.zachleat.com/@zachleat/116539515192110323
+  importHash: 9564e7d303c0a280
+---
+Going to stream in about 10m to show off three Build Awesome Pro editing demos, come hang out!
+
+[https://www.youtube.com/watch?v=Qr-NLgVrsMQ](https://www.youtube.com/watch?v=Qr-NLgVrsMQ)

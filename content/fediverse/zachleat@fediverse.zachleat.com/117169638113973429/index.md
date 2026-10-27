@@ -1,0 +1,14 @@
+---
+title: August 27, 2026 at 9:39:52 PM UTC
+authors:
+  - name: Zach Leatherman
+    url: https://fediverse.zachleat.com/@zachleat
+date: 2026-08-27T21:39:52.510Z
+metadata:
+  slug: '117169638113973429'
+  uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117169638113973429
+  type: fediverse
+  url: https://fediverse.zachleat.com/@zachleat/117169638113973429
+  importHash: 52957948da0ed491
+---
+Frequently, confidently wrong: LLMs 🤝 Human Developers

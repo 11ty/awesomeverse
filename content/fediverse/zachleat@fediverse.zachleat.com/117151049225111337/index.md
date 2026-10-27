@@ -1,0 +1,14 @@
+---
+title: August 24, 2026 at 2:52:28 PM UTC
+authors:
+  - name: Zach Leatherman
+    url: https://fediverse.zachleat.com/@zachleat
+date: 2026-08-24T14:52:28.575Z
+metadata:
+  slug: '117151049225111337'
+  uuid: 11ty/import::rss::https://fediverse.zachleat.com/@zachleat/117151049225111337
+  type: fediverse
+  url: https://fediverse.zachleat.com/@zachleat/117151049225111337
+  importHash: 8a791cdc9da9e455
+---
+This version takes great care to maintain backwards compatibility with any existing \<speedlify-score> components using speedlify.dev as their upstream data source. Let me know if you see issues!
