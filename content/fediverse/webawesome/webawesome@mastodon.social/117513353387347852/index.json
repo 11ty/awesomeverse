@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "117513531892187278",
+			"parentId": 0,
+			"url": "https://mastodon.social/@denodell/117513531892187278",
+			"author": {
+				"name": "Den Odell",
+				"url": "https://mastodon.social/@denodell",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/114/616/801/966/494/205/original/65f5dd587f7f7ab2.png"
+			},
+			"date": "2026-10-27T15:16:35.137Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@webawesome\" class=\"u-url mention\">@<span>webawesome</span></a></span> Thanks for sharing it! You did great already, but y’know performance work is never “done”! If you&#39;d like to run the tests on Web Awesome&#39;s own pull requests, I&#39;m happy to help set that up. Or any help contributing to fixes, of course. ❤️🙏</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 2,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}
