@@ -7,11 +7,28 @@
 	let { title, sourcePage, page, collections, content, buildTime } = $props();
 	const { getBundle, getSiteStats, htmlBaseUrl, readableDate } = getContext("functions");
 
-	const pageTitle = "Nexodus Archive";
+	const pageTitle = "Across the Awesomeverse";
 	let fullTitle = $derived(title ? `${title} — ${pageTitle}` : pageTitle);
 	let siteStats = $derived(collections?.postGroups?.length ? getSiteStats(collections.postGroups) : undefined);
 	// Sources with posts, labeled by the Pagefind `source` filter value
 	let postSources = $derived(statSources.filter(({ key }) => key !== "total" && siteStats?.[key]));
+	// Saved theme applied before first paint
+	const themeScript = `try {
+	let theme = localStorage.getItem("theme");
+	if(theme === "light" || theme === "dark") {
+		document.documentElement.setAttribute("data-theme", theme);
+	}
+} catch(e) {}`;
+	// awesome-nav follows the page theme through its own attribute
+	const navThemeScript = `{
+	let nav = document.querySelector("awesome-nav");
+	let sync = () => {
+		let theme = document.documentElement.getAttribute("data-theme");
+		theme ? nav.setAttribute("theme", theme) : nav.removeAttribute("theme");
+	};
+	sync();
+	new MutationObserver(sync).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+}`;
 	// Time since the build, e.g. “3 hours ago”
 	const buildTimeScript = `const time = document.querySelector(".build-time");
 const seconds = (new Date(time.dateTime) - Date.now()) / 1000;
@@ -97,49 +114,84 @@ more.addEventListener("click", showMore);`;
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="preload" href="https://blog.fontawesome.com/static/type/cera-round-pro-regular.woff2" as="font" type="font/woff2" crossorigin>
 		<title>{fullTitle}</title>
+		{@html `<script>${themeScript}<\/script>`}
+		<link rel="stylesheet" href="/awesome-nav/awesome-nav.css">
+		<link rel="stylesheet" href="/solar-eclipse-toggle/solar-eclipse-toggle.css">
+		<script type="module" src="/solar-eclipse-toggle/solar-eclipse-toggle.js"></script>
+		<script type="module" src="/awesome-nav/awesome-nav.js"></script>
 		{@html `<style>${getBundle("css")}</style>`}
 		{@html `<script type="module">${searchScript}<\/script>`}
 	</head>
 	<body>
+		<awesome-nav>
+			<nav>
+				<a href="https://fontawesome.com/" class="awesome-nav-font" data-tooltip="Font Awesome"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M155.7 160a52 52 0 1 0-59.7-3v419h64v-64h373.6a26.4 26.4 0 0 0 24.1-37.1L496 336l61.7-138.9a26.4 26.4 0 0 0-24.1-37.1z"/></svg><span class="awesome-sr-only">Font Awesome</span></a>
+				<a href="https://webawesome.com/" class="awesome-nav-web" data-tooltip="Web Awesome"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M372.2 116C372.2 136.9 359.8 155 342 163.2L448 256L552.4 235.1C547.1 227.4 544 218 544 208C544 181.5 565.5 160 592 160C618.5 160 640 181.5 640 208C640 234 619.4 255.1 593.6 256L481 506.3C470.7 529.3 447.8 544 422.6 544L217.4 544C192.2 544 169.4 529.2 159 506.3L46.4 256C20.6 255.1 0 234 0 208C0 181.5 21.5 160 48 160C74.5 160 96 181.5 96 208C96 218.1 92.9 227.4 87.6 235.1L192 256L298.1 163.1C280.4 154.8 268.1 136.8 268.1 116C268.1 87.3 291.4 64 320.1 64C348.8 64 372.1 87.3 372.1 116z"/></svg><span class="awesome-sr-only">Web Awesome</span></a>
+				<a href="https://build.awesome.me/" class="awesome-nav-build" data-tooltip="Build Awesome"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20"><path fill="currentColor" d="M10 2a7 7 0 0 1 7 7c0 3.2-2.8 6.3-5.2 7.5l.6 1.3a.8.8 0 0 1-.7 1.2H8.3a.8.8 0 0 1-.7-1.2l.6-1.3C5.8 15.3 3 12.2 3 9a7 7 0 0 1 7-7m-.3 3.1q-.1-.7-.8-.6-1.3.3-2.2 1.2-.9 1-1.2 2.2A.8.8 0 0 0 7 8q.1-.7.8-1.3.6-.6 1.3-.8t.6-.9"/></svg><span class="awesome-sr-only">Build Awesome</span></a>
+				<span class="awesome-spacer"></span>
+				<a href="https://www.podcastawesome.com/" class="awesome-nav-podcast" data-tooltip="Podcast Awesome"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M432 423.8a176 176 0 1 0-224 0c.4 17.6 3.2 40.4 6.4 61.8a224 224 0 1 1 211.1 0c3.3-21.4 6-44.2 6.4-61.8zm-14-53.4a86 86 0 0 0-30.4-27.8l-6.3-3.2a80 80 0 1 0-122.4 0q-3.2 1.4-6.3 3.2a86 86 0 0 0-30.4 27.8 128 128 0 1 1 195.8 0m-98 5.6c32.9 0 64 8.6 64 43.8 0 33-12.9 104.1-20.6 132.9-5.1 19-24.5 23.4-43.4 23.4s-38.2-4.4-43.4-23.4C268.8 524.2 256 453 256 419.9c0-35.1 31.1-43.8 64-43.8zm0-128a40 40 0 1 1 0 80 40 40 0 0 1 0-80"/></svg><span class="awesome-sr-only">Podcast Awesome</span></a>
+				<a href="https://blog.fontawesome.com/" class="awesome-nav-blog" data-tooltip="Blog Awesome"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M64 480V184a24 24 0 1 1 48 0v288a24 24 0 1 0 48 0V160a64 64 0 0 1 64-64h288a64 64 0 0 1 64 64v320a64 64 0 0 1-64 64H128a64 64 0 0 1-64-64m160-288v64a32 32 0 0 0 32 32h64a32 32 0 0 0 32-32v-64a32 32 0 0 0-32-32h-64a32 32 0 0 0-32 32m24 240a24 24 0 1 0 0 48h240a24 24 0 1 0 0-48zm-24-72a24 24 0 0 0 24 24h240a24 24 0 1 0 0-48H248a24 24 0 0 0-24 24m200-120a24 24 0 1 0 0 48h64a24 24 0 1 0 0-48z"/></svg><span class="awesome-sr-only">Blog Awesome</span></a>
+			</nav>
+		</awesome-nav>
+		{@html `<script>${navThemeScript}<\/script>`}
 		<header class="site-header">
 			<div class="wrap">
 				<div class="site-nav">
 					<a href="/" class="site-title">{pageTitle}</a>
-					<nav aria-label="Site"><a href="/popular/" aria-current={page.url === "/popular/" ? "page" : null}>Popular</a></nav>
 				</div>
-				<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, Letterboxd, Hacker News, and blogs.</p>
-				<nav class="source-links" aria-label="Sources">
-					<a href="/" class="source-link source-link--all" aria-current={page.url === "/" ? "page" : null}><i class="fa-solid fa-layer-group"></i>All <span class="source-link-count">{siteStats.total.posts.toLocaleString("en-US")}</span></a>
-					{#each postSources as { key, label, icon }}<a href="/{key}/" class={["source-link", `source-link--${key}`]} aria-current={sourcePage?.type === key ? "page" : null}><i class={icon}></i>{label} <span class="source-link-count">{siteStats[key].posts.toLocaleString("en-US")}</span></a>{/each}
-				</nav>
-				<form id="search" class="search" role="search" action="javascript:void(0)">
-					<input type="search" class="search-input" placeholder="Search" aria-label="Search" autocomplete="off">
-					<div class="search-results" hidden>
-						<p class="search-message" aria-live="polite"></p>
-						<ol class="search-list"></ol>
-						<button type="button" class="search-more" hidden>Load more results</button>
+				<div class="header-columns">
+					<div class="header-browse">
+						<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, Letterboxd, Hacker News, and blogs. See the <a href="/popular/" aria-current={page.url === "/popular/" ? "page" : null}>most popular posts</a>.</p>
+						<p class="site-built">Last built <time class="build-time" datetime={buildTime.toISOString()}>{readableDate(buildTime)}</time><span class="build-time-ago"></span>.</p>
+						<nav class="source-links" aria-label="Sources">
+							<a href="/" class="source-link source-link--all" aria-current={page.url === "/" ? "page" : null}><i class="fa-solid fa-layer-group"></i>All <span class="source-link-count">{siteStats.total.posts.toLocaleString("en-US")}</span></a>
+							{#each postSources as { key, label, icon }}<a href="/{key}/" class={["source-link", `source-link--${key}`]} aria-current={sourcePage?.type === key ? "page" : null}><i class={icon}></i>{label} <span class="source-link-count">{siteStats[key].posts.toLocaleString("en-US")}</span></a>{/each}
+						</nav>
+						<form id="search" class="search" role="search" action="javascript:void(0)">
+							<input type="search" class="search-input" placeholder="Search" aria-label="Search" autocomplete="off">
+							<div class="search-results" hidden>
+								<p class="search-message" aria-live="polite"></p>
+								<ol class="search-list"></ol>
+								<button type="button" class="search-more" hidden>Load more results</button>
+							</div>
+						</form>
 					</div>
-				</form>
-				{#if page.url === "/popular/"}<SiteStats /><Activity groups={collections.postGroups} />{/if}
+					<div class="header-stats"><SiteStats /><Activity groups={collections.postGroups} type={sourcePage?.type} /></div>
+				</div>
 			</div>
 		</header>
 		<main class="wrap">{@html content}</main>
 		<footer class="site-footer wrap">
-			{#if page.url !== "/popular/"}<SiteStats /><Activity groups={collections.postGroups} />{/if}
-			<p>Last built <time class="build-time" datetime={buildTime.toISOString()}>{readableDate(buildTime)}</time><span class="build-time-ago"></span>.</p>
-			<p>Built with <a href="https://www.11ty.dev/">11ty</a>, <a href="https://github.com/11ty/eleventy-import">11ty/import</a>, and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
+			<p><a href="https://build.awesome.me/">Built Awesome</a> with <a href="https://github.com/11ty/eleventy-import">11ty/import</a> and <a href="https://pagefind.app/">Pagefind</a>. <a href="https://github.com/zachleat/nexodus">Source code</a></p>
+			<solar-eclipse-toggle>
+				<button type="button" disabled>
+					<span class="se-label-dark" hidden><i class="fa-solid fa-moon"></i>Use dark theme</span>
+					<span class="se-label-light" hidden><i class="fa-solid fa-sun"></i>Use light theme</span>
+					<span class="se-label-unknown"><i class="fa-solid fa-circle-half-stroke"></i>Theme</span>
+					<span class="se-system">System</span>
+				</button>
+			</solar-eclipse-toggle>
 		</footer>
 		<div>{@html getBundle("fontawesome")}</div>
 		{@html `<script type="module">${buildTimeScript}<\/script>`}
 	</body>
 </html>
 <style>
+/* Same files and weights as Blog Awesome, loaded from blog.fontawesome.com */
+@font-face { font-family: "Cera Round Pro"; font-weight: 400; font-display: swap; src: url(https://blog.fontawesome.com/static/type/cera-round-pro-regular.woff2) format("woff2"); }
+@font-face { font-family: "Cera Round Pro"; font-weight: 500; font-display: swap; src: url(https://blog.fontawesome.com/static/type/cera-round-pro-medium.woff2) format("woff2"); }
+@font-face { font-family: "Cera Round Pro"; font-weight: 700; font-display: swap; src: url(https://blog.fontawesome.com/static/type/cera-round-pro-bold.woff2) format("woff2"); }
+@font-face { font-family: "Cera Round Pro"; font-weight: 900; font-display: swap; src: url(https://blog.fontawesome.com/static/type/cera-round-pro-black.woff2) format("woff2"); }
 :global {
 	:root {
-		color-scheme: light dark;
-		--bg: #f6f5f2;
+		color-scheme: light;
+		--bg: #ffffff;
 		--surface: #ffffff;
+		/* Matches the awesome-nav max width at the 17px body size */
+		--wrap-max: calc(69 * 17px + 2rem);
+		--card-shadow: 0 1px 3px rgb(0 0 0 / .04), 0 2px 8px rgb(0 0 0 / .03);
 		--text: #1c1b19;
 		--muted: #6b6862;
 		--border: #e4e1da;
@@ -152,11 +204,11 @@ more.addEventListener("click", showMore);`;
 		--letterboxd: #00a85a;
 		--hackernews: #ff6600;
 		--blog: #475569;
-		--activity: #2da44e;
 		--radius: 12px;
 	}
 	@media (prefers-color-scheme: dark) {
-		:root {
+		:root:not([data-theme="light"]) {
+			color-scheme: dark;
 			--bg: #141413;
 			--surface: #1d1c1a;
 			--text: #ecebe8;
@@ -170,39 +222,55 @@ more.addEventListener("click", showMore);`;
 			--letterboxd: #40bcf4;
 			--hackernews: #ff8a3d;
 			--blog: #94a3b8;
-			--activity: #39d353;
 		}
+	}
+	:root[data-theme="dark"] {
+		color-scheme: dark;
+		--bg: #141413;
+		--surface: #1d1c1a;
+		--text: #ecebe8;
+		--muted: #9c9890;
+		--border: #2e2c29;
+		--link: #8eaaff;
+		--fediverse: #c97ee6;
+		--github: #9198a1;
+		--npm: #e5605f;
+		--youtube: #ff4e45;
+		--letterboxd: #40bcf4;
+		--hackernews: #ff8a3d;
+		--blog: #94a3b8;
 	}
 	* { box-sizing: border-box; }
 	body {
 		margin: 0;
 		background: var(--bg);
 		color: var(--text);
-		font: 17px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+		font: 17px/1.55 "Cera Round Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
 		-webkit-font-smoothing: antialiased;
 	}
 	a { color: var(--link); text-underline-offset: .15em; }
 	img, video { max-width: 100%; height: auto; border-radius: 8px; }
-	.wrap { max-width: 40rem; margin-inline: auto; padding-inline: 16px; }
+	.wrap { max-width: var(--wrap-max); margin-inline: auto; padding-inline: 16px; }
 
 	.site-header { padding-block: 2.5rem 1.5rem; }
 	.site-title { color: var(--text); font-size: 1.6rem; font-weight: 700; letter-spacing: -.02em; text-decoration: none; }
 	.site-nav { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .5rem 1rem; }
-	.site-nav nav a { font-weight: 600; }
-	.site-nav nav a[aria-current] { color: var(--text); text-decoration: none; }
-	.page-title { margin: 0 0 .25rem; font-size: 1.3rem; letter-spacing: -.01em; }
+	.site-tagline a[aria-current] { color: var(--text); }
+	.header-columns { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 28rem), 1fr)); gap: 1.5rem 3rem; align-items: start; }
+	.header-stats > :last-child { margin-bottom: 0; }
+	.page-title { max-width: calc(var(--wrap-max) - 32px); margin: 0 auto .25rem; font-size: 1.3rem; letter-spacing: -.01em; }
 	ol.feed { margin: 0; padding: 0; list-style: none; }
-	.site-tagline { margin: .25rem 0 1.25rem; color: var(--muted); }
+	.site-tagline { margin: .25rem 0 .5rem; color: var(--muted); }
+	.site-built { margin: 0 0 1.25rem; color: var(--muted); font-size: .85rem; }
 	.site-stats-wrap { margin-bottom: 1.5rem; overflow-x: auto; }
-	.site-header .site-stats-wrap { margin: 1rem 0 0; font-size: .85rem; }
-	.site-stats { width: 100%; border-collapse: collapse; color: var(--muted); font-variant-numeric: tabular-nums; }
+	.site-stats { width: 100%; border-collapse: collapse; font-size: .85rem; color: var(--muted); font-variant-numeric: tabular-nums; }
 	.site-stats :is(th, td) { padding: .1rem 0 .1rem 1rem; text-align: right; font-weight: 400; vertical-align: top; }
 	.site-stats :is(th, td):first-child { padding-left: .5rem; text-align: left; }
 	.site-stats :is(th, td):last-child { padding-right: .5rem; }
 	.site-stats :is(tbody, tfoot) th { font-weight: 600; }
 	.site-stats th a { color: inherit; }
 	.site-stats :is(tbody, tfoot) tr { border-top: 1px solid var(--border); }
-	.site-stats--total { background: color-mix(in srgb, var(--text) 3%, transparent); }
+	:is(.site-stats thead, .site-stats--total) { background: color-mix(in srgb, var(--text) 3%, transparent); }
 	.site-stats--total th { color: var(--text); }
 	.site-stats--bluesky th { color: var(--bluesky); }
 	.site-stats--fediverse th { color: var(--fediverse); }
@@ -223,33 +291,54 @@ more.addEventListener("click", showMore);`;
 		.site-stats-col--views { display: none; }
 		.site-stats-col--reposts { padding-right: .5rem; }
 	}
-	.site-header .activity { margin: 1rem 0 0; }
-	.activity { margin: 0 0 1.5rem; color: var(--muted); font-size: .75rem; font-variant-numeric: tabular-nums; }
-	.activity-years { display: grid; grid-template-columns: repeat(var(--years), 1fr); gap: 2px; margin: 0; padding: 0; list-style: none; }
-	.activity-year { min-width: 0; }
+	.activity { max-width: calc(var(--wrap-max) - 32px); margin: 0 auto 1.5rem; color: var(--muted); font-size: .75rem; font-variant-numeric: tabular-nums; }
+	.activity-months { display: grid; grid-template-columns: repeat(var(--months), 1fr); gap: 2px; margin: 0; padding: 0; list-style: none; }
+	.activity-month { min-width: 0; }
 	/* Top padding leaves room for the tallest bar’s count */
-	.activity-track { display: flex; flex-direction: column; justify-content: flex-end; align-items: center; height: 7rem; padding-top: 1.25rem; }
-	.activity-bar { flex-shrink: 0; width: 100%; border-radius: 2px 2px 0 0; background: var(--activity); }
-	.activity-count { font-size: .65rem; white-space: nowrap; }
+	.activity-track { position: relative; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; height: 5rem; padding-top: 1.25rem; }
+	/* Segments stack from the bottom in brand order */
+	.activity-bar { display: flex; flex-direction: column-reverse; flex-shrink: 0; width: 100%; border-radius: 2px 2px 0 0; overflow: hidden; }
+	.activity-segment { flex-basis: 0; background: var(--brand); }
+	.activity-segment--other { opacity: .15; }
+	.activity-segment--build { --brand: #00a776; }
+	.activity-segment--web { --brand: #f36945; }
+	.activity-segment--font { --brand: #548cd8; }
+	.activity-legend { display: inline-block; width: .65em; height: .65em; border-radius: 50%; background: var(--brand); }
+	/* Sits on top of the full-opacity part of the bar */
+	.activity-count { position: absolute; inset-inline: 0; bottom: calc((100% - 1.25rem) * var(--level)); color: color-mix(in srgb, var(--text) 70%, var(--muted)); font-size: .65rem; line-height: 1.4; text-align: center; white-space: nowrap; }
 	.activity-label { display: block; padding-top: .25rem; border-top: 1px solid var(--border); text-align: center; white-space: nowrap; }
 	.activity-label-short { display: none; }
-	.activity-caption { margin-top: .5rem; }
+	.activity-years { display: grid; grid-template-columns: repeat(var(--months), 1fr); gap: 2px; margin-top: .25rem; }
+	/* Line from the year across its months */
+	.activity-year { display: flex; align-items: center; gap: .35rem; min-width: 0; font-size: .65rem; }
+	.activity-year::after { content: ""; flex-grow: 1; border-top: 1px solid var(--border); }
+	.activity-legend-item { display: inline-flex; align-items: center; gap: .35em; padding: .15em .65em; border-radius: 999px; background: color-mix(in srgb, var(--brand) 12%, transparent); color: var(--text); }
+	.activity-legend-item--total { background: none; }
+	.activity-legend-count { font-weight: 600; }
+	.activity-caption { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: .5rem; }
 	@media (max-width: 40em) {
 		.activity-count { display: none; }
 		.activity-label-full { display: none; }
 		.activity-label-short { display: inline; }
 	}
 	:is(.site-stats, .source-links) svg { height: 1em; overflow: visible; vertical-align: -.125em; }
+	.site-stats th[scope="row"] svg { width: 1em; height: auto; }
 	.source-links svg { margin-right: .35em; }
 	.summary { color: var(--muted); font-size: .9rem; margin: 0 0 1rem; }
 
-	.feed { display: grid; gap: 1rem; }
+	main.wrap:has(.feed) { max-width: none; }
+	.entry { max-width: 40rem; margin-inline: auto; }
+	.entry > .pager:first-child { margin-block: 0 1rem; }
+	.crossposts { margin: .75rem 0 0; color: var(--muted); font-size: .9rem; }
+	.feed { columns: 24rem; column-gap: 1rem; }
+	.feed > * { break-inside: avoid; margin-bottom: 1rem; }
 	.post {
 		background: var(--surface);
 		border: 1px solid var(--border);
 		border-radius: var(--radius);
 		padding: 1rem 1.25rem;
 		overflow-wrap: anywhere;
+		box-shadow: var(--card-shadow);
 	}
 	.post-meta, .post-footer {
 		display: flex;
@@ -274,19 +363,18 @@ more.addEventListener("click", showMore);`;
 	.post-source--letterboxd { --accent: var(--letterboxd); }
 	.post-source--hackernews { --accent: var(--hackernews); }
 	.post-source--blog { --accent: var(--blog); }
-	.post.post--crosspost {
-		border-left: 3px solid transparent;
-		background: linear-gradient(var(--surface), var(--surface)) padding-box, linear-gradient(var(--bluesky), var(--fediverse)) border-box;
-	}
+	/* Second stripe beside the primary source border */
+	.post { background: linear-gradient(to right, color-mix(in srgb, var(--service, var(--surface)) 2%, var(--surface)), var(--surface)); }
+	.post.post--crosspost { background: linear-gradient(to right, color-mix(in srgb, var(--service) 2%, var(--surface)), color-mix(in srgb, var(--crosspost-accent) 2%, var(--surface))); box-shadow: inset 1px 0 0 var(--surface), inset 4px 0 0 var(--crosspost-accent), var(--card-shadow); }
 	.post-links { display: flex; flex-wrap: wrap; gap: .25rem 1rem; }
-	.post.post--bluesky { border-left: 3px solid var(--bluesky); }
-	.post.post--fediverse { border-left: 3px solid var(--fediverse); }
-	.post.post--github { border-left: 3px solid var(--github); }
-	.post.post--npm { border-left: 3px solid var(--npm); }
-	.post.post--youtube { border-left: 3px solid var(--youtube); }
-	.post.post--letterboxd { border-left: 3px solid var(--letterboxd); }
-	.post.post--hackernews { border-left: 3px solid var(--hackernews); }
-	.post.post--blog { border-left: 3px solid var(--blog); }
+	.post.post--bluesky { --service: var(--bluesky); border-left: 3px solid var(--bluesky); }
+	.post.post--fediverse { --service: var(--fediverse); border-left: 3px solid var(--fediverse); }
+	.post.post--github { --service: var(--github); border-left: 3px solid var(--github); }
+	.post.post--npm { --service: var(--npm); border-left: 3px solid var(--npm); }
+	.post.post--youtube { --service: var(--youtube); border-left: 3px solid var(--youtube); }
+	.post.post--letterboxd { --service: var(--letterboxd); border-left: 3px solid var(--letterboxd); }
+	.post.post--hackernews { --service: var(--hackernews); border-left: 3px solid var(--hackernews); }
+	.post.post--blog { --service: var(--blog); border-left: 3px solid var(--blog); }
 	.post-title { margin: .5rem 0 0; font-size: 1.1rem; }
 	.post-title a { color: inherit; text-decoration: none; }
 	.post-image { display: block; margin-top: .75rem; }
@@ -297,6 +385,13 @@ more.addEventListener("click", showMore);`;
 	.post-content > :first-child { margin-top: .5rem; }
 	.post-content > :last-child { margin-bottom: 0; }
 	.post-content p { margin: .6rem 0; }
+	.feed .post-content { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 8; line-clamp: 8; overflow: hidden; }
+	/* Fade only when clamped, since the scroll timeline is inactive without overflow */
+	.feed .post-content { animation: post-content-fade linear both; animation-timeline: scroll(self); }
+	@keyframes post-content-fade {
+		from { mask-image: linear-gradient(to bottom, #000 calc(100% - 3em), transparent); }
+		to { mask-image: none; }
+	}
 
 	/* Mastodon link truncation */
 	.invisible { display: none; }
@@ -304,11 +399,10 @@ more.addEventListener("click", showMore);`;
 
 	.pager { display: flex; justify-content: space-between; margin-block: 2rem; font-weight: 600; }
 	.pager-disabled { color: var(--muted); opacity: .6; cursor: default; }
-	.pager--top { align-items: baseline; margin-block: 0 1rem; }
-	.pager--top > * { flex: 1; }
-	.pager--top > .summary { margin: 0; text-align: center; font-weight: 400; }
-	.pager--top > :last-child { text-align: right; }
-	.site-footer { padding-block: 2rem 3rem; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--border); }
+	.pager--top { align-items: baseline; justify-content: center; gap: 1.5rem; margin-block: 0 1rem; }
+	.pager--top > .summary { margin: 0; font-weight: 400; }
+	.site-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; margin-top: 3rem; padding-block: 2rem 3rem; color: var(--muted); font-size: .85rem; }
+	.site-footer > p { margin: 0; }
 
 	/* Search */
 	.search { display: grid; gap: .75rem; }

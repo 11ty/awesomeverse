@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mu6ivgomuk2w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mu6ivgomuk2w",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-08-28T23:21:37.331Z",
+			"content": "<p>The Icon Wizard Contest runs through September 7. Build something weird, clever, or fun, and submit it to the gallery, and it might get featured. There's already a Starry Night icon and a centaur in there!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

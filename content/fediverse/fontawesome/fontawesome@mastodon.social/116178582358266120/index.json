@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "116178668547029729",
+			"parentId": 0,
+			"url": "https://social.lol/@jgarber/116178668522269909",
+			"author": {
+				"name": "Jason Garber",
+				"url": "https://social.lol/@jgarber",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/115/806/758/964/899/134/original/ffe89da4cb1adebc.jpg"
+			},
+			"date": "2026-03-05T21:23:16.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span> Eleventy on Open Collective</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

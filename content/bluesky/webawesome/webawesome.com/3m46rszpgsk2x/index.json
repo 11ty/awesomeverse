@@ -1,0 +1,37 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:ekeumpbnvthvlmkuse4a2gxw/app.bsky.feed.post/3m4ai2ivpte2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/ranork.bsky.social/post/3m4ai2ivpte2j",
+			"author": {
+				"name": "Emir  🇹🇷",
+				"url": "https://bsky.app/profile/ranork.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ekeumpbnvthvlmkuse4a2gxw/bafkreif2mr4nmhiccusypbpbogtcclde42tu6h67ipqyii3xjlg3zrvosu"
+			},
+			"date": "2025-10-28T08:07:13.567Z",
+			"content": "<p>Open source web magic sounds interesting. Good luck with the launch tomorrow.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:es2tdi2wgcojqtn5jfi7yk6g/app.bsky.feed.post/3m4alrxyinc2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/xwikisas.bsky.social/post/3m4alrxyinc2z",
+			"author": {
+				"name": "XWiki SAS",
+				"url": "https://bsky.app/profile/xwikisas.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:es2tdi2wgcojqtn5jfi7yk6g/bafkreighwbet7apwxu2hxvmzpmy726i4vus6gghb7tdjhk5uwfost4hfvu"
+			},
+			"date": "2025-10-28T09:14:02.898Z",
+			"content": "<p>Good luck with the launch!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 23,
+		"reposts": 3,
+		"comments": 2,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

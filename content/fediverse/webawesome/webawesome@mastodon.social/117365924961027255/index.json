@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "117365925632209957",
+			"parentId": 0,
+			"url": "https://mastodon.social/@webawesome/117365925632209957",
+			"author": {
+				"name": "Web Awesome",
+				"url": "https://mastodon.social/@webawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/115/270/996/054/162/025/original/9337c79b15adc441.jpg"
+			},
+			"date": "2026-10-01T13:38:22.342Z",
+			"content": "<p>More in the docs: <a href=\"https://webawesome.com/docs/components/otp-input\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">webawesome.com/docs/components</span><span class=\"invisible\">/otp-input</span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 5,
+		"reposts": 1,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

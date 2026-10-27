@@ -1,0 +1,114 @@
+{
+	"comments": [
+		{
+			"id": "115174769851857571",
+			"parentId": 0,
+			"url": "https://mastodon.social/@andybond/115174769800765821",
+			"author": {
+				"name": "Andy Bond",
+				"url": "https://mastodon.social/@andybond",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/113/334/934/626/original/d7683d411ca30c20.jpg"
+			},
+			"date": "2025-09-09T14:18:37.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> I continue to do the bare minimum on my website and keep being rewarded for it 😅</p><p>Pretty cool though &lt;3</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115174786403501954",
+			"parentId": "115174769851857571",
+			"url": "https://neighborhood.11ty.dev/@11ty/115174786403501954",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-09-09T14:22:51.049Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@andybond\" class=\"u-url mention\">@<span>andybond</span></a></span> the algorithm is biased against minimalism, for the record!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115174787992654907",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ricmac/115174787881090902",
+			"author": {
+				"name": "Richard MacManus",
+				"url": "https://mastodon.social/@ricmac",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/116/197/995/366/original/96f1e9441a380495.png"
+			},
+			"date": "2025-09-09T14:23:13.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> #313 with a bullet! But seriously, I'm happy with 100s all round *except* for that 98 for performance. And I have looked at trying to get 100 there, but it's difficult for an image-heavy site like mine. I will keep looking for ways though...one day I'll break the top 100 😂</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115174809088505179",
+			"parentId": "115174787992654907",
+			"url": "https://fediverse.zachleat.com/@zachleat/115174809035018407",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/306/462/599/186/original/bfb580e375edf4b0.png"
+			},
+			"date": "2025-09-09T14:28:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ricmac\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>ricmac</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> looks like adjusting your image sizes in Eleventy Image, inlining your CSS, and maybe a fetchpriority=high paired with loading=eager to improve your LCP are the big ticket items reported there!</p><p>But the site is fast as-is so I wouldn’t sweat it too much 😅</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115174823909749350",
+			"parentId": "115174809088505179",
+			"url": "https://mastodon.social/@ricmac/115174823861681321",
+			"author": {
+				"name": "Richard MacManus",
+				"url": "https://mastodon.social/@ricmac",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/116/197/995/366/original/96f1e9441a380495.png"
+			},
+			"date": "2025-09-09T14:32:22.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.zachleat.com/@zachleat\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>zachleat</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> Thanks, great suggestions. I have found with experimentation that one can go too low with reducing image sizes, so I found a happy medium there. Overall though, I’m satisfied with my scores here. Thanks for doing this service, it’s a regular reminder to keep an eye on web performance.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115175010077146826",
+			"parentId": 0,
+			"url": "https://mamot.fr/@nhoizey/115175010030093718",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/021/979/634/611/original/2fe58b409aaad10c.jpg"
+			},
+			"date": "2025-09-09T15:19:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> I guess I'll have to wait for the next run, I still had accessibility issues on my latest site… 😅</p><p>So thanks for helping me improve accessibility! 🙏😍</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115175030289993441",
+			"parentId": "115175010077146826",
+			"url": "https://neighborhood.11ty.dev/@11ty/115175030289993441",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-09-09T15:24:52.462Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url mention\">@<span>nhoizey</span></a></span> hoping to run a little more often moving forward! I simplified some of the workflow</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115175033931963870",
+			"parentId": "115175030289993441",
+			"url": "https://mamot.fr/@nhoizey/115175033875895894",
+			"author": {
+				"name": "Nicolas Hoizey",
+				"url": "https://mamot.fr/@nhoizey",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/021/979/634/611/original/2fe58b409aaad10c.jpg"
+			},
+			"date": "2025-09-09T15:25:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> great! 😍</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 6,
+		"reposts": 1,
+		"comments": 3,
+		"via": "fediverse"
+	}
+}

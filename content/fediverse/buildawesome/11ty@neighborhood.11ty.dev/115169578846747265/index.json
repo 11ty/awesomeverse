@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "115169598193221742",
+			"parentId": 0,
+			"url": "https://neighborhood.11ty.dev/@11ty/115169598193221742",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-09-08T16:23:25.241Z",
+			"content": "<p>To check to see if your project was affected, check your package-lock.json file to see what version of `debug` you have installed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115169746266225776",
+			"parentId": 0,
+			"url": "https://mastodon.social/@localnerve/115169745883076344",
+			"author": {
+				"name": "Alex Grant",
+				"url": "https://mastodon.social/@localnerve",
+				"avatarUrl": "https://neighborhood.11ty.dev/avatars/original/missing.png"
+			},
+			"date": "2025-09-08T17:00:58.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> </p><p>Just saying...</p><p><a href=\"https://mastodon.social/@localnerve/115169728147026764\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@localnerve/11</span><span class=\"invisible\">5169728147026764</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "115169806229987309",
+			"parentId": "115169598193221742",
+			"url": "https://neighborhood.11ty.dev/@11ty/115169806229987309",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-09-08T17:16:19.631Z",
+			"content": "<p>Some more information about the payload here: <a href=\"https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">aikido.dev/blog/npm-debug-and-</span><span class=\"invisible\">chalk-packages-compromised</span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 10,
+		"reposts": 10,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

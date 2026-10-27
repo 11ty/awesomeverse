@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3msgieyl36k2j",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3msgieyl36k2j",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-08-06T16:43:20.314Z",
+			"content": "<p>Four ways to win: Most Useful, Most Creative, Best Remix, Funniest Icon. Pick your lane (or ignore the lanes entirely).</p>\n<p>Want to show off your icon? Tag us!<br>\n<a href=\"https://fontawesome.com/icons/wizard\">fontawesome.com/icons/wizard</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"reposts": 2,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

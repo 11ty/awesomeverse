@@ -1,0 +1,89 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:twan63xxjg47gyqvcczsvijc/app.bsky.feed.post/3mtcnmlxjhxtp",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/tvdeyen.bsky.social/post/3mtcnmlxjhxtp",
+			"author": {
+				"name": "TvD 🔊",
+				"url": "https://bsky.app/profile/tvdeyen.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:twan63xxjg47gyqvcczsvijc/bafkreicqgbzgk7rmhyh2xfwe4htgw5t3x4y3to4t3tsbkp7xtnmoaiklde"
+			},
+			"date": "2026-08-17T21:31:36.909Z",
+			"content": "<p>Sorry, yes. Bcz. Tooltip is forcing me to a add random ids to all my tooltipped elements? Nope. You screwed it with this one. Sorry. Fix that and we can talk</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mtd3qc3erc2y",
+			"parentId": "at://did:plc:twan63xxjg47gyqvcczsvijc/app.bsky.feed.post/3mtcnmlxjhxtp",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mtd3qc3erc2y",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-08-18T01:44:13.148Z",
+			"content": "<p>I regretted making the tooltip API wrap targets early on (doesn’t work well because components can’t be renderless in HTML).</p>\n<p>Don’t remember all the reasons for the decision off the top of my head, but many folks had problems with stacking context/z-index which couldn’t be resolved without hoisting.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mtd3tgd57c2y",
+			"parentId": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mtd3qc3erc2y",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mtd3tgd57c2y",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-08-18T01:45:58.266Z",
+			"content": "<p>We might be able to support both APIs, but I’m curious what your aversion is to linking with IDs.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:twan63xxjg47gyqvcczsvijc/app.bsky.feed.post/3mte7wleswc7d",
+			"parentId": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mtd3tgd57c2y",
+			"url": "https://bsky.app/profile/tvdeyen.bsky.social/post/3mte7wleswc7d",
+			"author": {
+				"name": "TvD 🔊",
+				"url": "https://bsky.app/profile/tvdeyen.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:twan63xxjg47gyqvcczsvijc/bafkreicqgbzgk7rmhyh2xfwe4htgw5t3x4y3to4t3tsbkp7xtnmoaiklde"
+			},
+			"date": "2026-08-18T12:31:58.931Z",
+			"content": "<p>Not an aversion per se. DOM ids are not for free (ie. every ID is a global JS var). It's probably not a big deal nowadays  But old habits ;)</p>\n<p>It's mostly the cost for migrating to web awesome that holds us back. Small open source team. The churn will be huge and not much benefit tbh</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mteaqxzovk2d",
+			"parentId": "at://did:plc:twan63xxjg47gyqvcczsvijc/app.bsky.feed.post/3mte7wleswc7d",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mteaqxzovk2d",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-08-18T12:46:44.613Z",
+			"content": "<p>Not sure how you feel about agents but lots of folks have reported success with the prompt to help migrate. Hope it eases your burden when you decide to upgrade :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:twan63xxjg47gyqvcczsvijc/app.bsky.feed.post/3mteqrdabwlq6",
+			"parentId": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mteaqxzovk2d",
+			"url": "https://bsky.app/profile/tvdeyen.bsky.social/post/3mteqrdabwlq6",
+			"author": {
+				"name": "TvD 🔊",
+				"url": "https://bsky.app/profile/tvdeyen.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:twan63xxjg47gyqvcczsvijc/bafkreicqgbzgk7rmhyh2xfwe4htgw5t3x4y3to4t3tsbkp7xtnmoaiklde"
+			},
+			"date": "2026-08-18T17:33:16.233Z",
+			"content": "<p>Sure. Will absolutely use an agent for this.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 6,
+		"reposts": 1,
+		"comments": 1,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

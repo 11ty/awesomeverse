@@ -1,0 +1,24 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:efvvarkgaffjga4qy5pdicli/app.bsky.feed.post/3lbfkqcqr2c2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/niika.online/post/3lbfkqcqr2c2o",
+			"author": {
+				"name": "Niika",
+				"url": "https://bsky.app/profile/niika.online",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:efvvarkgaffjga4qy5pdicli/bafkreibh3h2kxmohef5zazja5grwrwruz62thzory6g6vmidlr7juqjlzm"
+			},
+			"date": "2024-11-20T18:18:18.070Z",
+			"content": "<p>That's awesome! 🔥</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 10,
+		"reposts": 1,
+		"comments": 1,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

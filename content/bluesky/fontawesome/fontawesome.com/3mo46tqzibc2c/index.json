@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3modrjp3rqk2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3modrjp3rqk2k",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-06-15T17:08:16.094Z",
+			"content": "<p>\"All capability and no character is just a supervillain.\"</p>\n<p>Dave said that, and we beat this drum over and over: character has to come before the capability. Both for people and for how we adopt tools.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

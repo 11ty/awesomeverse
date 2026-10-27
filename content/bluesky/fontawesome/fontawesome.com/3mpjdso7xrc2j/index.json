@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mplxhnmq3c2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mplxhnmq3c2r",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-07-01T16:40:59.434Z",
+			"content": "<p>Josh's framing on AI: \"Designers are realizing they're not totally at the mercy of someone more technical than them. The cost of experimentation is a lot lower.\"</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mpojdcdsgk2n",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mpojdcdsgk2n",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-07-02T17:06:00.215Z",
+			"content": "<p>Josh's framing on AI: \"Designers are realizing they're not totally at the mercy of someone more technical than them. The cost of experimentation is a lot lower.\"</p>\n<p>He's not wide-eyed about it, just noticing that maybe tinkerer culture is back. Which feels right.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}

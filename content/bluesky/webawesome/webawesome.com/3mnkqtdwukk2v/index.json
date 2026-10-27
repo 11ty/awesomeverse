@@ -1,0 +1,63 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mnks4nahcc2e",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/zachleat.com/post/3mnks4nahcc2e",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-06-05T18:42:18.230Z",
+			"content": "<p>ILLEGAL: you can’t just drop SSR support as a little line item at the end!!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mnkxfgan6k2t",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mnks4nahcc2e",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3mnkxfgan6k2t",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-06-05T20:16:41.595Z",
+			"content": "<p>but Zach, no one does that ancient SSR technique anymore. Legend has it, its secret are hidden in ancient texts. CSR is where its at ;)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mnkxnfpa3s2b",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3mnkxfgan6k2t",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mnkxnfpa3s2b",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-06-05T20:21:09.459Z",
+			"content": "<p>the power of HTML compels you! *hydration holy water*</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uocu7waljw6y5e474k26n7ve/app.bsky.feed.post/3mo3pteykb22s",
+			"parentId": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mnks4nahcc2e",
+			"url": "https://bsky.app/profile/webawesome.com/post/3mo3pteykb22s",
+			"author": {
+				"name": "Web Awesome",
+				"url": "https://bsky.app/profile/webawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uocu7waljw6y5e474k26n7ve/bafkreifmutcbbb4zymyndqeiv2itph3pm7e7zxaagnxxgxq6giateydjby"
+			},
+			"date": "2026-06-12T12:16:35.661Z",
+			"content": "<p>Date Picker &gt; SSR</p>\n<p>change my mind</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 9,
+		"reposts": 3,
+		"comments": 1,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

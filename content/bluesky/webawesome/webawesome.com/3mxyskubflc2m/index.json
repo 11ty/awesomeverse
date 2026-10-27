@@ -1,0 +1,181 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:z5uakvhfrevmlxmxlyiap6u5/app.bsky.feed.post/3my2bdvf4h22g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/iamallyniam.bsky.social/post/3my2bdvf4h22g",
+			"private": true,
+			"date": "2026-10-17T04:36:40.132Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3my2oizhw4k2i",
+			"parentId": "at://did:plc:z5uakvhfrevmlxmxlyiap6u5/app.bsky.feed.post/3my2bdvf4h22g",
+			"url": "https://bsky.app/profile/engelman.nl/post/3my2oizhw4k2i",
+			"author": {
+				"name": "Danny Engelman 🌷🏍️🛥️",
+				"url": "https://bsky.app/profile/engelman.nl",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:prsjlcqmyr3unqje5g6gzbxw/bafkreicmgiut2fprnqwxl77xndpf3jcrftazwaurgpy7lqotoz7b46qjne"
+			},
+			"date": "2026-10-17T08:32:10.833Z",
+			"content": "<p>DSD - Declarative ShadowDOM is handled by the Browser</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z5uakvhfrevmlxmxlyiap6u5/app.bsky.feed.post/3my2xvk3o522w",
+			"parentId": "at://did:plc:prsjlcqmyr3unqje5g6gzbxw/app.bsky.feed.post/3my2oizhw4k2i",
+			"url": "https://bsky.app/profile/iamallyniam.bsky.social/post/3my2xvk3o522w",
+			"private": true,
+			"date": "2026-10-17T11:20:14.587Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3my3ufa36c22j",
+			"parentId": "at://did:plc:z5uakvhfrevmlxmxlyiap6u5/app.bsky.feed.post/3my2xvk3o522w",
+			"url": "https://bsky.app/profile/stuffbreaker.bsky.social/post/3my3ufa36c22j",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://bsky.app/profile/stuffbreaker.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pefubtxqc5svtvsds725qgx3/bafkreiflfqfme6bk7akho6uhsi3bnjxrwgoh3gkb6lisi7lg4vhxjqaxzy"
+			},
+			"date": "2026-10-17T19:50:05.727Z",
+			"content": "<p>What's the use case for using DSD in a Nuxtjs app?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z5uakvhfrevmlxmxlyiap6u5/app.bsky.feed.post/3my4znlhmhc2l",
+			"parentId": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3my3ufa36c22j",
+			"url": "https://bsky.app/profile/iamallyniam.bsky.social/post/3my4znlhmhc2l",
+			"private": true,
+			"date": "2026-10-18T06:56:54.553Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3my5in6mwis2j",
+			"parentId": "at://did:plc:z5uakvhfrevmlxmxlyiap6u5/app.bsky.feed.post/3my4znlhmhc2l",
+			"url": "https://bsky.app/profile/stuffbreaker.bsky.social/post/3my5in6mwis2j",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://bsky.app/profile/stuffbreaker.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pefubtxqc5svtvsds725qgx3/bafkreiflfqfme6bk7akho6uhsi3bnjxrwgoh3gkb6lisi7lg4vhxjqaxzy"
+			},
+			"date": "2026-10-18T11:25:07.219Z",
+			"content": "<p>Why do you need a shadow DOM in a Vuejs template? Nuxt has SSR and Vuejs already has slots and style encapsulation (although not as strict as a shadow DOM).</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3my5j74i7is2e",
+			"parentId": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3my5in6mwis2j",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3my5j74i7is2e",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-10-18T11:35:08.951Z",
+			"content": "<p>They said NextJS not Nuxt 😅</p>\n<p>And I dont think they implied writing the shadom dom directly. They're saying if they use a library of web components that can be SSR'ed (like Web Awesome) NextJS' Lit adapter only renders \"Shallowly\" without the shadow dom, and produces hydration errors in some cases.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z5uakvhfrevmlxmxlyiap6u5/app.bsky.feed.post/3my5pnyd3d223",
+			"parentId": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3my5in6mwis2j",
+			"url": "https://bsky.app/profile/iamallyniam.bsky.social/post/3my5pnyd3d223",
+			"private": true,
+			"date": "2026-10-18T13:30:50.356Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3my5pxs4v7k27",
+			"parentId": "at://did:plc:z5uakvhfrevmlxmxlyiap6u5/app.bsky.feed.post/3my5pnyd3d223",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3my5pxs4v7k27",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-10-18T13:36:19.406Z",
+			"content": "<p>I modified the Astro SSR + DSD adapter one and fixed some bugs and it works with the latest version of Astro:</p>\n<p><a href=\"https://github.com/shoelace-style/astro-lit\">github.com/shoelace-sty...</a></p>\n<p>I have a PR to Nuxt to upgrade to latest version of Lit that has languished:</p>\n<p><a href=\"https://github.com/prashantpalikhe/nuxt-ssr-lit/pull/187\">github.com/prashantpali...</a></p>\n<p>(and looks like other PRs have improved on my PR)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3my5q32xxjc27",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3my5pxs4v7k27",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3my5q32xxjc27",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-10-18T13:38:09.345Z",
+			"content": "<p>I have a small example using Vue + Vite:</p>\n<p><a href=\"https://github.com/KonnorRogers/webawesome-vite-vue-ssr\">github.com/KonnorRogers...</a></p>\n<p>Svelte is probably next on my list to look at.</p>\n<p>NextJS seems like the odd one out for SSR, mostly because theres no real hooks into it, and last I heard talks stalled with the Next team and the Lit team.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3my5vvvoius2j",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3my5j74i7is2e",
+			"url": "https://bsky.app/profile/stuffbreaker.bsky.social/post/3my5vvvoius2j",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://bsky.app/profile/stuffbreaker.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pefubtxqc5svtvsds725qgx3/bafkreiflfqfme6bk7akho6uhsi3bnjxrwgoh3gkb6lisi7lg4vhxjqaxzy"
+			},
+			"date": "2026-10-18T15:22:38.472Z",
+			"content": "<p>🤦‍♂️ I guess I read want I wanted to see. Sorry about that.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3my5yc4pfdc2j",
+			"parentId": "at://did:plc:z5uakvhfrevmlxmxlyiap6u5/app.bsky.feed.post/3my5pnyd3d223",
+			"url": "https://bsky.app/profile/stuffbreaker.bsky.social/post/3my5yc4pfdc2j",
+			"author": {
+				"name": "Burton Smith",
+				"url": "https://bsky.app/profile/stuffbreaker.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pefubtxqc5svtvsds725qgx3/bafkreiflfqfme6bk7akho6uhsi3bnjxrwgoh3gkb6lisi7lg4vhxjqaxzy"
+			},
+			"date": "2026-10-18T16:05:15.978Z",
+			"content": "<p>Sorry, I misread that.</p>\n<p>I agree. I'm not a big fan of the framework-specific solutions and would prefer a standards-based solution.</p>\n<p>I was hoping Declarative Custom Elements could help in this area.</p>\n<p><a href=\"https://dev.to/stuffbreaker/how-declarative-custom-elements-dce-could-improve-web-components-53eg\">dev.to/stuffbreaker...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3my5yugfu4k2w",
+			"parentId": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3my5vvvoius2j",
+			"url": "https://bsky.app/profile/konnorrogers.com/post/3my5yugfu4k2w",
+			"author": {
+				"name": "Konnor Rogers",
+				"url": "https://bsky.app/profile/konnorrogers.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:wlv2lek2tmwsfpob3r4mix7y/bafkreihcn5u3o5m6hmxjcmhzv2v3s6rltvslkcmxs2zlxi4rp6s77kybtm"
+			},
+			"date": "2026-10-18T16:15:30.131Z",
+			"content": "<p>happens to the best of us 😅</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z5uakvhfrevmlxmxlyiap6u5/app.bsky.feed.post/3my665zjmbs2b",
+			"parentId": "at://did:plc:pefubtxqc5svtvsds725qgx3/app.bsky.feed.post/3my5vvvoius2j",
+			"url": "https://bsky.app/profile/iamallyniam.bsky.social/post/3my665zjmbs2b",
+			"private": true,
+			"date": "2026-10-18T17:50:20.876Z",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mya6tcx2xc23",
+			"parentId": "at://did:plc:wlv2lek2tmwsfpob3r4mix7y/app.bsky.feed.post/3my5j74i7is2e",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mya6tcx2xc23",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-10-19T13:07:34.874Z",
+			"content": "<p>It's tough when the metaframework ignores web standards.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 17,
+		"reposts": 4,
+		"comments": 1,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

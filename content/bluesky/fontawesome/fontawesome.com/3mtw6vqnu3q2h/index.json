@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mu3lqkw5lc2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mu3lqkw5lc2b",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-08-27T19:34:36.010Z",
+			"content": "<p>Reminder: the Icon Wizard Contest closes September 7. Build something with the Wizard, submit it to the gallery, and it might end up featured. Gallery entries need a paid plan, but anyone can go play with the tool.<br>\n<a href=\"https://fontawesome.com/icons/gallery\">fontawesome.com/icons/gallery</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

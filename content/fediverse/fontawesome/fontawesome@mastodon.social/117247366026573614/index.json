@@ -1,0 +1,24 @@
+{
+	"comments": [
+		{
+			"id": "117253295213557233",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117253295213557233",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-09-11T16:14:58.542Z",
+			"content": "<p>Did you know that Norm Cox designed the original 3-line icon at Xerox PARC in 1981? He didn&#39;t find out it was nicknamed &quot;hamburger&quot; until a reporter called him in 2013 more than 30 years later. Ahmazing.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 9,
+		"reposts": 2,
+		"comments": 1,
+		"quotes": 1,
+		"via": "fediverse"
+	}
+}

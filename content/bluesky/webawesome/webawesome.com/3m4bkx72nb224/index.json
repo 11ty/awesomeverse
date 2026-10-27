@@ -1,0 +1,24 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:w4v2my4w422ftrfuctzsabcm/app.bsky.feed.post/3m4btrsdufs2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dombarnes.com/post/3m4btrsdufs2y",
+			"author": {
+				"name": "Dom Barnes",
+				"url": "https://bsky.app/profile/dombarnes.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:w4v2my4w422ftrfuctzsabcm/bafkreifqflqlsna7osqt7qi5orr2mucr2k5ub4bzc5vgvoyxdvybphd4ie"
+			},
+			"date": "2025-10-28T21:09:46.649Z",
+			"content": "<p>Just spotted a minor bug on the homepage. <br>\nThese definitely put the few WC’s<br>\nI’ve made to shame!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 56,
+		"reposts": 15,
+		"comments": 1,
+		"quotes": 2,
+		"via": "bluesky"
+	}
+}

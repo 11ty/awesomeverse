@@ -1,0 +1,154 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:yoroinvjkhyhs42euk3svijr/app.bsky.feed.post/3mg7jrcorhk2x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/armornick.bsky.social/post/3mg7jrcorhk2x",
+			"author": {
+				"name": "armornick 🏳️‍🌈🏳️‍⚧️",
+				"url": "https://bsky.app/profile/armornick.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yoroinvjkhyhs42euk3svijr/bafkreidghajwrefnqh5jfntj4f6hwpk55jig6ayj3czfqmt6xjfupipjou"
+			},
+			"date": "2026-03-04T05:17:09.614Z",
+			"content": "<p>Will this mean I will have to register for an account to use 11ty?</p>\n<p>I'm not very happy with how Web Awesome turned out.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3mgaiyjjums2b",
+			"parentId": "at://did:plc:yoroinvjkhyhs42euk3svijr/app.bsky.feed.post/3mg7jrcorhk2x",
+			"url": "https://bsky.app/profile/11ty.dev/post/3mgaiyjjums2b",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2026-03-04T14:35:57.671Z",
+			"content": "<p>No, absolutely not. Build Awesome will continue to be free and open source!</p>\n<p>Also happy to take feedback on how you think Web Awesome could improve! I know a few folks over there on that team 😀</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:yoroinvjkhyhs42euk3svijr/app.bsky.feed.post/3mgapyaooe22x",
+			"parentId": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3mgaiyjjums2b",
+			"url": "https://bsky.app/profile/armornick.bsky.social/post/3mgapyaooe22x",
+			"author": {
+				"name": "armornick 🏳️‍🌈🏳️‍⚧️",
+				"url": "https://bsky.app/profile/armornick.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:yoroinvjkhyhs42euk3svijr/bafkreidghajwrefnqh5jfntj4f6hwpk55jig6ayj3czfqmt6xjfupipjou"
+			},
+			"date": "2026-03-04T16:41:04.585Z",
+			"content": "<p>My main feedback is that I don't like having to register for an account just to use a web component library.</p>\n<p>I know it's technically not required, but they hide the alternative instructions away in the documentation.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3mgaq4b7vfk2b",
+			"parentId": "at://did:plc:yoroinvjkhyhs42euk3svijr/app.bsky.feed.post/3mgapyaooe22x",
+			"url": "https://bsky.app/profile/11ty.dev/post/3mgaq4b7vfk2b",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://bsky.app/profile/11ty.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+			},
+			"date": "2026-03-04T16:43:19.367Z",
+			"content": "<p>a ha, yeah I see what you mean. All of the “Get Started” CTAs take you to account login. I’ll pass that along!</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mgarpipmbc26",
+			"parentId": "at://did:plc:yoroinvjkhyhs42euk3svijr/app.bsky.feed.post/3mgapyaooe22x",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mgarpipmbc26",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-03-04T17:11:58.498Z",
+			"content": "<p>Heard. Thanks for the feedback</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gilu7o4lu2uhhh2sztjeo47i/app.bsky.feed.post/3mgatzphw6c27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/g12n.de/post/3mgatzphw6c27",
+			"author": {
+				"name": "Michael G",
+				"url": "https://bsky.app/profile/g12n.de",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gilu7o4lu2uhhh2sztjeo47i/bafkreiduwoybgec263zc4ti4226xdjt25gw5ooorl34kh36rqg6lzhrytm"
+			},
+			"date": "2026-03-04T17:53:28.614Z",
+			"content": "<p>Will this be powered by an updated version of webc? Or special tags/attributes in any of the given template languages?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mgdi5ngx4s2f",
+			"parentId": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mgarpipmbc26",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mgdi5ngx4s2f",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-03-05T18:58:55.015Z",
+			"content": "<p>Update: we are fixing this. The current process doesn't reflect our commitment to open source software and will be changed very soon.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mgdi6pi4nc2f",
+			"parentId": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mgdi5ngx4s2f",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mgdi6pi4nc2f",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-03-05T18:58:55.016Z",
+			"content": "<p>We are not a big corporation. We are a team of ~20 people working on open source projects. We do it for a living, and we're only able to do it for a living *because* of our optional pro offerings.</p>\n<p>But it's clear we got carried away, which admittedly doesn't feel great. Thanks for speaking out.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mgdiapalks2i",
+			"parentId": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mgarpipmbc26",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mgdiapalks2i",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-03-05T19:00:37.568Z",
+			"content": "<p>Update: we are fixing this. The current process doesn't reflect our commitment to open source software and will be changed very soon.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mgdiapikh22i",
+			"parentId": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mgdiapalks2i",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mgdiapikh22i",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-03-05T19:00:37.569Z",
+			"content": "<p>We are not a big corporation. We are a team of ~20 people working on open source projects. We do it for a living, and we're only able to do it for a living *because* of our optional pro offerings.</p>\n<p>But it's clear we got carried away, which admittedly doesn't feel great. Thank you for speaking out.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mkajw6hmms2e",
+			"parentId": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mgdi6pi4nc2f",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mkajw6hmms2e",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-04-24T12:33:19.208Z",
+			"content": "<p>Just wanted to circle back. It's as simple as copy and paste again. <a href=\"https://webawesome.com/\">webawesome.com</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 20,
+		"reposts": 2,
+		"comments": 2,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

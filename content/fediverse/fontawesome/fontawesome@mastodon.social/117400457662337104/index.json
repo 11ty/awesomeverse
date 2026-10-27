@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "117434538663331558",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117434538663331558",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-10-13T16:27:34.114Z",
+			"content": "<p>&quot;Snacktivities&quot; are bite-size projects small enough to finish during a Snuggle week and built on the stuff you can only really do in person. The Icon Wizard is one of those projects.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117475345488069956",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117475345488069956",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-10-20T21:25:16.843Z",
+			"content": "<p>Dave Gandy on why the meetup is called the Snuggle: it&#39;s such a ridiculous name that it has one great side effect. You have to tell the story. So we made an episode out of it.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

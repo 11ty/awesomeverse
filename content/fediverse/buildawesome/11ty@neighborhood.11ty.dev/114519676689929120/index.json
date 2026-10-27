@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "114519775794470283",
+			"parentId": 0,
+			"url": "https://mas.to/@psarant/114519775777498086",
+			"author": {
+				"name": "psarant",
+				"url": "https://mas.to/@psarant",
+				"avatarUrl": "https://neighborhood.11ty.dev/avatars/original/missing.png"
+			},
+			"date": "2025-05-16T22:05:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> This kind of wrinkles my brain a bit - static site, dynamic in my browser? Maybe I should put this in a React component.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114519997248426304",
+			"parentId": "114519775794470283",
+			"url": "https://neighborhood.11ty.dev/@11ty/114519997248426304",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-05-16T23:01:21.451Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@psarant\" class=\"u-url mention\">@<span>psarant</span></a></span> don’t you dare 😅</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 37,
+		"reposts": 18,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "116528112783677986",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@boostmarks/116528112744494615",
+			"author": {
+				"name": "Boris Schapira (Pro)",
+				"url": "https://hachyderm.io/@boostmarks",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/109/874/278/452/422/959/original/7d7d69aa45d4f37f.png"
+			},
+			"date": "2026-05-06T14:31:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span> Looks so promising 😻</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116528150832311618",
+			"parentId": 0,
+			"url": "https://toot.kif.rocks/@anathem/116528150775719143",
+			"author": {
+				"name": "Dave",
+				"url": "https://toot.kif.rocks/@anathem",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/000/254/968/original/0e399aecfe90958f.jpg"
+			},
+			"date": "2026-05-06T14:41:12.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span> Wait, with JS disabled? How? Can you point me to that info? (please not in a video...)</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 6,
+		"reposts": 4,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

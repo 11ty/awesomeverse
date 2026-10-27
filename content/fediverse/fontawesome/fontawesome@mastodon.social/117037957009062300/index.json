@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "117039836509115599",
+			"parentId": 0,
+			"url": "https://dotnet.social/@SmartmanApps/117039836386286608",
+			"author": {
+				"name": "💡𝚂𝗆𝖺𝗋𝗍𝗆𝖺𝗇 𝙰𝗉𝗉𝗌📱",
+				"url": "https://dotnet.social/@SmartmanApps",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/109/366/796/084/036/820/original/3813d1729e518974.jpg"
+			},
+			"date": "2026-08-04T23:29:35.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117049564394392976",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117049564394392976",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-08-06T16:43:32.948Z",
+			"content": "<p>Four ways to win: Most Useful, Most Creative, Best Remix, Funniest Icon. Pick your lane (or ignore the lanes entirely).</p><p>Want to show off your icon? Tag us!<br /><a href=\"https://fontawesome.com/icons/wizard\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fontawesome.com/icons/wizard</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 3,
+		"reposts": 1,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

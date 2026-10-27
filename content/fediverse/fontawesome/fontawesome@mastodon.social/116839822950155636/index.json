@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "116845692628741291",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/116845692628741291",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-07-01T16:36:16.682Z",
+			"content": "<p>Josh on the design monoculture question: &quot;Things have become homogenous for a while. I feel like we&#39;re in a place where maybe it&#39;ll break back out a little bit.&quot;</p><p>He traces this partly to AI lowering the cost of experimentation. Not in a hype way, but more like a tinkerer noticing the tools have changed.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116851445494293190",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/116851445494293190",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-07-02T16:59:18.444Z",
+			"content": "<p>The Mosaic icon style traces back to Josh&#39;s Uni Calendar letterpress project. It’s geometric, mid-century-ish, built on reusable shapes. A made-for-print aesthetic that got adapted for screen. Jory has all of them. Because of course he does.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

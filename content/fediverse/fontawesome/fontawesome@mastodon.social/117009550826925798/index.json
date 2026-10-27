@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "117032655716686684",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117032655716686684",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-08-03T17:03:27.003Z",
+			"content": "<p>Status code 418, &quot;I&#39;m a teapot,&quot; started as an April Fools&#39; joke in RFC 2324, published in 1998. When the IETF tried to remove it in 2017, the dev community built a whole movement to save it.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"reposts": 1,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mhvjibad5k2u",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mhvjibad5k2u",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-03-25T16:35:51.974Z",
+			"content": "<p>One especially nice detail: the color picker updates previews across search, categories, and kits, so you can see your icons in context without restyling them one by one.</p>\n<p>Watch → <a href=\"https://youtu.be/kdlj3-72f6Y?si=UNh2x60TbYfcyZnv\">youtu.be/kdlj3-72f6Y?...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3miemvgvhgk24",
+			"parentId": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mhvjibad5k2u",
+			"url": "https://bsky.app/profile/fontawesome.com/post/3miemvgvhgk24",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-03-31T16:46:51.419Z",
+			"content": "<p>Also, User Blender has big “this started as a fun side project and accidentally became super useful” energy, which is honestly one of my favorite categories of feature.</p>\n<p>Watch → <a href=\"https://youtu.be/kdlj3-72f6Y?si=EjNpcZOpKL_To68r\">youtu.be/kdlj3-72f6Y?...</a><br>\nListen → <a href=\"https://www.podcastawesome.com/2092855/episodes/18882462\">www.podcastawesome.com/2092855/epis...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

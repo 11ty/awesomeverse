@@ -1,0 +1,62 @@
+{
+	"comments": [
+		{
+			"id": "116578431988376077",
+			"parentId": 0,
+			"url": "https://yakshed.social/@moonglum/statuses/01KRNQEPBE0CJSZMTZ5XNBVJ9A",
+			"author": {
+				"name": "Lucas Dohmen",
+				"url": "https://yakshed.social/@moonglum",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/115/924/441/928/711/730/original/fdd3fd902912263f.jpeg"
+			},
+			"date": "2026-05-15T11:48:22.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span> <span class=\"h-card\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> Congrats ❤️<br><br>I‘m not sure what newsletter tools are 🤔 Is it something like a double-opt-in server component? Or something that creates the HTML email? 🤔 Both?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116579141891183698",
+			"parentId": "116578431988376077",
+			"url": "https://neighborhood.11ty.dev/@11ty/116579141239500408",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/114/399/930/291/095/220/original/67f485dcbebba755.png"
+			},
+			"date": "2026-05-15T14:48:45.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://yakshed.social/@moonglum\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>moonglum</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span> primarily the former 👍 but the goal is to be able to syndicate your content (same as the RSS Plugin currently does) to a list of email subscribers!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116579157751914724",
+			"parentId": "116579141891183698",
+			"url": "https://yakshed.social/@moonglum/statuses/01KRP20N4NMMEB9NJFB6PDHK10",
+			"author": {
+				"name": "Lucas Dohmen",
+				"url": "https://yakshed.social/@moonglum",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/115/924/441/928/711/730/original/fdd3fd902912263f.jpeg"
+			},
+			"date": "2026-05-15T14:52:56.000Z",
+			"content": "<p><span class=\"h-card\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span> Nice! Thanks for the heads up and keep up the great work ❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116579164245830506",
+			"parentId": "116579157751914724",
+			"url": "https://neighborhood.11ty.dev/@11ty/116579164226198874",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/114/399/930/291/095/220/original/67f485dcbebba755.png"
+			},
+			"date": "2026-05-15T14:54:36.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://yakshed.social/@moonglum\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>moonglum</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span> Thank you! 🙌</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 10,
+		"reposts": 2,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

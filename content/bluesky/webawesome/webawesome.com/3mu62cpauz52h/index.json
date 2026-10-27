@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mufct3prkk2h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mufct3prkk2h",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-08-31T16:21:34.442Z",
+			"content": "<p>Building an icon catalog isn't just \"pick some icons.\" It's:</p>\n<p>*Defining categories (actions, objects, navigation)<br>\n*Setting a grid and sizing system<br>\n*Naming and organizing consistently<br>\n*Version-controlling the whole library</p>\n<p>Skip a step and future-you pays for it.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 2,
+		"reposts": 1,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

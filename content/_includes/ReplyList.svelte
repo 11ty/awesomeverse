@@ -1,6 +1,7 @@
 <script>
 	import { getContext } from "svelte";
 	import ReplyList from "./ReplyList.svelte";
+	import { getAuthorIcon, isProductName } from "./sources.js";
 
 	let { replies, showSource = false, ownerUrls, startDate } = $props();
 	const { renderAuthors, readableDate, timeAfter } = getContext("functions");
@@ -16,8 +17,9 @@
 		<li class={["reply", `reply--${reply.via}`]}>
 			<div class={["reply-body", { post: isOwner(reply), [`post--${reply.via}`]: isOwner(reply) }]}>
 				<div class="reply-meta">
-					{#if reply.author?.avatarUrl}<img src={reply.author.avatarUrl} class="reply-avatar" width="24" height="24" alt="" loading="lazy" decoding="async">{/if}
-					{#if reply.author}<span class="reply-author">{@html renderAuthors([reply.author])}</span>{:else}<span class="reply-author">Private reply</span>{/if}
+					{#if getAuthorIcon(reply.author)}{@const authorIcon = getAuthorIcon(reply.author)}<span class={["author-icon", "reply-avatar", `author-icon--${authorIcon.key}`]}><i class={authorIcon.icon}></i></span>{#if isProductName(reply.author) && reply.author.url}<a href={reply.author.url} class={["author-product", `author-icon--${authorIcon.key}`]}>{authorIcon.label}</a>{:else}<span class={["author-product", `author-icon--${authorIcon.key}`]}>{authorIcon.label}</span>{/if}{/if}
+					{#if reply.author?.avatarUrl && !isProductName(reply.author)}<img src={reply.author.avatarUrl} class="reply-avatar" width="24" height="24" alt="" loading="lazy" decoding="async">{/if}
+					{#if reply.author && !isProductName(reply.author)}<span class="reply-author">{@html renderAuthors([reply.author])}</span>{:else if !reply.author}<span class="reply-author">Private reply</span>{/if}
 					{#if showSource}<span class={["post-source", `post-source--${reply.via}`]}>{sourceTitles[reply.via]}</span>{/if}
 					<a href={reply.url}><time datetime={reply.date} title={readableDate(new Date(reply.date))}>{timeAfter(new Date(reply.date), startDate)}</time></a>
 				</div>

@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:oqwbkzwqi4yh7grp4jx3lzl4/app.bsky.feed.post/3lwqbshgww22h",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/venty.cz/post/3lwqbshgww22h",
+			"author": {
+				"name": "VentyCZ",
+				"url": "https://bsky.app/profile/venty.cz",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:oqwbkzwqi4yh7grp4jx3lzl4/bafkreibuiupjolkprzfboekwc4yk5zznc2qw2bn54glfnfdoagvsqwpodu"
+			},
+			"date": "2025-08-19T06:26:47.728Z",
+			"content": "<p>Uhm, just FYI, icons page overflowing on mobile - that pesky version switcher 🙂</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

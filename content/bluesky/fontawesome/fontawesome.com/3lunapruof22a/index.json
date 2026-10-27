@@ -1,0 +1,24 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:hprtzzjohhdt7a6w3ixh542w/app.bsky.feed.post/3lusijd3e2k23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/professional.wiki/post/3lusijd3e2k23",
+			"author": {
+				"name": "Professional Wiki",
+				"url": "https://bsky.app/profile/professional.wiki",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:hprtzzjohhdt7a6w3ixh542w/bafkreiguxmra2ej7ac7qcttig7y36dmtk5jelvmd4ypszep7brkmi27wfa"
+			},
+			"date": "2025-07-25T16:41:53.578Z",
+			"content": "<p>Font Awesome 7 is now available for <a href=\"https://bsky.app/hashtag/MediaWiki\">#MediaWiki</a>!</p>\n<p>Get it via <a href=\"https://github.com/ProfessionalWiki/FontAwesome?tab=readme-ov-file#fontawesome\">github.com/Professional...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 29,
+		"reposts": 7,
+		"comments": 1,
+		"quotes": 3,
+		"via": "bluesky"
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mlptc5n6zk2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3mlptc5n6zk2b",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-05-13T07:56:12.374Z",
+			"content": "<p>Regarding Collaborative Editing - for me, the holy grail would be something functionally equivalent to edditing a <a href=\"https://bsky.app/profile/did:plc:qty4biw6z4mvmhgcz4xauutk\">@notion.com</a> database in table view.</p>\n<p>Structured properties (eg not just strings but an array of enumerated values, int, …) over multiple Files (YAML headers) or API based CMS or a mix.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mlpu44c3vc2b",
+			"parentId": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mlptc5n6zk2b",
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3mlpu44c3vc2b",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-05-13T08:10:43.377Z",
+			"content": "<p>Is that a level of complexity and interactivity covered in the vision of collaborative editing?</p>\n<p>Or: How far into the netlify Create, <a href=\"https://builder.io\">builder.io</a>, DXP space are looking to go considering the data cascade can pull data from any API and editing would be „just another function call“</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xpchjovbk6sxl3bv74z7cs54/app.bsky.feed.post/3mltrcj6sds2g",
+			"parentId": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mlpu44c3vc2b",
+			"url": "https://bsky.app/profile/zachleat.com/post/3mltrcj6sds2g",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://bsky.app/profile/zachleat.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpchjovbk6sxl3bv74z7cs54/bafkreie4yypxcxrte6shppdo6glzt7gtmueprazp3xndeksuw2uid2ecfm"
+			},
+			"date": "2026-05-14T21:31:15.956Z",
+			"content": "<p>I would say that level of schema-driven data is definitely in scope! You’ll continue to be able to mix in data from any data source you’d like but all local-repo data will have the option to be schema driven!</p>\n<p>Likely some overlap with this feature <a href=\"https://www.11ty.dev/docs/data-validate/\">www.11ty.dev/docs/data-va...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 5,
+		"reposts": 2,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

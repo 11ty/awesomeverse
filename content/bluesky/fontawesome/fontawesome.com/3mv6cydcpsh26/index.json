@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mvaxdlauhk27",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mvaxdlauhk27",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-09-11T16:10:35.374Z",
+			"content": "<p>The guy who invented it, Norm Cox, didn't even know it was called a \"hamburger icon\" until someone called to interview him about it in 2013. He'd been sitting on one of the most-used UI symbols in the world without even knowing its nickname. 🤣</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

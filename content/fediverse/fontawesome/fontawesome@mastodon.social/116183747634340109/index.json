@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "116184770482014698",
+			"parentId": 0,
+			"url": "https://indieweb.social/@bobmonsour/116184770448464040",
+			"author": {
+				"name": "Bob Monsour",
+				"url": "https://indieweb.social/@bobmonsour",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/109/407/072/213/736/256/original/95238c0f9123d4a6.png"
+			},
+			"date": "2026-03-06T23:15:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> We'll wait here while you sort it out. Looking forward to the relaunch. Just a blip in the scheme of things.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 4,
+		"reposts": 2,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

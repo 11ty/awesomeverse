@@ -1,0 +1,43 @@
+{
+	"comments": [
+		{
+			"id": "117090727780368072",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117090727780368072",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-08-13T23:11:56.378Z",
+			"content": "<p>The beach ball&#39;s direct ancestor is a monochrome icon on NeXT computers representing a spinning magneto-optical disc, circa 1988. NeXT flopped. Apple acquired it in 1996. The icon survived and eventually got a rainbow Aqua makeover.</p><p><a href=\"https://mastodon.social/tags/NeXT\" class=\"mention hashtag\" rel=\"tag\">#<span>NeXT</span></a> <a href=\"https://mastodon.social/tags/SteveJobs\" class=\"mention hashtag\" rel=\"tag\">#<span>SteveJobs</span></a> <a href=\"https://mastodon.social/tags/DesignHistory\" class=\"mention hashtag\" rel=\"tag\">#<span>DesignHistory</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117091158497381591",
+			"parentId": "117090727780368072",
+			"url": "https://mastodon.social/@andrewabernathy/117091158497381591",
+			"private": true,
+			"date": "2026-08-14T01:01:28.601Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "117111758520554076",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117111758520554076",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-08-17T16:20:20.010Z",
+			"content": "<p>Also covered in this episode: the many aliases for the beach ball, including SBBOD, SPOD, marble of doom, and (our genuine favorite) &quot;bun of death,&quot; coined after someone spotted it on a bakery sign in Vienna.</p><p><a href=\"https://mastodon.social/tags/DesignNerdery\" class=\"mention hashtag\" rel=\"tag\">#<span>DesignNerdery</span></a> <a href=\"https://mastodon.social/tags/PodcastAwesome\" class=\"mention hashtag\" rel=\"tag\">#<span>PodcastAwesome</span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

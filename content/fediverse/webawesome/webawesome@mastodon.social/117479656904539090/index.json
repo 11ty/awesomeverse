@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "117479657721789166",
+			"parentId": 0,
+			"url": "https://mastodon.social/@webawesome/117479657721789166",
+			"author": {
+				"name": "Web Awesome",
+				"url": "https://mastodon.social/@webawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/115/270/996/054/162/025/original/9337c79b15adc441.jpg"
+			},
+			"date": "2026-10-21T15:41:56.309Z",
+			"content": "<p>Docs: <a href=\"https://webawesome.com/docs/ai/agent-skills\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">webawesome.com/docs/ai/agent-s</span><span class=\"invisible\">kills</span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

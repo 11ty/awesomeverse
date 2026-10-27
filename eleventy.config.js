@@ -6,6 +6,7 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import eleventySvelte from "@11ty/eleventy-plugin-svelte";
 import fontAwesomePlugin from "@11ty/font-awesome";
 import { getComments, getCounts, resolveAssetUrl } from "./content/_includes/replies.js";
+import { brands, getBrand } from "./content/_includes/sources.js";
 
 function cleanCustomEmoji(str) {
 	return str.replaceAll(/\:[^:]*\:/g, "").trim();
@@ -13,7 +14,8 @@ function cleanCustomEmoji(str) {
 
 function renderAuthors(authors) {
 	return (authors || []).map(author => {
-		return `<a href="${author.url}">${cleanCustomEmoji(author.name)}</a>`
+		let name = cleanCustomEmoji(author.name);
+		return author.url ? `<a href="${author.url}">${name}</a>` : name;
 	}).join(" ");
 }
 
@@ -21,13 +23,16 @@ const CROSSPOST_WINDOW = 24 * 60 * 60 * 1000;
 // Share of words two posts need in common to count as a cross-post
 const CROSSPOST_SIMILARITY = .8;
 const CROSSPOST_MIN_WORDS = 5;
-const SOURCE_PAGE_SIZE = 50;
+// Posts published this close together only need similar text, including link text
+const CROSSPOST_SIMULTANEOUS = 60 * 1000;
+const SOURCE_PAGE_SIZE = 100;
 
-// Post words without links, URLs, markup, or punctuation
-function getCrosspostWords(rawInput = "") {
+// Post words without links (or just their URLs), markup, or punctuation
+function getCrosspostWords(rawInput = "", keepLinkText = false) {
 	return rawInput
 		.replace(/!\[[^\]]*\]\([^)]*\)/g, " ")
-		.replace(/\[([^\]]*)\]\([^)]*\)/g, " ")
+		.replace(/\[([^\]]*)\]\([^)]*\)/g, keepLinkText ? " $1 " : " ")
+		.replace(/\.bsky\.social\b/g, "")
 		.replace(/<[^>]+>/g, " ")
 		.replace(/\\(.)/g, "$1")
 		.replace(/https?:\/\/\S+/g, " ")
@@ -53,7 +58,10 @@ function getWordSimilarity(a, b) {
 	return 2 * shared / (a.length + b.length);
 }
 
-function isCrosspost(a, b) {
+function isCrosspost(a, b, gap) {
+	if(gap < CROSSPOST_SIMULTANEOUS && getWordSimilarity(a.linkWords, b.linkWords) >= CROSSPOST_SIMILARITY) {
+		return true;
+	}
 	if(a.key === b.key) {
 		return a.key.length >= 20;
 	}
@@ -66,9 +74,9 @@ function getPostGroups(items) {
 	let recent = [];
 	for(let item of [...items].sort((a, b) => a.date - b.date)) {
 		let words = getCrosspostWords(item.page.rawInput);
-		let text = { words, key: words.join("") };
+		let text = { words, key: words.join(""), linkWords: getCrosspostWords(item.page.rawInput, true) };
 		recent = recent.filter(group => item.date - group.posts[0].date < CROSSPOST_WINDOW);
-		let group = recent.find(group => !group.posts.some(p => p.data.metadata.type === item.data.metadata.type) && isCrosspost(group.text, text));
+		let group = recent.find(group => !group.posts.some(p => p.data.metadata.type === item.data.metadata.type) && isCrosspost(group.text, text, item.date - group.posts[0].date));
 		if(group) {
 			group.posts.push(item);
 		} else {
@@ -150,23 +158,35 @@ export default function(eleventyConfig) {
 		}
 		return statsByGroups.get(groups);
 	});
-	// Post groups per UTC year, including years without posts
+	// Post groups per brand for the last few UTC months, including months without posts, with how many include a source type
 	let activityByGroups = new WeakMap();
-	eleventyConfig.addFilter("getActivity", groups => {
+	eleventyConfig.addFilter("getActivity", (groups, type, monthCount = 22) => {
 		if(!activityByGroups.has(groups)) {
-			let counts = Map.groupBy(groups, group => group.date.getUTCFullYear());
-			let first = Math.min(...counts.keys());
-			let last = Math.max(...counts.keys());
-			let years = Array.from({ length: last - first + 1 }, (_, index) => ({ year: first + index, count: counts.get(first + index)?.length || 0 }));
-			activityByGroups.set(groups, { years, max: Math.max(...years.map(({ count }) => count)), total: groups.length });
+			activityByGroups.set(groups, new Map());
 		}
-		return activityByGroups.get(groups);
+		let cache = activityByGroups.get(groups);
+		if(!cache.has(type)) {
+			let monthIndex = date => date.getUTCFullYear() * 12 + date.getUTCMonth();
+			let last = Math.max(...groups.map(group => monthIndex(group.date)));
+			let first = last - monthCount + 1;
+			let counts = Map.groupBy(groups.filter(group => monthIndex(group.date) >= first), group => `${monthIndex(group.date)}:${getBrand(group.posts[0])?.key}`);
+			let months = Array.from({ length: monthCount }, (_, index) => {
+				let date = new Date(Date.UTC(Math.floor((first + index) / 12), (first + index) % 12));
+				let segments = brands.map(brand => {
+					let matches = counts.get(`${first + index}:${brand.key}`) || [];
+					return { ...brand, count: matches.length, typeCount: type ? matches.filter(group => group.posts.some(post => post.data.metadata.type === type)).length : matches.length };
+				});
+				return { date, segments, count: segments.reduce((sum, { count }) => sum + count, 0) };
+			});
+			cache.set(type, { months, max: Math.max(...months.map(({ count }) => count)), total: months.reduce((sum, { count }) => sum + count, 0) });
+		}
+		return cache.get(type);
 	});
-	// Groups with the most likes, reposts, quotes, and replies
+	// Groups with the most likes, reposts, quotes, Hacker News points and comments, and replies
 	eleventyConfig.addFilter("getPopularGroups", (groups, limit) => {
 		let score = group => {
-			let { likes, reposts, quotes } = getCounts(group.posts);
-			return likes + reposts + quotes + getComments(group.posts).length;
+			let { likes, reposts, quotes, points, comments } = getCounts(group.posts);
+			return likes + reposts + quotes + points + comments + getComments(group.posts).length;
 		};
 		return groups.map(group => ({ group, score: score(group) })).sort((a, b) => b.score - a.score).slice(0, limit).map(({ group }) => group);
 	});
@@ -193,6 +213,12 @@ export default function(eleventyConfig) {
 	eleventyConfig.addPlugin(eleventySvelte);
 	eleventyConfig.addPlugin(fontAwesomePlugin);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
+	// Vendored from FortAwesome/awesome-nav@3b61c4f (not yet on npm)
+	eleventyConfig.addPassthroughCopy({ "vendor/awesome-nav": "awesome-nav" });
+	eleventyConfig.addPassthroughCopy({
+		"node_modules/@zachleat/solar-eclipse-toggle/solar-eclipse-toggle.js": "solar-eclipse-toggle/solar-eclipse-toggle.js",
+		"node_modules/@zachleat/solar-eclipse-toggle/solar-eclipse-toggle.css": "solar-eclipse-toggle/solar-eclipse-toggle.css",
+	});
 	eleventyConfig.setServerOptions({ port: 8347 });
 	eleventyConfig.addGlobalData("buildTime", () => new Date());
 	eleventyConfig.addFilter("renderAuthors", renderAuthors);
@@ -271,11 +297,21 @@ export default function(eleventyConfig) {
 			node.attrs["eleventy:ignore"] = "";
 			return node;
 		});
+		tree.match({ tag: "video" }, node => {
+			node.attrs = { loading: "lazy", muted: "", autoplay: "", ...node.attrs };
+			return node;
+		});
 		return tree;
 	});
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		formats: ["passthrough"],
 		urlPath: "/img/",
+		defaultAttributes: {
+			alt: "",
+		},
+		sharpOptions: {
+			animated: true,
+		},
 	});
 
 	eleventyConfig.on("eleventy.after", async ({ results }) => {

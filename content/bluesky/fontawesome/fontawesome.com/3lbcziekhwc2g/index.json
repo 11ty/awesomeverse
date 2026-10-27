@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:g3fnczx6tykvzf3sfwbx7xi4/app.bsky.feed.post/3mm4zdc5g422r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/novafuture.bsky.social/post/3mm4zdc5g422r",
+			"author": {
+				"name": "NovaFuture",
+				"url": "https://bsky.app/profile/novafuture.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:g3fnczx6tykvzf3sfwbx7xi4/bafkreiesm6ddhqbo3437s5o2shr7hcnhfvpvzcvdji6rs6cl4muwrlxpzu"
+			},
+			"date": "2026-05-18T13:48:49.705Z",
+			"content": "<p>Community-driven development helps create smarter and more accessible solutions for the future</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 2,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

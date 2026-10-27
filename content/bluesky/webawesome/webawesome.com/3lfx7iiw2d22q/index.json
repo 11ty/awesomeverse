@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:xicfw3ifvtpxrhahjibuaqvk/app.bsky.feed.post/3lfxab2trdk23",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/eetezadi.com/post/3lfxab2trdk23",
+			"author": {
+				"name": "Sina Sebastian Eetezadi",
+				"url": "https://bsky.app/profile/eetezadi.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xicfw3ifvtpxrhahjibuaqvk/bafkreiakeg7uxl6zqh2zbq3qgxcixg7jhl4xxouj34qzr27lqor4pkacfa"
+			},
+			"date": "2025-01-17T16:39:30.847Z",
+			"content": "<p>Most important, please fix small bugs in all components. Make sure all attributes work.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:uocu7waljw6y5e474k26n7ve/app.bsky.feed.post/3lfxafxhs422m",
+			"parentId": "at://did:plc:xicfw3ifvtpxrhahjibuaqvk/app.bsky.feed.post/3lfxab2trdk23",
+			"url": "https://bsky.app/profile/webawesome.com/post/3lfxafxhs422m",
+			"author": {
+				"name": "Web Awesome",
+				"url": "https://bsky.app/profile/webawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uocu7waljw6y5e474k26n7ve/bafkreifmutcbbb4zymyndqeiv2itph3pm7e7zxaagnxxgxq6giateydjby"
+			},
+			"date": "2025-01-17T16:42:15.080Z",
+			"content": "<p>Our next release will include a lot of QoL improvements and several bugfixes! :) Is there any bug in particular you would like to draw our attention to?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:xicfw3ifvtpxrhahjibuaqvk/app.bsky.feed.post/3lfxaytb6bs23",
+			"parentId": "at://did:plc:uocu7waljw6y5e474k26n7ve/app.bsky.feed.post/3lfxafxhs422m",
+			"url": "https://bsky.app/profile/eetezadi.com/post/3lfxaytb6bs23",
+			"author": {
+				"name": "Sina Sebastian Eetezadi",
+				"url": "https://bsky.app/profile/eetezadi.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:xicfw3ifvtpxrhahjibuaqvk/bafkreiakeg7uxl6zqh2zbq3qgxcixg7jhl4xxouj34qzr27lqor4pkacfa"
+			},
+			"date": "2025-01-17T16:52:48.204Z",
+			"content": "<p>I forgot unfortunately, but I think it was the label on the radio buttons for example.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 7,
+		"comments": 1,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

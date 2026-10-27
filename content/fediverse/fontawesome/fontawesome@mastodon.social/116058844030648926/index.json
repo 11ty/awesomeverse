@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "116058888180764730",
+			"parentId": 0,
+			"url": "https://dizl.de/@moskitokoenig/116058888126942103",
+			"author": {
+				"name": "Clu | #RipNatenom 🕯",
+				"url": "https://dizl.de/@moskitokoenig",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/109/524/349/756/552/382/original/f951439b7c73b2a5.jpg"
+			},
+			"date": "2026-02-12T17:41:32.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span> Ohhh, nice additions ❤️</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116093848119851058",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/116093848119851058",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-02-18T21:52:19.913Z",
+			"content": "<p>One tiny quality-of-life thing we love in this release: the Free moon set includes aliases for light/dark contexts. 🌙<br />Now there&#39;s no need to do mental gymnastics when your UI theme flips.<br /><a href=\"https://fontawesome.com/\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fontawesome.com/</span><span class=\"invisible\"></span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116121306155747385",
+			"parentId": "116093848119851058",
+			"url": "https://mastodon.social/@fontawesome/116121306155747385",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-02-23T18:15:16.289Z",
+			"content": "<p>Graphite is a hit for anyone building “notes / learning / planning” UIs. ✏️📓<br />Hand-drawn icons change the tone of an interface instantly without rewriting a single word. What kind of site will you be adding these to?<br /><a href=\"https://fontawesome.com/icons/packs/graphite\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fontawesome.com/icons/packs/gr</span><span class=\"invisible\">aphite</span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 7,
+		"reposts": 2,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

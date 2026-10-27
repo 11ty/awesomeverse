@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mmwinmcpfk2k",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mmwinmcpfk2k",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-05-28T16:59:35.494Z",
+			"content": "<p>Psst! The campaign is over in a few hours! If you've been watching and waiting, this is the moment.<br>\nThanks for following along. You're all great. 🙏</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 3,
+		"reposts": 3,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3ms6u4dzwf22g",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3ms6u4dzwf22g",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-08-03T15:51:57.340Z",
+			"content": "<p>We also cover Font Awesome's own 404 pages, which are stuffed with references: Ghostbusters, Planes Trains and Automobiles, Star Wars, and a hidden Mario Easter egg on the icons page.</p>\n<p>Watch → <a href=\"https://youtu.be/S1ftZ_Swnmg?si=XwysLVc7xdKYUSQo\">youtu.be/S1ftZ_Swnmg?...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3ms6y7sscyk2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3ms6y7sscyk2z",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-08-03T17:05:28.450Z",
+			"content": "<p>Turns out HTTP 418 \"I'm a teapot\" started as a joke RFC published on April Fools' Day 1998, and developers organized a whole movement (<a href=\"https://save418.com\">save418.com</a>) to keep it in the spec when the IETF tried to remove it in 2017.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}

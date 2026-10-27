@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mf62r7cea22p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mf62r7cea22p",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-02-18T21:50:48.568Z",
+			"content": "<p>One tiny quality-of-life thing we love in this release: the Free moon set includes aliases for light/dark contexts. 🌙<br>\nNow there's no need to do mental gymnastics when your UI theme flips.<br>\n<a href=\"https://fontawesome.com/\">fontawesome.com</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mfkaw3i3mc22",
+			"parentId": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mf62r7cea22p",
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mfkaw3i3mc22",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-02-23T18:12:51.644Z",
+			"content": "<p>Graphite is a hit for anyone building “notes / learning / planning” UIs. ✏️📓<br>\nHand-drawn icons change the tone of an interface instantly without rewriting a single word. What kind of site will you be adding these to?<br>\n<a href=\"https://fontawesome.com/icons/packs/graphite\">fontawesome.com/icons/packs/...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 5,
+		"comments": 1,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

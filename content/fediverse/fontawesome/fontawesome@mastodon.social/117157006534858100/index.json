@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "117169148753303941",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117169148753303941",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-08-27T19:35:25.453Z",
+			"content": "<p>Icon Wizard is in beta and the team wants feedback: feedback@fontawesome.com. There&#39;s also a contest running through September 7 if you want to build something and get it into the public gallery.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 2,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

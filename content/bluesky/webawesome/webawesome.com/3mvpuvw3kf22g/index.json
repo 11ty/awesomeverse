@@ -1,0 +1,61 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:7ocrqlktgbosq74zwecjop5o/app.bsky.feed.post/3mvqs43thnk2c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/rogin.dev/post/3mvqs43thnk2c",
+			"author": {
+				"name": "Rogin Farrer",
+				"url": "https://bsky.app/profile/rogin.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ocrqlktgbosq74zwecjop5o/bafkreia7yxamify23mwnpzbpcvxqqekwjviwt7xy3r7hrmaujnio54s6wm"
+			},
+			"date": "2026-09-17T23:19:31.431Z",
+			"content": "<p>Curious if you thought about inlining the SVGs (instead of `&lt;wa-icon&gt;`) and using `&lt;use&gt;` for all of the stars. For a server-rendered product search page where dozens of star ratings could appear, I think it saved a lot of bytes and runtime operations.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mvqullejrk2r",
+			"parentId": "at://did:plc:7ocrqlktgbosq74zwecjop5o/app.bsky.feed.post/3mvqs43thnk2c",
+			"url": "https://bsky.app/profile/cory.laviska.com/post/3mvqullejrk2r",
+			"author": {
+				"name": "Cory LaViska",
+				"url": "https://bsky.app/profile/cory.laviska.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkk4yywvh3b3qfdr4uhq3ub4/bafkreicdrsy5o7jw2rrtdqvkix6l37zlvmvdri4bvbqgmiri53epbo7xpi"
+			},
+			"date": "2026-09-18T00:03:58.517Z",
+			"content": "<p>The icon is cached the first time its requested, so a dozen ratings won't load the icon from the server 12 times :)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7ocrqlktgbosq74zwecjop5o/app.bsky.feed.post/3mvquvepi3c2u",
+			"parentId": "at://did:plc:qkk4yywvh3b3qfdr4uhq3ub4/app.bsky.feed.post/3mvqullejrk2r",
+			"url": "https://bsky.app/profile/rogin.dev/post/3mvquvepi3c2u",
+			"author": {
+				"name": "Rogin Farrer",
+				"url": "https://bsky.app/profile/rogin.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ocrqlktgbosq74zwecjop5o/bafkreia7yxamify23mwnpzbpcvxqqekwjviwt7xy3r7hrmaujnio54s6wm"
+			},
+			"date": "2026-09-18T00:09:27.080Z",
+			"content": "<p>Missed a detail, I meant to say that *we* used &lt;use&gt; in our rating component.</p>\n<p>Yup, I know about the cache! Problem we had (when we used a similar icon web component) was that each rating was including 5 additional shadow roots and custom elements that needed to initialize.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:7ocrqlktgbosq74zwecjop5o/app.bsky.feed.post/3mvquyg23322u",
+			"parentId": "at://did:plc:7ocrqlktgbosq74zwecjop5o/app.bsky.feed.post/3mvquvepi3c2u",
+			"url": "https://bsky.app/profile/rogin.dev/post/3mvquyg23322u",
+			"author": {
+				"name": "Rogin Farrer",
+				"url": "https://bsky.app/profile/rogin.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ocrqlktgbosq74zwecjop5o/bafkreia7yxamify23mwnpzbpcvxqqekwjviwt7xy3r7hrmaujnio54s6wm"
+			},
+			"date": "2026-09-18T00:11:09.140Z",
+			"content": "<p>When we were tracing some perf regressions (for a very sensitive page), this seemed like low-hanging fruit to optimize.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 5,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3lkegbztxis26",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3lkegbztxis26",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2025-03-14T20:12:48.920Z",
+			"content": "<p>Wouldn't you know it ... the original link will take you to the buzzsprout page, doh! 🤦 go here for the full episode! <a href=\"https://www.podcastawesome.com/2092855/episodes/16782230-why-design-is-hard-and-how-collaboration-changes-everything-with-bryan-zug\">www.podcastawesome.com/2092855/epis...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 3,
+		"reposts": 1,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

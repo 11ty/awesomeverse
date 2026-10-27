@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "114553197876065638",
+			"parentId": 0,
+			"url": "https://mastodon.social/@khalidabuhakmeh/114553197620966524",
+			"author": {
+				"name": "Khalid ⚡",
+				"url": "https://mastodon.social/@khalidabuhakmeh",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/299/290/886/036/original/984f3271be9d0e3e.png"
+			},
+			"date": "2025-05-22T19:44:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> This looks amazing. Congratulations. 🔥</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114553331565298527",
+			"parentId": "114553197876065638",
+			"url": "https://fediverse.zachleat.com/@zachleat/114553331504918527",
+			"author": {
+				"name": "Zach Leatherman",
+				"url": "https://fediverse.zachleat.com/@zachleat",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/306/462/599/186/original/bfb580e375edf4b0.png"
+			},
+			"date": "2025-05-22T20:18:41.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@khalidabuhakmeh\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>khalidabuhakmeh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> I wanted to accept your congratulations as if I had built it but of course *because* this looks amazing I think we both already know that I didn’t 😅</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 43,
+		"reposts": 18,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "114423290430822371",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jaredwhite/114423290396197568",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/648/839/844/365/original/48a3f04be56f335e.jpeg"
+			},
+			"date": "2025-04-29T21:07:31.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriskirknielsen\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chriskirknielsen</span></a></span> That definitely looks way cool! JS has been overdue for a really nice \"generic\" templating language that's not just JSX or a sort of XML or whatever 🙌</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114423489515415720",
+			"parentId": "114423290430822371",
+			"url": "https://front-end.social/@chriskirknielsen/114423489497677117",
+			"author": {
+				"name": "Christopher Kirk-Nielsen",
+				"url": "https://front-end.social/@chriskirknielsen",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/663/304/631/255/original/2c0fa79ada0ac813.jpg"
+			},
+			"date": "2025-04-29T21:58:10.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>jaredwhite</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> I hadn't quite put that together myself but yes, exactly that! Not JSX, just plain JS thrown into plain HTML. Which I know WebC is kinda at that intersection, too!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114423499786837341",
+			"parentId": "114423489515415720",
+			"url": "https://neighborhood.11ty.dev/@11ty/114423499786837341",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-04-29T22:00:47.040Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://front-end.social/@chriskirknielsen\" class=\"u-url mention\">@<span>chriskirknielsen</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\">@<span>jaredwhite</span></a></span> agree — Vento is great!</p><p>also some points here <a href=\"https://fediverse.zachleat.com/@zachleat/112696457696553492\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediverse.zachleat.com/@zachle</span><span class=\"invisible\">at/112696457696553492</span></a></p><p>cc <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.gal/@misteroom\" class=\"u-url mention\">@<span>misteroom</span></a></span></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 5,
+		"reposts": 3,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

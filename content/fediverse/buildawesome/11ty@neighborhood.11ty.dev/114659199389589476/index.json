@@ -1,0 +1,63 @@
+{
+	"comments": [
+		{
+			"id": "114660076452588996",
+			"parentId": 0,
+			"url": "https://mastodon.social/@ricmac/114660075671843275",
+			"author": {
+				"name": "Richard MacManus",
+				"url": "https://mastodon.social/@ricmac",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/116/197/995/366/original/96f1e9441a380495.png"
+			},
+			"date": "2025-06-10T16:45:08.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediverse.repc.co/@chrisburnell\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>chrisburnell</span></a></span> lovely! I'm adding it to my footer, will go-live with my next post on Cybercultural tomorrow. One quick question: I'd like to give you attribution, but obviously there's limited room in my footer. How would one go about attributing you?</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114660095797156150",
+			"parentId": "114660076452588996",
+			"url": "https://fediverse.repc.co/@chrisburnell/114660095812424981",
+			"private": true,
+			"date": "2025-06-10T16:50:15.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114660239947058214",
+			"parentId": "114660095797156150",
+			"url": "https://fediverse.zachleat.com/@zachleat/114660233759688090",
+			"private": true,
+			"date": "2025-06-10T17:25:20.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114660280125348595",
+			"parentId": "114660239947058214",
+			"url": "https://mastodon.social/@ricmac/114660255681450971",
+			"private": true,
+			"date": "2025-06-10T17:30:55.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114665345728435771",
+			"parentId": "114660239947058214",
+			"url": "https://mastodon.social/@ricmac/114665335346617921",
+			"private": true,
+			"date": "2025-06-11T15:02:44.000Z",
+			"via": "fediverse"
+		},
+		{
+			"id": "114665442553393917",
+			"parentId": "114665345728435771",
+			"url": "https://fediverse.zachleat.com/@zachleat/114665435965728180",
+			"private": true,
+			"date": "2025-06-11T15:28:20.000Z",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 12,
+		"reposts": 5,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

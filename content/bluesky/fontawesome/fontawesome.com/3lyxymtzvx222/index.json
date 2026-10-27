@@ -1,0 +1,24 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:3xdmf2lkqyql7haroquajjvu/app.bsky.feed.post/3lzeyvauq722v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/brettpeary.bsky.social/post/3lzeyvauq722v",
+			"author": {
+				"name": "Brett Peary",
+				"url": "https://bsky.app/profile/brettpeary.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:3xdmf2lkqyql7haroquajjvu/bafkreifys76vqn4mdgm4vz3ihepd77olu3tsgezp7sakcevfvdc2vnb6h4"
+			},
+			"date": "2025-09-21T23:03:35.588Z",
+			"content": "<p>A <a href=\"https://bsky.app/profile/did:plc:xhhcrzsilpamjmz4dvrpt7df\">@chriscoyier.net</a> shout out in here</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 11,
+		"reposts": 1,
+		"comments": 1,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:gljqj2nrwyx3pnixvvaxs6ku/app.bsky.feed.post/3lmufuhtx2k2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/olivi-eh.dev/post/3lmufuhtx2k2z",
+			"author": {
+				"name": "Olivier Bourgeois",
+				"url": "https://bsky.app/profile/olivi-eh.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gljqj2nrwyx3pnixvvaxs6ku/bafkreiaukrpxubu62ach42fwh2ledqxa6xtnvjqbbq4ihrikbhlbo2qwia"
+			},
+			"date": "2025-04-15T15:38:12.906Z",
+			"content": "<p>Is there somewhere we can view the icons themselves for these new packs? Or only when v7 comes out?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:6bijku6dzk7ccrdc6pbs3ykf/app.bsky.feed.post/3lmujhnphek25",
+			"parentId": "at://did:plc:gljqj2nrwyx3pnixvvaxs6ku/app.bsky.feed.post/3lmufuhtx2k2z",
+			"url": "https://bsky.app/profile/shkspr.bsky.social/post/3lmujhnphek25",
+			"author": {
+				"name": "Jory Raphael",
+				"url": "https://bsky.app/profile/shkspr.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:6bijku6dzk7ccrdc6pbs3ykf/bafkreia5d34bv5kwwhrg3l5p7eogphsq2elundiki277iud5e6b2c2jxca"
+			},
+			"date": "2025-04-15T16:42:37.810Z",
+			"content": "<p>If you visit each of the \"pack\" pages here, you'll get a glance: <a href=\"https://fontawesome.com/#pro-plus\">fontawesome.com#pro-plus</a></p>\n<p>I'll see about pulling together a full list of the base icons, though! (And join us for our livestream tomorrow, if you want a closer look!)</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:gljqj2nrwyx3pnixvvaxs6ku/app.bsky.feed.post/3lmukn3uhi226",
+			"parentId": "at://did:plc:6bijku6dzk7ccrdc6pbs3ykf/app.bsky.feed.post/3lmujhnphek25",
+			"url": "https://bsky.app/profile/olivi-eh.dev/post/3lmukn3uhi226",
+			"author": {
+				"name": "Olivier Bourgeois",
+				"url": "https://bsky.app/profile/olivi-eh.dev",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gljqj2nrwyx3pnixvvaxs6ku/bafkreiaukrpxubu62ach42fwh2ledqxa6xtnvjqbbq4ihrikbhlbo2qwia"
+			},
+			"date": "2025-04-15T17:03:34.168Z",
+			"content": "<p>That'd be great can't wait!</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 4,
+		"reposts": 1,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

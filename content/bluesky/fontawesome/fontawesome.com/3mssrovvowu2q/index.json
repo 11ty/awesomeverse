@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3msyr7uaet22w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3msyr7uaet22w",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-08-13T23:09:26.964Z",
+			"content": "<p>Susan Kare designed the original Mac's wait cursor concepts with a $2.50 sketchbook and a 32x32 pixel grid. Same method she used for the floppy disk save icon.</p>\n<p>She is quietly responsible for a shocking amount of what you've stared at while a computer thinks.</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mtc3maeh2c2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mtc3maeh2c2v",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-08-17T16:09:17.397Z",
+			"content": "<p>It's genuinely delightful that a bakery in Vienna nicknamed this thing the \"bun of death.\" A Gizmodo reader spotted it on a sign. Design nerdery has no borders.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 4,
+		"reposts": 1,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}

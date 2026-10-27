@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:mceyt3qjswifxtikqqwvnnge/app.bsky.feed.post/3ld26x4zi622o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/johnspurlock.com/post/3ld26x4zi622o",
+			"author": {
+				"name": "John Spurlock",
+				"url": "https://bsky.app/profile/johnspurlock.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:mceyt3qjswifxtikqqwvnnge/bafkreifg46sufshvtdx4b4z6yjwvuztk3a7qsjurmqhuif5wc6adctwu3a"
+			},
+			"date": "2024-12-11T16:38:28.177Z",
+			"content": "<p>autocomplete! <a href=\"https://github.com/shoelace-style/shoelace/issues/127\">github.com/shoelace-sty...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 2,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

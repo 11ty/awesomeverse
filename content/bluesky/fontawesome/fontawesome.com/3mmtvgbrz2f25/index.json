@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:clni6g4jifkpo4crjqgee47c/app.bsky.feed.post/3mmtvrz2nr22w",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/lukas.grebe.me/post/3mmtvrz2nr22w",
+			"author": {
+				"name": "Lukas",
+				"url": "https://bsky.app/profile/lukas.grebe.me",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:clni6g4jifkpo4crjqgee47c/bafkreifnypxumxrpyg4k6j7vyhproksc5tgusg5cx2chmodb3wex7py6ly"
+			},
+			"date": "2026-05-27T16:16:42.509Z",
+			"content": "<p>A single project pro tier for BA FA WA would have been nice. Like the 299 bundle for 11 projects but only for a single site</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:eep6f2ug5pswfnju7jywzjd7/app.bsky.feed.post/3mmui7nruxc2t",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/buildawesome.bsky.social/post/3mmui7nruxc2t",
+			"author": {
+				"name": "Build Awesome",
+				"url": "https://bsky.app/profile/buildawesome.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:eep6f2ug5pswfnju7jywzjd7/bafkreif45j77hp6bucfvohryojho4weoqppw27pwxtbj3tvp3qmg6n4guu"
+			},
+			"date": "2026-05-27T21:46:27.801Z",
+			"content": "<p>Build Awesome Pro: in-browser editing, live collaboration, updates your whole team can make without filing a formal request with your developer overlords. Early access pricing is campaign-only.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 3,
+		"reposts": 2,
+		"comments": 2,
+		"via": "bluesky"
+	}
+}

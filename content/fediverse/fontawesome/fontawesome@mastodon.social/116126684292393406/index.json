@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "116126739454395762",
+			"parentId": 0,
+			"url": "https://indieweb.social/@jaredwhite/116126739401317306",
+			"author": {
+				"name": "Jared White (ResistanceNet ✊)",
+				"url": "https://indieweb.social/@jaredwhite",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/108/195/594/302/751/162/original/5dfea72e595de656.jpeg"
+			},
+			"date": "2026-02-24T17:17:01.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>fontawesome</span></a></span> 😲 *waiting intensifies*</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116126793406216067",
+			"parentId": "116126739454395762",
+			"url": "https://mastodon.social/@fontawesome/116126793406216067",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-02-24T17:30:45.104Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jaredwhite\" class=\"u-url mention\">@<span>jaredwhite</span></a></span> 👀</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 6,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

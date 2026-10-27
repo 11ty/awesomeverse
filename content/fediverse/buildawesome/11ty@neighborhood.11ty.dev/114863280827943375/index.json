@@ -1,0 +1,49 @@
+{
+	"comments": [
+		{
+			"id": "114863309176196396",
+			"parentId": 0,
+			"url": "https://hachyderm.io/@ttntm/114863309124134014",
+			"author": {
+				"name": "Tom",
+				"url": "https://hachyderm.io/@ttntm",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/403/460/401/749/398/original/0ca4376a819d4c2f.jpg"
+			},
+			"date": "2025-07-16T14:10:04.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> 😆🦾🎉</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114870672924176697",
+			"parentId": 0,
+			"url": "https://fosstodon.org/@krinkle/114870672884027360",
+			"author": {
+				"name": "Timo Tijhof",
+				"url": "https://fosstodon.org/@krinkle",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/411/078/240/807/733/original/20c375bda505db4a.jpg"
+			},
+			"date": "2025-07-17T21:22:47.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> </p><p>Is that number right? I assume the \"before\" number is a lock file number, ie total installed inc indirect deps from Next.</p><p>Does the latest 11ty have less than 13 direct+indirect non-dev dependencies in total?</p><p>I count 32 at [0], and that's not counting indirect deps or 11ty itself once installed by Etch.</p><p>[0]: <a href=\"https://github.com/11ty/eleventy/blob/v3.1.2/package.json\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy/blob/</span><span class=\"invisible\">v3.1.2/package.json</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114876363878606982",
+			"parentId": "114870672924176697",
+			"url": "https://neighborhood.11ty.dev/@11ty/114876363878606982",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-07-18T21:30:04.691Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@krinkle\" class=\"u-url mention\">@<span>krinkle</span></a></span> yeah, that might be a question for the etch folks — I’m not sure what the methodology was but I do know that 11ty has ~33 second-order deps</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 32,
+		"reposts": 19,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

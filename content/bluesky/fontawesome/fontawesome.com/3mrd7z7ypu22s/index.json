@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mrfvvwuec22x",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mrfvvwuec22x",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-07-24T17:47:36.224Z",
+			"content": "<p>Anecdote from the post: my Shih-tzu can identify a Starbucks before I can. Not from the sign. From pure pattern recognition built on consistent experience. If a dog can learn your brand, your users are learning your brand, too.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 2,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

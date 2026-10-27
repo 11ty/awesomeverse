@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "116653275640064528",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/116653275640064528",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-05-28T17:02:06.438Z",
+			"content": "<p>It&#39;s really worth unpacking the &quot;full history, no lock-in&quot; bit: you can export everything, any time, and take it with you. Your content stays yours. That was a non-negotiable for us when we built this.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 5,
+		"reposts": 2,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

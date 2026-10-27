@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "import": "node --env-file-if-exists=.env import.js",
+    "import": "node --env-file-if-exists=.env import.js --within=2y",
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve --quiet --incremental",
     "production": "npm run import && npm run build",
@@ -16,7 +16,10 @@
     "@11ty/eleventy-img": "^7.1.1",
     "@11ty/eleventy-plugin-svelte": "^1.0.1",
     "@11ty/font-awesome": "^2.0.0",
-    "@11ty/import": "^3.0.0-beta.7",
+    "@11ty/import": "^3.0.0-beta.8",
     "pagefind": "^1.5.2"
+  },
+  "dependencies": {
+    "@zachleat/solar-eclipse-toggle": "^2.2.1"
   }
 }

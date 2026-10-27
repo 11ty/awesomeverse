@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:vedxml2itdawk5orcxuhqn7w/app.bsky.feed.post/3mtttxgatlc2y",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/dakroub.co/post/3mtttxgatlc2y",
+			"author": {
+				"name": "Joe Dakroub",
+				"url": "https://bsky.app/profile/dakroub.co",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vedxml2itdawk5orcxuhqn7w/bafkreiceozxo6bcvok6yg5lokbmp3fc5ngvcdhlmmqd6nycgtro7hgeovm"
+			},
+			"date": "2026-08-24T17:40:18.026Z",
+			"content": "<p>My favorite component library just gets better and better with each release. Thank you for all that you do.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 5,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

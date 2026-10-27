@@ -1,0 +1,36 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mfcx4sijb222",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mfcx4sijb222",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-02-20T20:29:01.516Z",
+			"content": "<p>The “open-ended icon brief” problem is real: unlimited options = the instant internal chaos train starts chugging along. Don't worry though. It'll be OK!</p>\n<p>That’s why constraints are basically creative seatbelts.</p>\n<p>Watch → <a href=\"https://youtu.be/uE1vFl3BRGw?si=7CZFTvn9vzoiqoHg\">youtu.be/uE1vFl3BRGw?...</a><br>\nListen → <a href=\"https://www.podcastawesome.com/2092855/episodes/18714864\">www.podcastawesome.com/2092855/epis...</a></p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mfkarl5ers22",
+			"parentId": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mfcx4sijb222",
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mfkarl5ers22",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-02-23T18:10:20.300Z",
+			"content": "<p>“Icons were how I understood the world.”<br>\nI did not expect to get feelings from an icon pack episode and yet here we are.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 3,
+		"reposts": 3,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

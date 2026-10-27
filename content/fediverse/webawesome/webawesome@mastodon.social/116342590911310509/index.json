@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "116342596531525322",
+			"parentId": 0,
+			"url": "https://mastodon.social/@webawesome/116342596531525322",
+			"author": {
+				"name": "Web Awesome",
+				"url": "https://mastodon.social/@webawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/115/270/996/054/162/025/original/9337c79b15adc441.jpg"
+			},
+			"date": "2026-04-03T20:12:19.455Z",
+			"content": "<p>Folks with WA accounts will see a new CDN tab for each of your projects.</p><p>The tab has installation instructions tailored to your project&#39;s settings with all of the styles and scripts you need for your project&#39;s theme and features.</p><p>We added similar instructions to the npm and Download tabs, too.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 8,
+		"reposts": 4,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mnrwqb23lk2q",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mnrwqb23lk2q",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-06-08T14:53:29.662Z",
+			"content": "<p>Dave's rule for interviewing: ask questions above their pay grade. Questions about layoffs, hiring booms, and how leadership responded in hard moments.</p>\n<p>Blank stare? You have your answer. You probably don't need to wait for the rest.</p>\n<p>Watch → <a href=\"https://youtu.be/IpjlsPF5lsk?si=x8SAOEGLLRtmcj1q\">youtu.be/IpjlsPF5lsk?...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

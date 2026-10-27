@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mfkarl5ers22",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mfkarl5ers22",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-02-23T18:10:20.300Z",
+			"content": "<p>“Icons were how I understood the world.”<br>\nI did not expect to get feelings from an icon pack episode and yet here we are.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 2,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

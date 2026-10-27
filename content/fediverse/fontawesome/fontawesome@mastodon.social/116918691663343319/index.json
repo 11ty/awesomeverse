@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "116925705834045598",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/116925705834045598",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-07-15T19:44:41.303Z",
+			"content": "<p>Josh&#39;s advice for new icon designers: the old constraints (tiny pixel grids, limited colors) are gone. What&#39;s next hasn&#39;t been figured out yet — which is the exciting part.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "116931226669837368",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/116931226669837368",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-07-16T19:08:42.572Z",
+			"content": "<p>Another topic that emerged: Font Awesome&#39;s internal AI experiment weekend, and why &quot;taste&quot; and discernment turned out to be the hardest thing to automate.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 2,
+		"via": "fediverse"
+	}
+}

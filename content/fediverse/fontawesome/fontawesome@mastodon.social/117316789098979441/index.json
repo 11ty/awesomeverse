@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "117333143301341795",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117333143301341795",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-09-25T18:41:23.673Z",
+			"content": "<p>Dave Gandy&#39;s first Y Combinator interview, years before Font Awesome: no prep, and it went nowhere. His second, with Travis Chase: a session at the Mountain View Public Library with a childhood friend, working through Adobe Typekit comps. That one ended with a surprise second interview.</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "117333150857504327",
+			"parentId": "117333143301341795",
+			"url": "https://mastodon.social/@fontawesome/117333150857504327",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-09-25T18:43:18.971Z",
+			"content": "<p>Aaand .... the Nintendo Power Glove was rushed to market in about five months, launched with a single compatible game, and only sold close to a million units thanks to the movie, &quot;The Wizard&quot; saying it was &quot;so bad&quot;. BUT, the Power Glove is often cited as part of the path to the Wii Remote.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

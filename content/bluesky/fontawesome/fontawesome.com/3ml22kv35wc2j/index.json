@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3ml4bde7dzc2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3ml4bde7dzc2z",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-05-05T13:14:10.433Z",
+			"content": "<p>🚨 Update: We’re pushing today’s livestream to 12:30pm ET / 11:30am CT / 9:30am PT!</p>\n<p>🎨 Dave’s demoing a new color theming tool<br>\n💬 AMA on Build Awesome + funding open source<br>\n😵‍💫 Tell us about your CMS/hosting headaches</p>\n<p>Come hang → <a href=\"https://www.youtube.com/live/XBMSvupE7Bc?si=rO_q_few1enRSaPA\">www.youtube.com/live/XBMSvup...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 16,
+		"reposts": 3,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

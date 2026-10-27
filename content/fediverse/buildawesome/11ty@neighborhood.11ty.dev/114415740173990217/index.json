@@ -1,0 +1,140 @@
+{
+	"comments": [
+		{
+			"id": "114415773446356644",
+			"parentId": 0,
+			"url": "https://mstdn.ca/@markpitblado/114415751515439864",
+			"author": {
+				"name": "Mark Pitblado",
+				"url": "https://mstdn.ca/@markpitblado",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/415/554/037/122/360/original/7bc52b01f6e07af3.png"
+			},
+			"date": "2025-04-28T13:10:17.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> seeing neighborhood without the u feels so weird as a Canadian, but otherwise love the choice of subdomain!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114415782395069176",
+			"parentId": "114415773446356644",
+			"url": "https://neighborhood.11ty.dev/@11ty/114415782395069176",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-04-28T13:18:08.987Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@markpitblado\" class=\"u-url mention\">@<span>markpitblado</span></a></span> u can’t spell neighborhood without you</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114415807378185311",
+			"parentId": 0,
+			"url": "https://neighborhood.11ty.dev/@11ty/114415807378185311",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-04-28T13:24:30.198Z",
+			"content": "<p>If your name is still listed here, your account wasn’t moved successfully (sorry!!) <a href=\"https://fosstodon.org/@eleventy/followers\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fosstodon.org/@eleventy/follow</span><span class=\"invisible\">ers</span></a></p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114415815785465928",
+			"parentId": 0,
+			"url": "https://stefanbohacek.online/@stefan/114415815471380980",
+			"author": {
+				"name": "Stefan Bohacek",
+				"url": "https://stefanbohacek.online/@stefan",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/243/346/372/384/original/b45df85670bcdfaf.png"
+			},
+			"date": "2025-04-28T13:26:33.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> Running your own server, nice!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114415837292494998",
+			"parentId": "114415815785465928",
+			"url": "https://neighborhood.11ty.dev/@11ty/114415837292494998",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-04-28T13:32:06.655Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://stefanbohacek.online/@stefan\" class=\"u-url mention\">@<span>stefan</span></a></span> there’s something to this own-your-URLs thing</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114415848478445418",
+			"parentId": "114415837292494998",
+			"url": "https://stefanbohacek.online/@stefan/114415847941507305",
+			"author": {
+				"name": "Stefan Bohacek",
+				"url": "https://stefanbohacek.online/@stefan",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/243/346/372/384/original/b45df85670bcdfaf.png"
+			},
+			"date": "2025-04-28T13:34:49.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> Definitely, one of the best things about the fediverse!</p><p>Have you by any chance seen <a href=\"https://data.stefanbohacek.dev/projects/fediverse\" rel=\"nofollow noopener\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">data.stefanbohacek.dev/project</span><span class=\"invisible\">s/fediverse</span></a>?</p><p>It's a pretty neat little app that shows you all the different servers you're connected to via followers/people you follow.</p><p>(Not running on 11ty, though, sorry!)</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114415892548810238",
+			"parentId": "114415848478445418",
+			"url": "https://neighborhood.11ty.dev/@11ty/114415892548810238",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-04-28T13:46:09.799Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://stefanbohacek.online/@stefan\" class=\"u-url mention\">@<span>stefan</span></a></span> oh, nice! cool visuals!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114415928417192403",
+			"parentId": "114415892548810238",
+			"url": "https://stefanbohacek.online/@stefan/114415921969242231",
+			"author": {
+				"name": "Stefan Bohacek",
+				"url": "https://stefanbohacek.online/@stefan",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/243/346/372/384/original/b45df85670bcdfaf.png"
+			},
+			"date": "2025-04-28T13:53:38.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> Thank you!</p><p>And by following you I am now connected to 999 different servers. Neat, just one more for a big milestone!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114417846417334881",
+			"parentId": 0,
+			"url": "https://toots.inbutts.lol/@shnizmuffin/114417846378159081",
+			"author": {
+				"name": "ShnizmuffiN",
+				"url": "https://toots.inbutts.lol/@shnizmuffin",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/399/958/532/210/455/original/2058cf7c4efb6b22.png"
+			},
+			"date": "2025-04-28T22:03:02.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> good on you for hosting your own instance! Now you get to experience the joy of Postgres just kinda crapping out sometimes! Hooray!</p>",
+			"via": "fediverse"
+		},
+		{
+			"id": "114418256811758024",
+			"parentId": "114417846417334881",
+			"url": "https://neighborhood.11ty.dev/@11ty/114418256811758024",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-04-28T23:47:25.590Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toots.inbutts.lol/@shnizmuffin\" class=\"u-url mention\">@<span>shnizmuffin</span></a></span> we contract the fine folks at <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@mastohost\" class=\"u-url mention\">@<span>mastohost</span></a></span> for help 😅</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 37,
+		"reposts": 20,
+		"comments": 4,
+		"via": "fediverse"
+	}
+}

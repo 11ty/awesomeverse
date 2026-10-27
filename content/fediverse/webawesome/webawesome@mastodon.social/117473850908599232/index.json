@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "117473854138128935",
+			"parentId": 0,
+			"url": "https://mastodon.social/@webawesome/117473854138128935",
+			"author": {
+				"name": "Web Awesome",
+				"url": "https://mastodon.social/@webawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/115/270/996/054/162/025/original/9337c79b15adc441.jpg"
+			},
+			"date": "2026-10-20T15:06:00.651Z",
+			"content": "<p>Get it here: <a href=\"https://webawesome.com/docs/components/known-date\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">webawesome.com/docs/components</span><span class=\"invisible\">/known-date</span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 2,
+		"reposts": 1,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

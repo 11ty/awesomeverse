@@ -1,0 +1,24 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:uocu7waljw6y5e474k26n7ve/app.bsky.feed.post/3mwo2lyuncc2o",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/webawesome.com/post/3mwo2lyuncc2o",
+			"author": {
+				"name": "Web Awesome",
+				"url": "https://bsky.app/profile/webawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uocu7waljw6y5e474k26n7ve/bafkreifmutcbbb4zymyndqeiv2itph3pm7e7zxaagnxxgxq6giateydjby"
+			},
+			"date": "2026-09-29T14:38:47.529Z",
+			"content": "<p>More info in the docs: <a href=\"https://webawesome.com/docs/components/combobox\">webawesome.com/docs/compone...</a></p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 4,
+		"reposts": 3,
+		"comments": 1,
+		"quotes": 1,
+		"via": "bluesky"
+	}
+}

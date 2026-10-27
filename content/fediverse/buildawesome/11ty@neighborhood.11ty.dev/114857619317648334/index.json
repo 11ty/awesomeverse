@@ -1,0 +1,23 @@
+{
+	"comments": [
+		{
+			"id": "114857665050149377",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fromjason/114857621846829957",
+			"author": {
+				"name": "fromjason.xyz ❤️ 💻 ✍️ 🥐 🇵🇷",
+				"url": "https://mastodon.social/@fromjason",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/291/614/127/095/original/5f7cbf6d06488c41.jpeg"
+			},
+			"date": "2025-07-15T14:03:43.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> one of my favorite websites!</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 10,
+		"reposts": 5,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

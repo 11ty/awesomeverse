@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "115169806229987309",
+			"parentId": 0,
+			"url": "https://neighborhood.11ty.dev/@11ty/115169806229987309",
+			"author": {
+				"name": "Build Awesome (11ty)",
+				"url": "https://neighborhood.11ty.dev/@11ty",
+				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/accounts/avatars/114/399/843/788/609/405/original/1d5b9596ccc9d54a.png"
+			},
+			"date": "2025-09-08T17:16:19.631Z",
+			"content": "<p>Some more information about the payload here: <a href=\"https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">aikido.dev/blog/npm-debug-and-</span><span class=\"invisible\">chalk-packages-compromised</span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 2,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}
