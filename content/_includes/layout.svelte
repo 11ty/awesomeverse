@@ -143,7 +143,7 @@ more.addEventListener("click", showMore);`;
 				</div>
 				<div class="header-columns">
 					<div class="header-browse">
-						<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, Letterboxd, Hacker News, and blogs. See the <a href="/popular/" aria-current={page.url === "/popular/" ? "page" : null}>most popular posts</a>.</p>
+						<p class="site-tagline">A versioned archive of posts from Bluesky, Mastodon, GitHub, npm, YouTube, Hacker News, and blogs. See the <a href="/popular/" aria-current={page.url === "/popular/" ? "page" : null}>most popular posts</a>.</p>
 						<p class="site-built">Last built <time class="build-time" datetime={buildTime.toISOString()}>{readableDate(buildTime)}</time><span class="build-time-ago"></span>.</p>
 						<nav class="source-links" aria-label="Sources">
 							<a href="/" class="source-link source-link--all" aria-current={page.url === "/" ? "page" : null}><i class="fa-solid fa-layer-group"></i>All <span class="source-link-count">{siteStats.total.posts.toLocaleString("en-US")}</span></a>
