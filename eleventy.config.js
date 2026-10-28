@@ -306,6 +306,10 @@ export default function(eleventyConfig) {
 			node.attrs = { loading: "lazy", muted: "", autoplay: "", ...node.attrs };
 			return node;
 		});
+		tree.match({ tag: "audio" }, node => {
+			node.attrs = { preload: "none", ...node.attrs };
+			return node;
+		});
 		return tree;
 	});
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {

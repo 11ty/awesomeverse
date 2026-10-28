@@ -26,6 +26,7 @@ fs.writeFileSync("import.config.js", `export default [
 	// { type: "youtubeuser", target: "UC_CHANNEL_ID", output: "content/youtube" },
 	// { type: "letterboxd", target: "username", output: "content/letterboxd" },
 	// { type: "atom", target: "https://example.com/feed.xml", output: "content/blog" },
+	// { type: "rss", target: "https://example.com/podcast.rss", output: "content/podcast" },
 	// { type: "hackernews", target: "https://example.com", output: "content/hackernews" },
 ];
 `);

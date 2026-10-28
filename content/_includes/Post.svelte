@@ -15,6 +15,7 @@
 		youtube: "fa-brands fa-youtube",
 		letterboxd: "fa-brands fa-letterboxd",
 		blog: "fa-regular fa-newspaper",
+		podcast: "fa-solid fa-podcast",
 		hackernews: "fa-brands fa-hacker-news",
 	};
 	const iconOnlySources = new Set(["bluesky", "fediverse", "npm", "youtube", "hackernews"]);

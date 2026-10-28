@@ -6,6 +6,7 @@ export const statSources = [
 	{ key: "youtube", label: "YouTube", icon: "fa-brands fa-youtube" },
 	{ key: "letterboxd", label: "Letterboxd", icon: "fa-brands fa-letterboxd" },
 	{ key: "blog", label: "Blog", icon: "fa-regular fa-newspaper" },
+	{ key: "podcast", label: "Podcast", icon: "fa-solid fa-podcast" },
 	{ key: "hackernews", label: "Hacker News", icon: "fa-brands fa-hacker-news" },
 	{ key: "total", label: "All" },
 ];

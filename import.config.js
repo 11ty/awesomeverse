@@ -8,6 +8,7 @@ export default [
 	{ type: "youtubeuser", target: "UCBwTrjBFAoKfSx98XygLZ_g", output: "content/youtube/fontawesome" },
 	{ type: "atom", target: "https://blog.fontawesome.com/feed/feed.xml", output: "content/blog/fontawesome" },
 	{ type: "atom", target: "https://fontawesome.com/changelog/feed", output: "content/blog/fontawesome-changelog" },
+	{ type: "rss", target: { url: "https://feeds.buzzsprout.com/2092855.rss", assets: ["image"] }, output: "content/podcast/fontawesome" },
 	{ type: "hackernews", target: "https://fontawesome.com", output: "content/hackernews/fontawesome" },
 	{ type: "hackernews", target: "https://blog.fontawesome.com", output: "content/hackernews/fontawesome-blog" },
 	{ type: "hackernews", target: "https://blogfontawesome.wpcomstaging.com", output: "content/hackernews/fontawesome-blog" },
