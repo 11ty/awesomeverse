@@ -16,7 +16,7 @@
 	let siteStats = collections?.postGroups?.length ? getSiteStats(collections.postGroups) : undefined;
 	let sources = statSources.filter(({ key }) => siteStats?.[key]);
 
-	// GitHub, npm, Hacker News, and YouTube use their own icons or repurpose columns for their own stats, and reposts include quotes
+	// GitHub, npm (including downloads as views), Hacker News, and YouTube use their own icons or repurpose columns for their own stats, and reposts include quotes
 	function getStatCell(key, stat) {
 		let stats = siteStats[key];
 		let defaults = {
@@ -34,6 +34,7 @@
 			npm: {
 				posts: [{ icon: "fa-solid fa-box", title: "Projects", value: stats.packages }],
 				replies: [{ icon: "fa-solid fa-tag", title: "Releases", value: stats.posts }],
+				views: [{ icon: "fa-solid fa-download", title: "Downloads (past year)", value: stats.downloads }],
 			},
 			hackernews: {
 				likes: [{ icon: "fa-solid fa-arrow-up", title: "Upvotes", value: stats.likes }],

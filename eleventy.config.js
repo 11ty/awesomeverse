@@ -150,10 +150,15 @@ export default function(eleventyConfig) {
 					if(post.data.metadata.type === "npm") {
 						(source.packageNames ??= new Set()).add(post.data.metadata.name);
 						source.packages = source.packageNames.size;
+						// Yearly downloads are per package, repeated on each release
+						(source.packageDownloads ??= new Map()).set(post.data.metadata.name, Math.max(source.packageDownloads.get(post.data.metadata.name) || 0, post.data.counts?.downloads || 0));
+						source.downloads = source.packageDownloads.values().reduce((sum, count) => sum + count, 0);
 					}
 					add(source, [post]);
 				}
 			}
+			// npm downloads count as views in the total
+			stats.total.views += stats.npm?.downloads || 0;
 			statsByGroups.set(groups, stats);
 		}
 		return statsByGroups.get(groups);
