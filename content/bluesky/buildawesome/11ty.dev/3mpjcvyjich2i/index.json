@@ -40,19 +40,6 @@
 			"via": "bluesky"
 		},
 		{
-			"id": "at://did:plc:z3uoukoxwd2je3nxpdv45jzk/app.bsky.feed.post/3mpjkaz2inc2o",
-			"parentId": 0,
-			"url": "https://bsky.app/profile/brob.dev/post/3mpjkaz2inc2o",
-			"author": {
-				"name": "Bryan Robinson",
-				"url": "https://bsky.app/profile/brob.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z3uoukoxwd2je3nxpdv45jzk/bafkreif5pdmagb65ngah4xs257gahckg2uy7mjclfyne5h75jf26zy4jdq"
-			},
-			"date": "2026-06-30T17:39:18.417Z",
-			"content": "<p>A better-supported Nunjucks is a dream for sure</p>",
-			"via": "bluesky"
-		},
-		{
 			"id": "at://did:plc:rj7gcscy3x3vskk7y6f2nbx6/app.bsky.feed.post/3mpjmvpnk2k2w",
 			"parentId": 0,
 			"url": "https://bsky.app/profile/peruvianidol.com/post/3mpjmvpnk2k2w",

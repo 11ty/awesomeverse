@@ -1,6 +1,22 @@
 {
 	"counts": {
 		"likes": 2,
+		"comments": 1,
 		"via": "fediverse"
-	}
+	},
+	"comments": [
+		{
+			"id": "117515719631035282",
+			"parentId": 0,
+			"url": "https://indieweb.social/@infotexture/117515719604309050",
+			"author": {
+				"name": "Roger Sheen",
+				"url": "https://indieweb.social/@infotexture",
+				"avatarUrl": "https://files.mastodon.social/cache/accounts/avatars/109/748/758/014/335/936/original/252ac2dac5cfd793.jpg"
+			},
+			"date": "2026-10-28T00:32:56.000Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@webawesome\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>webawesome</span></a></span> Best kind of skeleton. </p><p>Custom --sheen-color property for my brand identity is the real highlight though. ✨</p>",
+			"via": "fediverse"
+		}
+	]
 }
