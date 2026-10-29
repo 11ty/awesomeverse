@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16865597
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16865597-why-web-accessibility-matters-lindsay-miller-on-inclusive-digital-design-podcast-awesome.mp3
-  importHash: 793edfd9a70e3c7b
+  importHash: 878f6f9795fa6a5d
 ---
 Learn why accessible web design matters for everyone — not just users with disabilities. Lindsay Miller joins Podcast Awesome to discuss WCAG, ADA, design best practices, and tools for accessible development.
 
@@ -43,6 +43,4 @@ Whether you're building for clients, open-source, or your own product, this conv
 🔊 Mastering by [Chris Enns at Lemon Productions](https://www.lemonproductions.ca/)  
 📹 Video editing help from Isaac Chase / @theisaacchase
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16865597-why-web-accessibility-matters-lindsay-miller-on-inclusive-digital-design-podcast-awesome.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

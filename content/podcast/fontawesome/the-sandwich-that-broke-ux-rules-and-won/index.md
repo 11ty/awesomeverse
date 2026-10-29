@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19714222
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19714222-the-sandwich-that-broke-ux-rules-and-won.mp3
-  importHash: 801cb501edf4d67a
+  importHash: ea0f944ae1a0fbfa
 ---
 Pretty much every website has one, you know, those three little lines, usually tucked in a corner, hiding a whole menu behind them. It's become what's known as the hamburger icon. And if you've ever visited fontawesome.com, you may have noticed ours isn't three lines. It's an actual burger, sesame seed bun and all.
 
@@ -69,6 +69,4 @@ On this episode of Podcast Awesome, we trace the icon back to a 1981 Xerox Star 
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19714222-the-sandwich-that-broke-ux-rules-and-won.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

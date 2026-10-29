@@ -3,7 +3,7 @@
 	import { getComments, getCounts } from "./replies.js";
 	import { getPostProduct, isProductName } from "./sources.js";
 
-	let { post, group, indexBody = false, postContent } = $props();
+	let { post, group, indexBody = false, postContent, showAudio = false } = $props();
 	const { collections } = getContext("data");
 	const { readableDate, resolveAssets, getReplyParent, getAvatarUrl, renderAuthors } = getContext("functions");
 
@@ -42,6 +42,8 @@
 	let productAuthor = $derived(post.data.authors?.find(author => isProductName(author, authorIcon)));
 	let avatarUrl = $derived(getAvatarUrl(collections.all, shownAuthors[0]?.url));
 	let replyCount = $derived(getComments(group.posts).length);
+	// Podcast episodes without an item link use their audio enclosure as the URL
+	let audioUrl = $derived(showAudio && /\.(mp3|m4a|aac|oga|ogg|opus|wav)$/i.test(URL.parse(post.data.metadata.url)?.pathname) ? post.data.metadata.url : undefined);
 	// Blog posts link to their Open Graph image instead of showing the full post, except short changelog entries
 	let openGraphImage = $derived(post.data.metadata.type === "blog" && !post.inputPath.includes("/fontawesome-changelog/") ? `https://v1.opengraph.11ty.dev/${encodeURIComponent(post.data.metadata.url)}/medium/` : undefined);
 
@@ -56,6 +58,7 @@
 	</div>
 	{#if post.data.showTitle}<h2 class="post-title">{#if repoUrl}<a href={repoUrl}><i class={sourceIcons[post.data.metadata.type]}></i>{post.data.title}</a>{:else}<a href={post.url}>{post.data.title}</a>{/if}</h2>{/if}
 	{#if post.data.metadata.media?.featuredImage}{#if post.data.metadata.type === "youtube" && post.data.metadata.url}<a href={post.data.metadata.url} class="post-image-link"><img src={post.data.metadata.media.featuredImage} class="post-image" alt="Watch {post.data.title} on YouTube" loading="lazy" decoding="async"></a>{:else}<img src={post.data.metadata.media.featuredImage} class="post-image" alt="" loading="lazy" decoding="async">{/if}{/if}
+	{#if audioUrl}<audio controls preload="metadata" src={audioUrl} class="post-audio"></audio>{/if}
 	<div class="post-content" data-pagefind-body={indexBody ? "" : null}>{#if openGraphImage}<a href={post.data.metadata.url}><img src={openGraphImage} class="post-image" width="1200" height="630" alt={post.data.title} loading="lazy" decoding="async"></a>{:else if html?.trim() || !post.data.description}{@html html}{:else}<p>{post.data.description}</p>{/if}</div>
 	<div class="post-footer">
 		<span class="post-author">
@@ -75,6 +78,7 @@
 </article>
 <style>
 :global {
+	.post-audio { display: block; width: 100%; margin-block: 3rem; }
 	.post-counts { display: inline-flex; flex-wrap: wrap; gap: .25rem .75rem; }
 	.post-links > a { display: inline-flex; align-items: center; gap: .35em; }
 	.post-links { margin-left: auto; justify-content: flex-end; }

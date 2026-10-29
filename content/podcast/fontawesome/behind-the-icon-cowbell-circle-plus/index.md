@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17171892
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17171892-behind-the-icon-cowbell-circle-plus.mp3
-  importHash: d0e96f820b694c92
+  importHash: bd4e8f14e2be7e5d
 ---
 **💥 A Podcast Awesome Deep Cut**
 
@@ -62,6 +62,4 @@ What starts as a nod to the legendary SNL sketch featuring Will Ferrell and Chri
 -   Music shoutouts: [Foghat](https://www.youtube.com/watch?v=n9VFTxPgtq0&list=RDn9VFTxPgtq0&start_radio=1), [Beastie Boys](https://www.youtube.com/watch?v=Naf5uJYGoiU&list=RDNaf5uJYGoiU&start_radio=1), [KISS](https://www.youtube.com/watch?v=lwLStZXSHgk&list=RDlwLStZXSHgk&start_radio=1), [Judas Priest](https://www.youtube.com/watch?v=WtuoFv4dcwM&list=RDWtuoFv4dcwM&start_radio=1), [Queen](https://www.youtube.com/watch?v=AnGaEk0rZdU&list=RDAnGaEk0rZdU&start_radio=1), Thin Lizzy, and more
 -   **Credits**: [Matt Johnson](https://x.com/BlingfortheKing) (host + producer), [Ronnie Martin](https://ronniemartin.org/) (theme song), [Zach Malm](https://muzach.bandcamp.com/) (music interstitials), [Chris Enns @ Lemon Productions](https://www.lemonproductions.ca) (mastering), [Isaac Chase](https://www.youtube.com/watch?v=R6r-FGAMVUw) (video edit magic)
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17171892-behind-the-icon-cowbell-circle-plus.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16584258
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16584258-from-script-to-sizzle-how-we-cooked-up-the-font-awesome-7-promo-video.mp3
-  importHash: 0f7f0805f5869650
+  importHash: a054ea785a191612
 ---
 **Summary**
 
@@ -65,6 +65,4 @@ Now go make something awesome. 🚀🎨
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16584258-from-script-to-sizzle-how-we-cooked-up-the-font-awesome-7-promo-video.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

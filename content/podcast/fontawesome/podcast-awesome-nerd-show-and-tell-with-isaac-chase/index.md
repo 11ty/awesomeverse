@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16860767
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16860767-podcast-awesome-nerd-show-tell-with-isaac-chase.mp3
-  importHash: 4412e29918a7cf5b
+  importHash: 15c7ce049e594bbc
 ---
 🎬 Summary
 
@@ -59,6 +59,4 @@ Outside work, Isaac’s nerding out on graphic design, especially in music merch
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16860767-podcast-awesome-nerd-show-tell-with-isaac-chase.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

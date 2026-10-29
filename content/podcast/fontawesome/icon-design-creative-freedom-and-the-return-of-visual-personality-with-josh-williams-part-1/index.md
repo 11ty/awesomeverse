@@ -11,7 +11,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19424515
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19424515-icon-design-creative-freedom-and-the-return-of-visual-personality-with-josh-williams-part-1.mp3
-  importHash: dc8e09983763e03e
+  importHash: e082186ec55baadd
 ---
 Josh Williams has been designing icons since before it was a “real” job.  
   
@@ -54,6 +54,4 @@ Theme song by Ronnie Martin
 Music interstitials by Zach Malm  
 Video editing by Isaac Chase
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19424515-icon-design-creative-freedom-and-the-return-of-visual-personality-with-josh-williams-part-1.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

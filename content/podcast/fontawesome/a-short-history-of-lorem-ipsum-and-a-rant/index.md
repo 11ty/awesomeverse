@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17154882
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17154882-a-short-history-of-lorem-ipsum-and-a-rant.mp3
-  importHash: 15e2dc36b8555d0e
+  importHash: 77ee512d2d4cf480
 ---
 **“Layouts are sexy but, you know, words still matter.”**  
  
@@ -53,6 +53,4 @@ You’ll laugh. You’ll cringe. You’ll maybe rethink that next wireframe.
 
 📱 Apple Podcasts | 🎧 Spotify | 💻 YouTube | 🌐 podcastawesome.com
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17154882-a-short-history-of-lorem-ipsum-and-a-rant.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

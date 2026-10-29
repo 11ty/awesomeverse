@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17732733
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17732733-rage-coding-headless-web-components-and-the-future-of-dx-with-burton-smith.mp3
-  importHash: 7cf3a7e9c05e6b24
+  importHash: 3a84ac1f9d2cb4e5
 ---
 Have you ever rage-coded your way into building a developer tool that actually fixes things? Burton Smith has. And we’re here for it.
 
@@ -61,6 +61,4 @@ This one’s for devs who are tired of wiring up wrappers, fighting with VS Code
 🎸 [Music Interstitials by Zach Malm](https://muzach.bandcamp.com/)  
 🎬 [Produced and edited by Matt Johnson](https://x.com/BlingfortheKing) with some extra help from Isaac Chase 
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17732733-rage-coding-headless-web-components-and-the-future-of-dx-with-burton-smith.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

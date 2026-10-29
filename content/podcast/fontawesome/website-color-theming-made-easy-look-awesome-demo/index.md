@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19165534
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19165534-website-color-theming-made-easy-look-awesome-demo.mp3
-  importHash: ac7dbc48976036e5
+  importHash: 46026482415285cb
 ---
 **Look Awesome: Solving Color Once and for All**
 
@@ -47,6 +47,4 @@ Watch the full demo from the livestream! youtube.com/live/XBMSvupE7Bc?si=3Ow2B1I
 -   Music interstitials by Zach Malm
 -   Video editing by Isaac Chase
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19165534-website-color-theming-made-easy-look-awesome-demo.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

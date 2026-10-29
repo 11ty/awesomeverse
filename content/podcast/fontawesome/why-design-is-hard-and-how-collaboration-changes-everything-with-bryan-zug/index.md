@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16782230
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16782230-why-design-is-hard-and-how-collaboration-changes-everything-with-bryan-zug.mp3
-  importHash: cb50abeb0ddd9065
+  importHash: fc9a9ee73e40cec2
 ---
 **Episode Summary**
 
@@ -72,6 +72,4 @@ I’ll be honest — this conversation was brutal to edit because Bryan has so m
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16782230-why-design-is-hard-and-how-collaboration-changes-everything-with-bryan-zug.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

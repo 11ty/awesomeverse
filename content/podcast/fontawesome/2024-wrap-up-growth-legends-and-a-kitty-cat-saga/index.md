@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16457012
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16457012-2024-wrap-up-growth-legends-and-a-kitty-cat-saga.mp3
-  importHash: 84e9d34dde773cd8
+  importHash: 0cb7f979b83bba73
 ---
 It’s that time of year again! In this episode of _Podcast Awesome_, we’re reflecting on all the things that went down at Font Awesome in 2024. From expanding the Awesomeverse with Web Awesome and Eleventy to major product updates like the full release of Duotone Icons and shiny new branding, we cover it all.
 
@@ -50,6 +50,4 @@ Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!
   
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16457012-2024-wrap-up-growth-legends-and-a-kitty-cat-saga.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

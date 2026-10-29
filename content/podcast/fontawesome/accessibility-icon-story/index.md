@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17236911
   type: rss
   url: https://www.podcastawesome.com/accessibility-icon-story
-  importHash: 446a1e6fb3003a5b
+  importHash: b8d8abbf67f8405e
 ---
 **Design meets activism. Philosophy meets iconography. Wheelchairs meet graffiti.**
 
@@ -60,6 +60,4 @@ And knowing? Yep. That’s half the battle.
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17236911-from-stickers-to-state-law-the-accessibility-icon-story.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

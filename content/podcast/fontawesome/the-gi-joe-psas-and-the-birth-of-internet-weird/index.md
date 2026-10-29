@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17154929
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17154929-the-gi-joe-psas-and-the-birth-of-internet-weird.mp3
-  importHash: c3f57336274cd30e
+  importHash: 93150c93ea1e9201
 ---
 **Pork chop sandwiches!!** 🫡 🏃‍♂️‍➡️
 
@@ -45,6 +45,4 @@ So gather 'round, old-school internet nerds. This one’s for you. And knowing? 
 
 #PodcastAwesome #GIJoePSAs #InternetHistory #MemeCulture #FenslerFilm #DesignNerdery #TimAndEric #PorkChopSandwiches #AbsurdistComedy
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17154929-the-gi-joe-psas-and-the-birth-of-internet-weird.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18107447
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18107447-living-the-dream-dan-cederholm-s-creative-journey-part-2-podcast-awesome.mp3
-  importHash: 7eb9593f5cfc5c7e
+  importHash: 8fa63e3a631a1023
 ---
 🧠 What do LEGO logos, hand-puppet dreams, citrus gadgets, and naming things "Turbo" have in common? They're all part of Dan Cederholm’s design universe — and part of this wide-ranging, joy-filled second half of our conversation.  
   
@@ -53,6 +53,4 @@ What We Cover in This Episode:
 • Font Possum cameo → \[FontAwesome YouTube Channel\]  
 • BrickLink Studio (Lego design app) → https://www.bricklink.com/v3/studio
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18107447-living-the-dream-dan-cederholm-s-creative-journey-part-2-podcast-awesome.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

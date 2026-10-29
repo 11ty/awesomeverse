@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18785266
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18785266-eleventy-is-rebranding-to-build-awesome-what-changes-and-what-doesn-t.mp3
-  importHash: 8d63ef6264864eec
+  importHash: bbc3fa64c3cf6d50
 ---
 Eleventy is becoming **Build Awesome** — and Zach Leatherman is here to explain what that actually means.
 
@@ -61,6 +61,4 @@ Plus: behind-the-scenes stories from filming the Kickstarter video in LA, includ
 -   [Font Awesome](https://fontawesome.com/)
 -   [Web Awesome](https://webawesome.com/)
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18785266-eleventy-is-rebranding-to-build-awesome-what-changes-and-what-doesn-t.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19065993
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19065993-build-week-what-we-made-with-ai-part-1-with-dave-travis.mp3
-  importHash: d0238f5b6dfc12ae
+  importHash: 3c418721c471fae4
 ---
 💻 AI side quests, but make it Snuggle. 🤖✨  
   
@@ -52,6 +52,4 @@ Credits:
 🎵 Theme music by Ronnie Martin  
 🎶 Interstitials by Zach Malm
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19065993-build-week-what-we-made-with-ai-part-1-with-dave-travis.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19924901
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19924901-cape-cuddles-icon-farts-and-hoobastank-the-story-of-the-snuggle.mp3
-  importHash: 266a71936d7abf70
+  importHash: 99b46c3f7b838d4b
 ---
 Every company has a name for the week everybody flies in. The offsite. The summit. The all-hands. At Font Awesome, it's called the Snuggle. For real.
 
@@ -64,6 +64,4 @@ Recorded from a hotel room at the October 2026 Snuggle, this episode digs into t
 -   Hosted, produced, and edited by [Matt Johnson](https://www.linkedin.com/in/mattjohnsonwriter/)
 -   Theme song by [Ronnie Martin](https://ronniemartin.org/)
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19924901-cape-cuddles-icon-farts-and-hoobastank-the-story-of-the-snuggle.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

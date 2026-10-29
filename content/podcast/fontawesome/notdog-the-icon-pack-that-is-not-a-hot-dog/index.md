@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19986866
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19986866-notdog-the-icon-pack-that-is-not-a-hot-dog.mp3
-  importHash: b59580170df09c2d
+  importHash: 3017665009f54aae
 ---
 What do a scene from _Silicon Valley_, a typeface shaped like sausages, and a bottle of mustard have in common? They're all part of the origin story of Notdog, one of Font Awesome's small-batch Pro+ icon packs. It's glossy, it's gooey, and it is very much not a hot dog.
 
@@ -61,6 +61,4 @@ Video editing by Isaac Chase
 
 #FontAwesome #PodcastAwesome #IconDesign #GraphicDesign #DesignProcess #Typography
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19986866-notdog-the-icon-pack-that-is-not-a-hot-dog.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

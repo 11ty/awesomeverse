@@ -29,7 +29,7 @@
 {#if post.data.showTitle || post.data.searchTitle}<span hidden data-pagefind-meta="heading">{post.data.showTitle ? post.data.title : post.data.searchTitle}</span>{/if}
 <div class="entry">
 	<Pager label="Posts" newer={nextPost?.url} older={previousPost?.url} rel />
-	<Post {post} {group} {indexBody} postContent={content} />
+	<Post {post} {group} {indexBody} postContent={content} showAudio />
 	{#if crossposts.length}<p class="crossposts">Also posted to {#each crossposts as p, index}{#if index}, {/if}<a href={p.url} class={["post-source", `post-source--${p.data.metadata.type}`]}>{p.data.sourceLabel || p.data.sectionTitle}</a>{/each}.</p>{/if}
 	<Replies posts={group.posts} />
 	{#if replyCount}<Pager label="More posts" newer={nextPost?.url} older={previousPost?.url} rel />{/if}

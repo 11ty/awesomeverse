@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19626534
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19626534-beach-ball-of-death-the-ghost-of-a-10k-failed-computer.mp3
-  importHash: 5fa7190132024fe1
+  importHash: bc7638286e9fad84
 ---
 You've seen it a thousand times: you're two minutes late for a video conference call, you throw on a shirt with buttons (It's okay that you're still wearing jammie pants. Don't worry, nobody can see), and right when you need your computer most, that colorful spinning ball shows up to ruin your day. It's called a lot of things, but most of us just call it a curse word.
 
@@ -79,6 +79,4 @@ Erin J. Rimmer's ["The Utterly Obscure History of the Computer Cursor"](https://
 
 Dan Vincent's ["What's Inside a NeXT Computer Accessory Kit?"](https://www.userlandia.com/home/2022/11/next-accessory-kit) on Userlandia
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19626534-beach-ball-of-death-the-ghost-of-a-10k-failed-computer.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

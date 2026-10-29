@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16706688
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16706688-pro-new-styles-not-dog-icons-welcome-to-font-awesome-7.mp3
-  importHash: ae715e2de0fcfaa5
+  importHash: 1c1220988770a685
 ---
 **Font Awesome 7 Here We Come!** 
 
@@ -48,6 +48,4 @@ Is it too many icons? Maybe. Are we going to stop? Absolutely not.
 -   🐦 Twitter/X: @fontawesome
 -   📸 Instagram: @font.awesome
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16706688-pro-new-styles-not-dog-icons-welcome-to-font-awesome-7.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

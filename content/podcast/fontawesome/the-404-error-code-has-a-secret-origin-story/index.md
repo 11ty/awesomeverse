@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19564896
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19564896-the-404-error-code-has-a-secret-origin-story.mp3
-  importHash: 614b183a2217eb13
+  importHash: 0218d6d1569499b6
 ---
 Picture this serious, sterile scene: scientists in lab coats, pocket protectors, carrying clipboards, and nobody’s making eye contact. Nobody would guess that this backdrop would produce some of the best internet lore.
 
@@ -74,6 +74,4 @@ Video editing by [Isaac Chase](https://www.linkedin.com/in/isaacchase/)
 
 #PodcastAwesome #404Error #WebHistory #InternetLore #TechTrivia #HTTPStatusCodes #FontAwesome #DesignPodcast
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19564896-the-404-error-code-has-a-secret-origin-story.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

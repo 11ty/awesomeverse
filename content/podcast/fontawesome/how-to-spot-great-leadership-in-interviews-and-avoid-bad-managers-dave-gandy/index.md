@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18758254
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18758254-how-to-spot-great-leadership-in-interviews-and-avoid-bad-managers-dave-gandy.mp3
-  importHash: 1989da05a27cdb39
+  importHash: 1ca770bbaabcf470
 ---
 In this episode of Podcast Awesome, Matt  sits down with Font Awesome founder Dave Gandy to unpack what it really means to be a great employee _and_ a great manager — without the “rockstar ninja unicorn” nonsense, micromanaging, or performative perks. Dave reframes the idea of a “lifestyle business” as a badge of honor (not a slight), explains why leadership matters more than the role you’re hired for, and shares practical ways to spot healthy management during interviews — plus what autonomy should actually look like inside a team that trusts each other.
 
@@ -68,6 +68,4 @@ Patrick Lencioni / [The Table Group](https://www.tablegroup.com/?srsltid=AfmBOoq
 🎸 Music Interstitials by [Zach Malm](https://muzach.bandcamp.com/)   
 🎬 Produced and edited by Matt Johnson with some extra video editing help from Isaac Chase
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18758254-how-to-spot-great-leadership-in-interviews-and-avoid-bad-managers-dave-gandy.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

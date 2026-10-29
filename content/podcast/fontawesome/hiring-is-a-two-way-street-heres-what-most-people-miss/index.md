@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18954751
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18954751-hiring-is-a-two-way-street-here-s-what-most-people-miss.mp3
-  importHash: 64d4cea5a978149c
+  importHash: 9d6fdb1815c9452f
 ---
 Job interviews aren’t just about proving you’re a fit — they’re about figuring out whether the company deserves you, too. 👀  
   
@@ -58,6 +58,4 @@ Watch this episode on [YouTube](https://www.youtube.com/watch?v=1Tq7C_8BRXc)
   
 #Hiring #InterviewTips #JobSearch #CareerAdvice #Leadership #CompanyCulture #WorkplaceCulture #TechCareers #PodcastAwesome #FontAwesome 🚀
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18954751-hiring-is-a-two-way-street-here-s-what-most-people-miss.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18714864
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18714864-vic-bell-on-designing-graphite-hand-drawn-icons-for-font-awesome.mp3
-  importHash: 3bed972c582f8054
+  importHash: 77a762e7e14790b3
 ---
 In this episode, Matt and Jory sit down with UK-based icon designer + illustrator Vic Bell to talk about the brand-new Font Awesome icon pack, Graphite — a loose, hand-drawn set that brings texture, depth, and a whole lot of human personality to iconography.
 
@@ -51,6 +51,4 @@ Web Awesome: [https://webawesome.com/](https://webawesome.com/)
 Theme music by Ronnie Martin  
 Interstitial music by Zach Malm
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18714864-vic-bell-on-designing-graphite-hand-drawn-icons-for-font-awesome.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

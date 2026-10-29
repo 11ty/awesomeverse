@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19660934
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19660934-icon-wizard-2-0-build-any-icon-you-can-imagine.mp3
-  importHash: d4ea3d7ca8bc7f6a
+  importHash: 119fe5efac499b8c
 ---
 Font Awesome's Icon Wizard just got a serious upgrade, and it's now powerful enough to make genuinely great icons (or, per Mike's own admission, genuinely terrible ones, if that's more your speed).
 
@@ -92,6 +92,4 @@ Links**
 -   Feedback: [feedback@fontawesome.com](mailto:feedback@fontawesome.com)
 -   Font Awesome: [https://fontawesome.com](https://fontawesome.com)
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19660934-icon-wizard-2-0-build-any-icon-you-can-imagine.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18543073
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18543073-2025-awesomeverse-recap-with-matt-and-jory.mp3
-  importHash: cdca32a19b30bd66
+  importHash: b2171edd236fc8f1
 ---
 Happy New Year from the Awesomeverse! In this episode, Matt and Jory kick off 2026 by recapping all the wild, weird, and wonderful things that happened across Font Awesome and Web Awesome in 2025. From the launch of FA7 and small-batch icon packs to a possum puppet mascot (yes, really), they reflect on the big (and small batch) wins, behind-the-scenes hilarity, and creative experiments that made the year unforgettable. Oh, and if you're wondering what it's like to direct a hot dog-eating scene at a Kickstarter video shoot? We’ve got that covered too.
 
@@ -55,6 +55,4 @@ Happy New Year from the Awesomeverse! In this episode, Matt and Jory kick off 20
 🎹 Interstitial music by Zach Malm  
 🎥 Video support by Isaac Chase
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18543073-2025-awesomeverse-recap-with-matt-and-jory.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

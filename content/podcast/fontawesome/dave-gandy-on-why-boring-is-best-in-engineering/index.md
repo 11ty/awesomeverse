@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16479749
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16479749-dave-gandy-on-why-boring-is-best-in-engineering.mp3
-  importHash: 061740e8f9f91dcf
+  importHash: 1b3537d5c446bb94
 ---
 In this episode, Dave and Matt explore First LEGO League, where kids as young as third grade tackle robotics and engineering challenges. As a coach, Dave shares how he guides his team to embrace the golden rule of engineering: Keep it simple, keep it sturdy.
 
@@ -58,6 +58,4 @@ Audio mastering by Chris Enns and [Lemon Productions](https://www.lemonproductio
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16479749-dave-gandy-on-why-boring-is-best-in-engineering.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

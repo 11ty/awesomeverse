@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19099835
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19099835-build-week-what-we-made-with-ai-part-2-with-dave-travis.mp3
-  importHash: cf7e70339436d56c
+  importHash: c396d76099e9218d
 ---
 AI makes it easier to build almost anything. So why does that make the job harder?
 
@@ -78,6 +78,4 @@ Credits**
 
 #PodcastAwesome #FontAwesome #AI #DesignAndDevelopment #TechEthics #SoftwareDevelopment
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19099835-build-week-what-we-made-with-ai-part-2-with-dave-travis.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

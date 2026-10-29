@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16065652
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16065652-nerd-show-and-tell-meet-zach-leatherman.mp3
-  importHash: 52097a6df74b66ac
+  importHash: 1e5561861a4d56d2
 ---
 Ready to geek out? In this episode of Podcast Awesome's Nerd Show and Tell, Matt sits down with none other than **Zach Leatherman**, the tech dynamo and creator behind Eleventy — the static site generator that’s got web devs buzzing. Zach’s tech-world experience is a wild ride of innovation, grit, and love for the open web. With a little help from our team here at Font Awesome, Zach’s pushing to make open-source sustainable and bring back the glory days of personal websites, free from algorithm overlords.
 
@@ -52,6 +52,4 @@ Zach gets real about the rollercoaster ride of building Eleventy and why owning 
 -   Music interstitials by Zach Malm: https://muzach.bandcamp.com/
 -   Audio mastering by Chris Enns at Lemon Productions: [https://www.lemonproductions.ca/](https://www.lemonproductions.ca/)
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16065652-nerd-show-and-tell-meet-zach-leatherman.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

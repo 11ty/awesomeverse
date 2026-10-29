@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18325876
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18325876-inclusive-nerdery-the-secret-sauce-of-great-teams-podcast-awesome.mp3
-  importHash: 48b9f67ab271fe1d
+  importHash: 546022d51ffe11e9
 ---
 What is nerdery, really? 🤓 In this episode of Podcast Awesome, we dig into the heart of Font Awesome’s culture — inclusive nerdery. It's not about lone geniuses or command line gatekeepers. It’s about heart, curiosity, humility, and building awesome things with other people. 💛  
   
@@ -50,6 +50,4 @@ This episode is for anyone building company culture, or just trying to figure ou
 🎥 Video support by Isaac Chase  
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18325876-inclusive-nerdery-the-secret-sauce-of-great-teams-podcast-awesome.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

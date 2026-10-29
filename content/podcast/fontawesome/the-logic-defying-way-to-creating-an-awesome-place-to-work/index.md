@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16173394
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16173394-the-logic-defying-way-to-creating-an-awesome-place-to-work.mp3
-  importHash: 92730d7398ad1b8c
+  importHash: 34ab19492a056921
 ---
 In this episode of Podcast Awesome, Matt chats with Font Awesome co-founder Dave Gandy about building a workplace that doesn’t just work — but works for everyone. Whether you’re hustling in a startup, navigating open-source communities, or just trying to figure out if your boss actually values your humanity, this one’s for you.   
   
@@ -46,6 +46,4 @@ Dave dishes on the magic of finding the right co-founder (hint: they need to tel
 🎵 **Music interstitials** by Zach Malm: https://muzach.bandcamp.com/  
 🎛️ **Audio mastering** by Chris Enns at Lemon Productions: https://www.lemonproductions.ca/ 
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16173394-the-logic-defying-way-to-creating-an-awesome-place-to-work.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

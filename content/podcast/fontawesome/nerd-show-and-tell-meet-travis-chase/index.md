@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17104872
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17104872-nerd-show-and-tell-meet-travis-chase.mp3
-  importHash: 6cb6e63e44e80ae4
+  importHash: b631bcde9ccdeede
 ---
 In this very special episode of _The Nerd Show and Tell_, we finally cornered the elusive co-founder of Font Awesome — Travis Chase! 🧢✨ From dialing into the web back in the modem days, to co-founding a company that powers millions of websites, Travis shares his unique journey from almost-accountant to accidental icon-company-boss. Or something. You’ll hear tales of telephony code, Star Wars devotion, and how building a company that _doesn’t burn people out_ might be the most radical idea of all.
 
@@ -49,6 +49,4 @@ He’s part artist 🎨, part developer 💻, full-on space western nerd — and
 -   🎵 Podcast Theme by Ronnie Martin
 -   🎛️ Audio mastering by [Chris Enns @ Lemon Productions](https://lemonproductions.ca)
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17104872-nerd-show-and-tell-meet-travis-chase.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

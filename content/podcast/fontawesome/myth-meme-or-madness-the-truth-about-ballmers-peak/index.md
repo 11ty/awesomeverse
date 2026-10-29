@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16256257
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16256257-myth-meme-or-madness-the-truth-about-ballmer-s-peak.mp3
-  importHash: 0efe3711463587c0
+  importHash: b634e51215b65612
 ---
 🍺 What’s the deal with the Ballmer Peak? Myth, meme, or just good old-fashioned developer humor? In this episode of Podcast Awesome, we unpack the hilarity and history behind this coding legend, complete with personal stories, team insights, and a responsible PSA. Whether you’re debugging at 3 a.m. or just love a good laugh, this episode has something for everyone.  
   
@@ -38,6 +38,4 @@ Font Awesome on Social 
   
 🖥️ Don’t forget to like, comment, and subscribe for more nerdery, tech insights, and fun!
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16256257-myth-meme-or-madness-the-truth-about-ballmer-s-peak.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

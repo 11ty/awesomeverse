@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18615318
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18615318-how-eleventy-survived-funding-growth-and-open-source-reality.mp3
-  importHash: 884b95e9526062fd
+  importHash: 416f9033a1d555cb
 ---
 Eleventy started as a side project. Now it’s a critical infrastructure for thousands of websites.  
   
@@ -54,6 +54,4 @@ We cover sustainability, community expectations, funding models that don’t rel
 🎹 Interstitial music by Zach Malm  
 🎥 Video support by Isaac Chase
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18615318-how-eleventy-survived-funding-growth-and-open-source-reality.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

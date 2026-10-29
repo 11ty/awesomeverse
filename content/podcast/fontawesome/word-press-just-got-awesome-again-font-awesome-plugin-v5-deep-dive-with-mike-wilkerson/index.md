@@ -12,7 +12,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17601774
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17601774-wordpress-just-got-awesome-again-font-awesome-plugin-v5-deep-dive-with-mike-wilkerson.mp3
-  importHash: 057751e7bdf102d3
+  importHash: 8449c3d24a6108d7
 ---
 **Episode Summary:**
 
@@ -52,6 +52,4 @@ Whether you’re a WordPress purist or a page builder rebel, you’ll walk away 
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17601774-wordpress-just-got-awesome-again-font-awesome-plugin-v5-deep-dive-with-mike-wilkerson.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

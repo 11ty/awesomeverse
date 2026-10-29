@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17393245
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17393245-invisible-creature-s-don-clark-on-nostalgia-iconography-and-staying-human.mp3
-  importHash: 652facb7702fa7fb
+  importHash: b687377dc7f7cc9d
 ---
 **Designing Joy: Don Clark of Invisible Creature on Creativity, Collectibles & Culture**
 
@@ -60,6 +60,4 @@ Plus, Don once designed a 7-story mural for Newark Airport that one construction
 -   Audio mastering by Chris Enns at [Lemon Productions](https://www.lemonproductions.ca/)
 -   Produced and edited by [Matt Johnson](http://therealmattjohnson.com)
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17393245-invisible-creature-s-don-clark-on-nostalgia-iconography-and-staying-human.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

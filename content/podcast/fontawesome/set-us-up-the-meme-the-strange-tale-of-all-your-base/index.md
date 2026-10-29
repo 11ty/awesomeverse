@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17087901
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17087901-set-us-up-the-meme-the-strange-tale-of-all-your-base.mp3
-  importHash: 629a1cc25cdbc75a
+  importHash: dd6df6bb5ad0e2bd
 ---
 **Where did the “All Your Base Are Belong to Us” meme come from — and why did it break the early internet?**
 
@@ -63,6 +63,4 @@ Whether you're an old-school web nerd or just want to understand why your cowork
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17087901-set-us-up-the-meme-the-strange-tale-of-all-your-base.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

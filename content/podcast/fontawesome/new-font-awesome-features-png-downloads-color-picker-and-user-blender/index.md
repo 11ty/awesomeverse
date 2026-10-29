@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18882462
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18882462-new-font-awesome-features-png-downloads-color-picker-and-user-blender.mp3
-  importHash: da54d821b447b079
+  importHash: 28514d005f29483e
 ---
 In this episode of Podcast Awesome, Matt sits down with Ed and Francis to talk through three newly shipped Font Awesome features that are small, practical, and just the right amount of fun. They dig into **individual PNG downloads**, a new **global color picker** for previewing icons in brand colors, and the wonderfully playful **User Blender**, which lets you mix and match heads, bodies, and styles to create custom user icons for your kit.
 
@@ -67,6 +67,4 @@ Interstitial music by Zach Malm: https://muzach.bandcamp.com/
 
 BowziTV: https://www.youtube.com/@BowziTV
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18882462-new-font-awesome-features-png-downloads-color-picker-and-user-blender.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

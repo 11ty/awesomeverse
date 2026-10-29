@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17268471
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17268471-how-we-built-web-awesome-with-11ty-and-why-it-s-so-fast.mp3
-  importHash: 5d1ee6494cf54509
+  importHash: 3a3e11d5c6496d8e
 ---
 **Build once, run everywhere.**  
 In this full-nerd, front-end-leaning episode of _Podcast Awesome_, Matt sits down with Zach Leatherman (creator of Eleventy) and Konnor Rogers (Web Awesome developer) to chat about how a static site generator just might be the key to building some of the most powerful, performant documentation on the web.
@@ -40,6 +40,4 @@ Pull up your terminal. This one’s for you.
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17268471-how-we-built-web-awesome-with-11ty-and-why-it-s-so-fast.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

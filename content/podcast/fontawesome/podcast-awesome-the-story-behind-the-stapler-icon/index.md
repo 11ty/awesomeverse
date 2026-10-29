@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17590970
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17590970-podcast-awesome-the-story-behind-the-stapler-icon.mp3
-  importHash: 9f2bf52b52959ce5
+  importHash: a415d30a4d5badca
 ---
 🔴 “Excuse me … I believe you have my stapler?”
 
@@ -60,6 +60,4 @@ In this episode of The Story Behind the Icon, we dive deep into the surprisingly
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17590970-podcast-awesome-the-story-behind-the-stapler-icon.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-17594774
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/17594774-clippy-cult-the-paperclip-that-wouldn-t-quit.mp3
-  importHash: 45d8aaaf7cd37df9
+  importHash: 7b83060af9b8f679
 ---
 **Inside the UX lessons, internet lore, and surprising comeback of Clippy**
 
@@ -46,6 +46,4 @@ Love him or loathe him, you _remember_ him. Clippy — the googly-eyed paperclip
     🎸 [Music Interstitials by Zach Malm](https://muzach.bandcamp.com/)  
     🎬 [Produced and edited by Matt Johnson](https://x.com/BlingfortheKing) with some extra help from Isaac Chase 
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/17594774-clippy-cult-the-paperclip-that-wouldn-t-quit.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

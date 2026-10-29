@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18947870
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18947870-laura-bohill-a-dream-project-a-design-crisis-and-the-chisel-icon-pack.mp3
-  importHash: f774bcb3cbdc54a5
+  importHash: 8dfb1b35b0abf387
 ---
 **Episode Summary**
 
@@ -68,6 +68,4 @@ Theme song: [**Ronnie Martin**](https://ronniemartin.org/)
 Music interstitials:  [**Zach Malm**](https://muzach.bandcamp.com/)  
 Additional video editing: **Isaac Chase**
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18947870-laura-bohill-a-dream-project-a-design-crisis-and-the-chisel-icon-pack.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

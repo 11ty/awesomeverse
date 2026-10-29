@@ -11,7 +11,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19845860
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19845860-the-cdn-experiment-that-converted-one-person-and-what-it-taught-us-about-failing-well.mp3
-  importHash: 930bdc092c0c4ce3
+  importHash: 1f6c51be47cafbf3
 ---
 Would you take a shot at something you cared about if your odds of success were 1.4%? Font Awesome founders Dave Gandy and Travis Chase did exactly that when they applied to Y Combinator back in 2014. And in the years since, Font Awesome has racked up plenty of failures right alongside the wins. 'Cos that's just what happens when you're building something awesome.
 
@@ -110,6 +110,4 @@ The through-line: none of this looks like a success story on its own. But it's b
 
 #FontAwesome #PodcastAwesome #FailureIsData #StartupLessons #YCombinator #DesignAndDev #WebDesign #BuildInPublic
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19845860-the-cdn-experiment-that-converted-one-person-and-what-it-taught-us-about-failing-well.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

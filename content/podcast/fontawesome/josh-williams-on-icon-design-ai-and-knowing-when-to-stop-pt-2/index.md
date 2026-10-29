@@ -10,7 +10,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-19487560
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/19487560-josh-williams-on-icon-design-ai-and-knowing-when-to-stop-pt-2.mp3
-  importHash: 233e987b6a8bd365
+  importHash: b94f2de18ba87cf9
 ---
 What if software had a final season? Josh Williams is back for round two, and this conversation goes places the first one didn't. We get into designing as a generalist instead of a specialist, why some of the best products (RIP Gowalla, RIP Path) might have worked better as limited series instead of forever-apps, and what it actually feels like to use AI tools day to day — not the hot-take version, the real one, where the hardest part isn't the tech, it's knowing when to stop adding features.
 
@@ -87,6 +87,4 @@ Hashtags**
 
 #PodcastAwesome #IconDesign #FontAwesome #DesignPodcast #AIandDesign #ProductDesign #BrandDesign #TechPodcast #CreativeIndustry #DesignCareers
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/19487560-josh-williams-on-icon-design-ai-and-knowing-when-to-stop-pt-2.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18013115
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18013115-living-the-dream-dan-cederholm-s-creative-journey-part-1.mp3
-  importHash: 853842ae95e02d53
+  importHash: 495b20c0dd0de223
 ---
 **Summary**
 
@@ -55,6 +55,4 @@ Video editing by [**Isaac Chase**](https://bsky.app/profile/theisaacchase.bsky.s
 Theme music by [**Ronnie Martin**](https://ronniemartin.org/)  
 Interstitial music by [**Zach Malm**](https://muzach.bandcamp.com/)
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18013115-living-the-dream-dan-cederholm-s-creative-journey-part-1.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

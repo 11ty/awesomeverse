@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18253336
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18253336-andy-maier-on-curiosity-creativity-and-the-force-that-binds-it-all.mp3
-  importHash: 3bcf899820d33e69
+  importHash: 2af6e69bd9a6321a
 ---
 🎬 What do Star Wars, oil painting, and storytelling have in common?  
    
@@ -55,6 +55,4 @@ If you've ever felt like the underdog creative, this one’s for you. Andy drops
   
  #PodcastAwesome #StorytellingMatters #CreativeJedi #VisualStorytelling #FilmmakerLife #MotionGraphicsArtist #DesignNerds #FontAwesome #CuriosityWins #InvisibleInk #CreativeProcess #OilPaintingForDesigners #BuildWellsNotFences #NerdCulture #MetalVibesOnly #StarWarsStorytelling #MakeSomethingAwesome
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18253336-andy-maier-on-curiosity-creativity-and-the-force-that-binds-it-all.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

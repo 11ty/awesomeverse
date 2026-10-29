@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16692493
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16692493-what-the-heck-is-a-design-engineer-with-dave-darnes.mp3
-  importHash: a2242a8a253d56ef
+  importHash: fab6b428ad64d7cf
 ---
 Design engineer. UX engineer. Front-end dev with opinions. What does it all mean?! In this episode, we sit down with **Dave Darnes** to untangle the ever-evolving world of design and development (**And Dave is our first non-Font Awesomer on the pod!)**. We talk about why job titles keep getting weirder, whether "engineer" is a fair title for folks who work on the web, and how design systems can bridge the gap between teams. Plus, we explore the future of the role — will tools like **Figma and AI** replace design engineers, or will the internet always need humans who can _actually_ build things?
 
@@ -66,6 +66,4 @@ Design engineer. UX engineer. Front-end dev with opinions. What does it all mean
   
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16692493-what-the-heck-is-a-design-engineer-with-dave-darnes.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

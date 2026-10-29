@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-18179381
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/18179381-web-awesome-has-landed-here-s-how-to-stop-starting-from-scratch.mp3
-  importHash: 21b73eac1e699be0
+  importHash: 7f6ae2aae7a87b47
 ---
 **Episode Summary  
 **  
@@ -55,6 +55,4 @@ Oh! And they may or may not be plotting a future where we don’t even need Figm
 🧠 Learn more about \[Jacob’s Law\](https://lawsofux.com/jakobs-law/)  
 🎁 **Don’t forget: 20% off Web Awesome Pro until Nov 19th**!
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/18179381-web-awesome-has-landed-here-s-how-to-stop-starting-from-scratch.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!

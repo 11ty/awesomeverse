@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::Buzzsprout-16061709
   type: rss
   url: https://www.buzzsprout.com/2092855/episodes/16061709-why-lifestyle-company-is-a-badge-of-honor-at-font-awesome.mp3
-  importHash: 105a4d1f960eb3f0
+  importHash: 71725dcba35d7ca8
 ---
 🎙 In this episode, Font Awesome founder Dave Gandy joins our host Matt Johnson for an honest, unfiltered convo about what it means to build a \*lifestyle company\* (and wear that badge proudly 💪). This isn’t your typical startup hustle. We’re diving into the “people-first” culture that makes Font Awesome a standout, from character-driven hiring to redefining what success means beyond growth on charts and graphs. 🏆💼  
   
@@ -49,6 +49,4 @@ VC Vibes Not Required:** Font Awesome skips the “thousand-X-or-bust” mentali
 
   
 
-Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)! 
-
-<audio controls="" src="https://www.buzzsprout.com/2092855/episodes/16061709-why-lifestyle-company-is-a-badge-of-honor-at-font-awesome.mp3"></audio>
+Stay up to date on all the [Font Awesomeness](https://twitter.com/fontawesome)!
