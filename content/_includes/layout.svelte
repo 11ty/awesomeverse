@@ -270,7 +270,7 @@ more.addEventListener("click", showMore);`;
 	@media (prefers-color-scheme: dark) {
 		:root:not([data-theme="light"]) {
 			color-scheme: dark;
-			--bg: #141413;
+			--bg: #0c0c0c;
 			--surface: #1d1c1a;
 			--text: #ecebe8;
 			--muted: #9c9890;
@@ -288,7 +288,7 @@ more.addEventListener("click", showMore);`;
 	}
 	:root[data-theme="dark"] {
 		color-scheme: dark;
-		--bg: #141413;
+		--bg: #0c0c0c;
 		--surface: #1d1c1a;
 		--text: #ecebe8;
 		--muted: #9c9890;
