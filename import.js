@@ -31,6 +31,16 @@ async function runImport(type, target, output) {
 	importer.logResults();
 }
 
+let failures = [];
 for(let { type, target, output } of config) {
-	await runImport(type, target, output);
+	try {
+		await runImport(type, target, output);
+	} catch(error) {
+		failures.push({ type, target, error });
+		console.error(`[import] ${type} ${JSON.stringify(target)} failed:`, error);
+	}
+}
+
+if(failures.length) {
+	console.error(`[import] ${failures.length} source(s) failed:\n${failures.map(({ type, target, error }) => `- ${type} ${JSON.stringify(target)}: ${error.message}`).join("\n")}`);
 }
