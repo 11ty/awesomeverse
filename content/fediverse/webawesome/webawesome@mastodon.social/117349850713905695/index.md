@@ -9,13 +9,13 @@ metadata:
   uuid: 11ty/import::rss::https://mastodon.social/@webawesome/117349850713905695
   type: fediverse
   url: https://mastodon.social/@webawesome/117349850713905695
-  importHash: 6e7b01b050a2c5b3
+  importHash: 9b54045deb8c14b2
 ---
 Web Awesome 3.14 is out! 🪜
 
 🪜 \<wa-stepper> (experimental) for breaking checkout, signup, and setup into clear stages  
 🔍 \<wa-combobox> can load options from your server as the user types (Pro)  
-🤖 A rewritten webawesome-design skill with a [https://design.md](https://design.md) template  
+🤖 A rewritten webawesome-design skill with a DESIGN.md template  
 ➖ \<wa-divider> takes a label, like the "OR" between sign-in options
 
 Changelog: [https://webawesome.com/docs/resources/changelog](https://webawesome.com/docs/resources/changelog)

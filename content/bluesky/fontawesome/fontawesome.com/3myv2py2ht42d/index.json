@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mz4km5cihs2v",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mz4km5cihs2v",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-10-30T19:52:51.651Z",
+			"content": "<p>Pro tip from the designer himself: use Notdog's Duo style. Set both layers to the same color and the shine disappears, leaving you with solid, bubbly shapes. Your personal Notdog vision, achieved.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "bluesky"
+	}
+}

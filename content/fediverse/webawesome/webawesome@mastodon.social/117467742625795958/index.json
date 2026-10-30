@@ -10,7 +10,7 @@
 				"avatarUrl": "https://files.mastodon.social/accounts/avatars/115/270/996/054/162/025/original/9337c79b15adc441.jpg"
 			},
 			"date": "2026-10-19T13:11:53.932Z",
-			"content": "<p>Fact: you can use Native Styles with any Web Awesome theme and the components are optional.</p><p>Learn more at <a href=\"https://webawesome.com/docs/utilities/native\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">webawesome.com/docs/utilities/</span><span class=\"invisible\">native</span></a></p>",
+			"content": "<p>Fact: you can use Native Styles with any Web Awesome theme and the components are optional.</p><p>Learn more at webawesome.com/docs/utilities/native</p>",
 			"via": "fediverse"
 		}
 	],

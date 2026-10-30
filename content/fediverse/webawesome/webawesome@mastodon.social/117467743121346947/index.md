@@ -9,8 +9,8 @@ metadata:
   uuid: 11ty/import::rss::https://mastodon.social/@webawesome/117467743121346947
   type: fediverse
   url: https://mastodon.social/@webawesome/117467743121346947
-  importHash: 975b8c27b51837e2
+  importHash: bf9e8e04265b3243
 ---
 Fact: you can use Native Styles with any Web Awesome theme and the components are optional.
 
-Learn more at [https://webawesome.com/docs/utilities/native](https://webawesome.com/docs/utilities/native)
+Learn more at webawesome.com/docs/utilities/native

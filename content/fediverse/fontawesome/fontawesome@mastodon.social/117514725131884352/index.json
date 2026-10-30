@@ -1,6 +1,22 @@
 {
 	"counts": {
 		"likes": 1,
+		"comments": 1,
 		"via": "fediverse"
-	}
+	},
+	"comments": [
+		{
+			"id": "117531624050389252",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117531624050389252",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-10-30T19:57:39.560Z",
+			"content": "<p>The design constraint behind Notdog: every shape needs room for a highlight on one side. That set the minimum size of every element in the pack, and everything else was built up from there.</p><p><a href=\"https://mastodon.social/tags/DesignProcess\" class=\"mention hashtag\" rel=\"tag\">#<span>DesignProcess</span></a></p>",
+			"via": "fediverse"
+		}
+	]
 }
