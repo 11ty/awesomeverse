@@ -7,8 +7,10 @@ metadata:
   uuid: 11ty/import::atom::https://fontawesome.com/changelog#v7-3-0
   type: atom
   url: https://fontawesome.com/changelog#v7-3-0
-  importHash: 9d6ea085cb5a0dcb
+  importHash: 369095d5412e35eb
 ---
+Three new Pro+ packs (Pixel, Mosaic, and Vellum), Slab Duo styles, and six new animations.
+
 ## Added
 
 -   ##### **Three new Pro+ icon packs!**

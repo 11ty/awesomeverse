@@ -7,7 +7,7 @@ metadata:
   uuid: 11ty/import::atom::https://blog.fontawesome.com/how-does-web-awesome-stack-up-against-shoelace/
   type: atom
   url: https://blog.fontawesome.com/how-does-web-awesome-stack-up-against-shoelace/
-  importHash: ac09ce3c545bdeab
+  importHash: f83917ecc20e1c3e
 ---
 The latest release of Shoelace shipped on March 11, 2025. It’s still on npm, it’s still two lines away from any HTML page, and it still works as well today as it did the day it went out.
 
@@ -17,7 +17,7 @@ None of that is news. [We launched Web Awesome back in October](https://blog.fo
 
 _Why should I switch to Web Awesome?_
 
-<video height="720" style="aspect-ratio: 1280 / 720;" width="1280" autoplay="" loop="" muted="" src="what-is-wa-sC1xfnCTCorp-Vp3J4pVcdA98.mp4" playsinline=""></video>
+<video height="720" style="aspect-ratio: 1280 / 720;" width="1280" data-wp-init="callbacks.stopAutoplay" data-wp-interactive="core/video" autoplay="" loop="" muted="" src="what-is-wa-sC1xfnCTCorp-Vp3J4pVcdA98.mp4" playsinline=""></video>
 
 “Because it’s the successor” doesn’t cut it when you’ve got an app full of `sl-` tags and a manager asking why you want to spend a week on this.
 
@@ -29,7 +29,7 @@ Shoelace was a component library. Web Awesome is a design system.
 
 That sounds like something a marketing page says, so let me be specific. Shoelace gave you 58 components, a set of `--sl-*` tokens, and a light and dark theme. Everything else was your problem: layout, typography, spacing, the styling of your plain old `<table>` and `<h2>`.
 
-<video height="720" style="aspect-ratio: 1152 / 720;" width="1152" autoplay="" loop="" muted="" src="wa-components-v7N0ahBwgoHW-uelDDdNpQ5rN.mp4" playsinline=""></video>
+<video height="720" style="aspect-ratio: 1152 / 720;" width="1152" data-wp-init="callbacks.stopAutoplay" data-wp-interactive="core/video" autoplay="" loop="" muted="" src="wa-components-v7N0ahBwgoHW-uelDDdNpQ5rN.mp4" playsinline=""></video>
 
 Web Awesome 3.11 gives you 70 free components _plus_ the rest of the page. Native element styles. Layout and typography utilities. Eleven themes. Nine color palettes. A theming API that goes deeper than swapping two stylesheets.
 
@@ -53,7 +53,7 @@ There’s server-side rendering. As of 3.8, components render on the server via 
 
 And there’s a theme called Shoelace. There’s a built-in `shoelace` theme and a matching `shoelace` color palette, so you can migrate the markup without explaining to your designer why every button looks different on Monday.
 
-<video height="920" style="aspect-ratio: 1920 / 920;" width="1920" autoplay="" loop="" muted="" src="shoelace-theme-yiqONypzNLgt-B60uhCghieha.mp4" playsinline=""></video>
+<video height="920" style="aspect-ratio: 1920 / 920;" width="1920" data-wp-init="callbacks.stopAutoplay" data-wp-interactive="core/video" autoplay="" loop="" muted="" src="shoelace-theme-yiqONypzNLgt-B60uhCghieha.mp4" playsinline=""></video>
 
 It installs the way it always has. Paste a stylesheet and a module script into your `<head>`, served from our own CDN, and start writing tags. Or `npm install @awesome.me/webawesome` and bundle it like anything else. No framework, no wrapper, no build step you weren’t already running.
 
@@ -91,7 +91,7 @@ If your Shoelace app is stable and shipped and you’re not touching it, no, you
 
 But there won’t be another Shoelace release. No new components, no fixes, no answers on the issue tracker. Every hour of work is going into Web Awesome now. If you’re actively building on Shoelace, every new feature you ship is more code you’ll eventually have to migrate. The sooner you switch, the less of it there is.
 
-<video height="720" style="aspect-ratio: 1280 / 720;" width="1280" autoplay="" loop="" muted="" src="you-want-more-caption-aRNTM362-weBMTqUND4gL.mp4" playsinline=""></video>
+<video height="720" style="aspect-ratio: 1280 / 720;" width="1280" data-wp-init="callbacks.stopAutoplay" data-wp-interactive="core/video" autoplay="" loop="" muted="" src="you-want-more-caption-aRNTM362-weBMTqUND4gL.mp4" playsinline=""></video>
 
 Start with the [migration guide](https://webawesome.com/docs/resources/migrating-from-shoelace/). Pick one page. Rename one prefix. It’s usually much easier than it sounds.
 

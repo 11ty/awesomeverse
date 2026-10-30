@@ -165,19 +165,6 @@
 			"via": "fediverse"
 		},
 		{
-			"id": "116167151025645381",
-			"parentId": 0,
-			"url": "https://fosstodon.org/@greenman/116167151008732412",
-			"author": {
-				"name": "geantvertvert (greenman)",
-				"url": "https://fosstodon.org/@greenman",
-				"avatarUrl": "https://cdn.masto.host/neighborhood11tydev/cache/accounts/avatars/114/400/303/904/249/558/original/4bf14934bc489c2b.png"
-			},
-			"date": "2026-03-03T20:34:13.000Z",
-			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://neighborhood.11ty.dev/@11ty\" class=\"u-url mention\" rel=\"nofollow noopener\" target=\"_blank\">@<span>11ty</span></a></span> it is funny that Premium Features seems to  me as \"do not use features\" based on AI. As in Affinity Studio i.e. So it is cool. More seriously I would rather prefer 11ty to set on a really theme system for everyone instead of developing for few people. But I guess this is a way to stay alive</p>",
-			"via": "fediverse"
-		},
-		{
 			"id": "116167388883178911",
 			"parentId": 0,
 			"url": "https://front-end.social/@lynnandtonic/116167388857842897",
@@ -289,7 +276,7 @@
 	"counts": {
 		"likes": 45,
 		"reposts": 39,
-		"comments": 12,
+		"comments": 11,
 		"quotes": 5,
 		"via": "fediverse"
 	}

@@ -7,8 +7,10 @@ metadata:
   uuid: 11ty/import::atom::https://fontawesome.com/changelog#v7-2-0
   type: atom
   url: https://fontawesome.com/changelog#v7-2-0
-  importHash: ce9a56c360b32f57
+  importHash: 67f2b994aedd802f
 ---
+A new Pro+ pack, Graphite, plus moon phase icons, zodiac symbols, new brands, and brighter sun icons.
+
 ## Added
 
 -   ##### **New Pro+ icon pack: Graphite!**

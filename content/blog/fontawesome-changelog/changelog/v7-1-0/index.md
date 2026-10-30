@@ -7,8 +7,10 @@ metadata:
   uuid: 11ty/import::atom::https://fontawesome.com/changelog#v7-1-0
   type: atom
   url: https://fontawesome.com/changelog#v7-1-0
-  importHash: f6cf30bdd25358f9
+  importHash: efbafe61bf58e091
 ---
+A new Pro+ pack, Utility, plus new icons and caret icons back at their version 6 size.
+
 ## Added
 
 -   ##### **New Pro+ icon pack: Utility!**

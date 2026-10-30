@@ -7,8 +7,10 @@ metadata:
   uuid: 11ty/import::atom::https://fontawesome.com/changelog#v7-0-1
   type: atom
   url: https://fontawesome.com/changelog#v7-0-1
-  importHash: ece574ae1da4f356
+  importHash: bc37b17489afb3ed
 ---
+Clearer check and exclamation icons, new icons, and fixes for Safari and desktop fonts.
+
 ## Added
 
 -   Introduces CSS custom property `--fa-width` for standardized width management in stacked icons.

@@ -7,6 +7,8 @@ metadata:
   uuid: 11ty/import::atom::https://fontawesome.com/changelog#website-icon-wizard
   type: atom
   url: https://fontawesome.com/changelog#website-icon-wizard
-  importHash: a8e4e1255c1dd4fd
+  importHash: ddaabc33fb005539
 ---
+Icon Wizard 2.0 lets you combine and remix icons, build custom characters, and add your creations straight to a Kit.
+
 A wizard arrives precisely when he means to, and Icon Wizard 2.0 has arrived. Combine and remix icons into something all your own: stack on modifiers and elements, or conjure a custom character in the User Blender. Then drop your creation straight into your Kit, download it, or share it with a link. [Try the Icon Wizard](https://fontawesome.com/icons/wizard) or [read the docs](https://fontawesome.com/docs/web/add-icons/icon-wizard/v2).

@@ -1,5 +1,5 @@
 ---
-title: A rebuilt icon search
+title: Icon Search Redesign
 authors:
   - name: Font Awesome
 date: 2026-09-08T12:00:00.000Z
@@ -7,8 +7,10 @@ metadata:
   uuid: 11ty/import::atom::https://fontawesome.com/changelog#website-search-redesign
   type: atom
   url: https://fontawesome.com/changelog#website-search-redesign
-  importHash: 82cf291f9cd7fb2d
+  importHash: a049d9c1f5aa11b4
 ---
+Icon search is rebuilt with a pack rail, a tighter grid with hover actions, and search that understands plain-language descriptions.
+
 [Icon search](https://fontawesome.com/search) has been rebuilt around the thing you actually came for: finding the right icon, fast.
 
 -   A rail down the side gives every pack its own place, so you can jump straight to Classic, Sharp, Duotone, or any of the Pro+ packs and see that pack on its own. Styles sit right above the results, one click away.

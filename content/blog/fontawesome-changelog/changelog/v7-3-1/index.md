@@ -7,8 +7,10 @@ metadata:
   uuid: 11ty/import::atom::https://fontawesome.com/changelog#v7-3-1
   type: atom
   url: https://fontawesome.com/changelog#v7-3-1
-  importHash: d65ad7e2fbe8e8d1
+  importHash: f762a3ed6a62e271
 ---
+New icons, plus fixes for brand icons missing from Free and a few 7.3.0 icon glitches.
+
 ## Added
 
 -   ##### **New Icons!**

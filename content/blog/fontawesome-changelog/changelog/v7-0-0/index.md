@@ -7,8 +7,10 @@ metadata:
   uuid: 11ty/import::atom::https://fontawesome.com/changelog#v7-0-0
   type: atom
   url: https://fontawesome.com/changelog#v7-0-0
-  importHash: 743987967eaf0fd5
+  importHash: f60cbf3befb20a67
 ---
+Font Awesome 7: redesigned core icons, 300+ new icons, seven new Pro+ packs, and smaller, faster files.
+
 ## Added
 
 -   ##### **Introducing Font Awesome 7!**
