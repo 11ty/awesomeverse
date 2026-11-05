@@ -1,6 +1,36 @@
 {
 	"counts": {
-		"likes": 2,
+		"likes": 6,
+		"reposts": 1,
+		"comments": 2,
 		"via": "bluesky"
-	}
+	},
+	"comments": [
+		{
+			"id": "at://did:plc:eooaszhlvpt7ybot5tm22xn6/app.bsky.feed.post/3mzjcygowec2p",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/wrnr.bsky.social/post/3mzjcygowec2p",
+			"author": {
+				"name": "Werner",
+				"url": "https://bsky.app/profile/wrnr.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:eooaszhlvpt7ybot5tm22xn6/bafkreihvldfh2hr72utb7pxkrkiyz5l7e4aqkpzu5idm2u7uakdbb3ksku"
+			},
+			"date": "2026-11-04T21:41:10.806Z",
+			"content": "<p>&lt;frame&gt; and &lt;iframe&gt; were both born 30 years ago and came to the html standard 29 years ago.<br>\nGranted, it's not _the same_. 😉</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:tqku76h7admt4oakzanm4ztg/app.bsky.feed.post/3mzjxyfxwpk2z",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/robodobdob.bsky.social/post/3mzjxyfxwpk2z",
+			"author": {
+				"name": "Robodobdob",
+				"url": "https://bsky.app/profile/robodobdob.bsky.social",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqku76h7admt4oakzanm4ztg/bafkreigokgf3epavdazpdjq7atf5b6cnaryznhp4owg7es7gzaiiezn7wa"
+			},
+			"date": "2026-11-05T03:56:58.629Z",
+			"content": "<p>What about Server Side Includes (SSI)?</p>",
+			"via": "bluesky"
+		}
+	]
 }
