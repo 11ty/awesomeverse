@@ -12,6 +12,19 @@
 			"date": "2026-08-31T16:21:34.442Z",
 			"content": "<p>Building an icon catalog isn't just \"pick some icons.\" It's:</p>\n<p>*Defining categories (actions, objects, navigation)<br>\n*Setting a grid and sizing system<br>\n*Naming and organizing consistently<br>\n*Version-controlling the whole library</p>\n<p>Skip a step and future-you pays for it.</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z2ifqfazewmriuuur23tbo7x/app.bsky.feed.post/3mzkphiokqs2f",
+			"parentId": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mufct3prkk2h",
+			"url": "https://bsky.app/profile/axialis.com/post/3mzkphiokqs2f",
+			"author": {
+				"name": "Axialis",
+				"url": "https://bsky.app/profile/axialis.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2ifqfazewmriuuur23tbo7x/bafkreifr32q5h4hloliteothko26nuouqb3vcwu6eyvm2pikwrcm3e2prq"
+			},
+			"date": "2026-11-05T10:57:00.855Z",
+			"content": "<p>Naming gets surprisingly tricky with specialised sets. Someone searches for “shipping”, another for “delivery”, another for “freight”. Search aliases deserve a place on that checklist too.</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {

@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "117565557771394323",
+			"parentId": 0,
+			"url": "https://mastodon.social/@mariejulien/117565557771394323",
+			"author": {
+				"name": "Marie et Julien",
+				"url": "https://mastodon.social/@mariejulien",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/000/031/317/original/540c65ea929936dc.jpg"
+			},
+			"date": "2026-11-05T19:47:27.054Z",
+			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\">@<span>fontawesome</span></a></span> oh no.</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}
