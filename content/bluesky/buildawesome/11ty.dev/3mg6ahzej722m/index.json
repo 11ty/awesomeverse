@@ -84,10 +84,10 @@
 		{
 			"id": "at://did:plc:gvymykdoxt2ipzpdjd235bbk/app.bsky.feed.post/3mgabznmfpk2w",
 			"parentId": 0,
-			"url": "https://bsky.app/profile/handle.invalid/post/3mgabznmfpk2w",
+			"url": "https://bsky.app/profile/bnijenhuis.nl/post/3mgabznmfpk2w",
 			"author": {
 				"name": "Bernard Nijenhuis",
-				"url": "https://bsky.app/profile/handle.invalid",
+				"url": "https://bsky.app/profile/bnijenhuis.nl",
 				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvymykdoxt2ipzpdjd235bbk/bafkreihbvgk3vwallesr7ekxybhl62jvc7qiqhz2e67jdpmppcpfpeeaf4"
 			},
 			"date": "2026-03-04T12:31:19.310Z",
