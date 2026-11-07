@@ -1,7 +1,22 @@
 {
 	"counts": {
 		"likes": 2,
-		"comments": 1,
+		"comments": 2,
 		"via": "bluesky"
-	}
+	},
+	"comments": [
+		{
+			"id": "at://did:plc:7ccppgff7euno3khbktyfasq/app.bsky.feed.post/3mzqerzxucb2b",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/citedgeo.com/post/3mzqerzxucb2b",
+			"author": {
+				"name": "CitedGEO",
+				"url": "https://bsky.app/profile/citedgeo.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ccppgff7euno3khbktyfasq/bafkreihk645nt6auixyhfkwdmbakkz24vvuu4jlmtkxgwao7dgle7nv6fy"
+			},
+			"date": "2026-11-07T17:02:01.280Z",
+			"content": "<p>That's basically giving AI a cheat sheet instead of making it click through menus and buttons to find your refund policy. Any store with a help page could do the same: a plain text copy of the key pages. More on this at <a href=\"https://citedgeo.com\">https://citedgeo.com</a></p>",
+			"via": "bluesky"
+		}
+	]
 }
