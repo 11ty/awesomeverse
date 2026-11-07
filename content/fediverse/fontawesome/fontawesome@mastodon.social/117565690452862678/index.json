@@ -2,6 +2,22 @@
 	"counts": {
 		"likes": 3,
 		"reposts": 1,
+		"comments": 1,
 		"via": "fediverse"
-	}
+	},
+	"comments": [
+		{
+			"id": "117571846194287108",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117571846194287108",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-11-06T22:26:40.772Z",
+			"content": "<p>Noah on why he made Pixel in the first place: he wanted a pixel set for himself. If anyone else uses it, that&#39;s icing on top. Some of the best things get made that way.</p>",
+			"via": "fediverse"
+		}
+	]
 }

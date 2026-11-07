@@ -248,19 +248,6 @@
 			"via": "bluesky"
 		},
 		{
-			"id": "at://did:plc:zoubwk2yw3miramcfch6t44u/app.bsky.feed.post/3lphcdgyqa22h",
-			"parentId": 0,
-			"url": "https://bsky.app/profile/cwacht.bsky.social/post/3lphcdgyqa22h",
-			"author": {
-				"name": "Chris Wachtman",
-				"url": "https://bsky.app/profile/cwacht.bsky.social",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:zoubwk2yw3miramcfch6t44u/bafkreieqi4hljwd2tkvrakffhpziurtct4qtund2sumpdcqpluitbhod44"
-			},
-			"date": "2025-05-18T14:45:58.648Z",
-			"content": "<p>11ty CMS when?</p>",
-			"via": "bluesky"
-		},
-		{
 			"id": "at://did:plc:i3khfmz4tvrcu7fwrdoqr4u2/app.bsky.feed.post/3lpjq7hunas2o",
 			"parentId": "at://did:plc:derdua4mnjknb3t5pskwbqx3/app.bsky.feed.post/3lpedabmkzk22",
 			"url": "https://bsky.app/profile/11ty.dev/post/3lpjq7hunas2o",

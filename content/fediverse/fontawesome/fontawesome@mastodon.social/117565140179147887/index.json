@@ -12,11 +12,24 @@
 			"date": "2026-11-05T19:47:27.054Z",
 			"content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fontawesome\" class=\"u-url mention\">@<span>fontawesome</span></a></span> oh no.</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117571984611251565",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117571984611251565",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-11-06T23:01:52.842Z",
+			"content": "<p>fontawesome.com/llms.txt is now live. It follows the emerging llms.txt convention: a short plain-text index linking to our markdown license, plans, and changelog pages, plus docs and agent tools, so agents don&#39;t have to guess where to look.</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
 		"likes": 2,
-		"comments": 1,
+		"comments": 2,
 		"quotes": 1,
 		"via": "fediverse"
 	}

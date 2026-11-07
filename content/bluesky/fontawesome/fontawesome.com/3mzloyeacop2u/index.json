@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mzohuwvjtk2d",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mzohuwvjtk2d",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-11-06T22:52:00.990Z",
+			"content": "<p>Why do vector pixels make bigger files? A smooth circle needs four points and some Bézier curves. A pixelated circle needs a point at every single jaggedy step. As Noah put it, imagine a plotter going around each little corner. That's a lot of information.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "bluesky"
+	}
+}
