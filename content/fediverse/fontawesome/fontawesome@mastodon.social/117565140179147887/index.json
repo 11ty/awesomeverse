@@ -25,11 +25,24 @@
 			"date": "2026-11-06T23:01:52.842Z",
 			"content": "<p>fontawesome.com/llms.txt is now live. It follows the emerging llms.txt convention: a short plain-text index linking to our markdown license, plans, and changelog pages, plus docs and agent tools, so agents don&#39;t have to guess where to look.</p>",
 			"via": "fediverse"
+		},
+		{
+			"id": "117587545891338480",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117587545891338480",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-11-09T16:59:19.138Z",
+			"content": "<p>Our plans comparison grid was styled boxes posing as a table. The problem is, screen readers and AI agents both got a jumble of loose paragraphs. Now that it&#39;s rebuilt as a real table, both get proper rows and columns. Accessibility fixes tend to help everyone.</p>",
+			"via": "fediverse"
 		}
 	],
 	"counts": {
 		"likes": 2,
-		"comments": 2,
+		"comments": 3,
 		"quotes": 1,
 		"via": "fediverse"
 	}

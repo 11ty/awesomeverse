@@ -25,6 +25,19 @@
 			"date": "2026-11-07T17:02:01.280Z",
 			"content": "<p>That's basically giving AI a cheat sheet instead of making it click through menus and buttons to find your refund policy. Any store with a help page could do the same: a plain text copy of the key pages. More on this at <a href=\"https://citedgeo.com\">https://citedgeo.com</a></p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mzvfgsdsuk2d",
+			"parentId": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mzoicbtlf22d",
+			"url": "https://bsky.app/profile/fontawesome.com/post/3mzvfgsdsuk2d",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+			},
+			"date": "2026-11-09T16:56:57.139Z",
+			"content": "<p>Our plans comparison \"table\" was secretly a pile of styled divs. Agents saw a mushy mess. Screen readers saw soup. It's a real table now. Semantic HTML remains undefeated.</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
