@@ -19,6 +19,9 @@ async function runImport(type, target, output) {
 	importer.setDraftsFolder("drafts");
 	importer.setAssetReferenceType("colocate");
 	importer.setAvatarReferenceType("colocate");
+	// Larger assets (mostly video) keep their remote URL
+	importer.setAssetMaxSize("25MB");
+	importer.setPruneAssets(process.argv.includes("--prune"));
 	importer.setOverwriteAllow();
 	importer.addSource(type, target);
 
