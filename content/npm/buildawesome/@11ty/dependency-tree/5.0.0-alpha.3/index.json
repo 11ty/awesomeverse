@@ -1,6 +1,7 @@
 {
 	"counts": {
 		"downloads": 8227930,
+		"cdnHits": 5386,
 		"via": "npm"
 	}
 }

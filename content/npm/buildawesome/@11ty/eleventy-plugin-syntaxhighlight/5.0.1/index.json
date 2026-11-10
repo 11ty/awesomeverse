@@ -1,1 +1,6 @@
-{}
+{
+	"counts": {
+		"cdnHits": 6595,
+		"via": "npm"
+	}
+}
