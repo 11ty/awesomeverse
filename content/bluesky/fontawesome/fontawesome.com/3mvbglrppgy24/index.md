@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mvbglrppgy24
   type: bluesky
   url: https://bsky.app/profile/fontawesome.com/post/3mvbglrppgy24
-  importHash: 82c26fd8176bfa25
+  importHash: 94d93ba9b72875ca
 ---
 ✨ Duotone just joined the Icon Wizard.
 
@@ -17,4 +17,4 @@ Now you can mix, match, stack, and blend Duotone icons with other icons, modifie
 
 The Wizard has leveled up. 🪄
 
-<video controls="" src="com.atproto.sync-ANW3FNT2F6n6.getBlob" poster="thumbnail-6exm4UOSFZYY.jpg"></video>
+<video controls="" src="https://splitgill.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Aspcmfh6ub7op2y2rrondrfwg&amp;cid=bafkreifmm6amysphnxukzjx5bdewjxjjfmtzzsyf6zyvn7uikziywuyxvq" poster="thumbnail-6exm4UOSFZYY.jpg"></video>

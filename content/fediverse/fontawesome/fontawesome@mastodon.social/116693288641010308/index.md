@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://mastodon.social/@fontawesome/116693288641010308
   type: fediverse
   url: https://mastodon.social/@fontawesome/116693288641010308
-  importHash: 9e185b66b7fcdef8
+  importHash: 30b2b85cc7843219
 ---
 🎬 Ever wonder what it takes to make a 4-minute Kickstarter video?
 
@@ -18,4 +18,4 @@ Apparently: a full film crew, a kitchen set, a puppet in an Eleventy t-shirt, an
 Go behind the scenes 👀  
 [https://youtu.be/3rhilRoWZUw?si=F8lujhUzsdn8IYIA](https://youtu.be/3rhilRoWZUw?si=F8lujhUzsdn8IYIA)
 
-<video controls="" src="63a0dc324b3bc1e3-zH0zB0FDED9w.mp4" poster="63a0dc324b3bc1e3-ZCzvANaeCrpY.png"></video>
+<video controls="" src="https://files.mastodon.social/media_attachments/files/116/693/282/744/525/727/original/63a0dc324b3bc1e3.mp4" poster="63a0dc324b3bc1e3-ZCzvANaeCrpY.png"></video>

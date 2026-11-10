@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::https://mastodon.social/@fontawesome/116897854689886049
   type: fediverse
   url: https://mastodon.social/@fontawesome/116897854689886049
-  importHash: 822889be855edb1e
+  importHash: f94b622b1d1e0068
 ---
 Part 2 is coming next week... but first:
 
@@ -18,4 +18,4 @@ Catch up with Josh Williams as we talk about Mosaic, his commissioned Font Aweso
 Watch → [https://youtu.be/vpgC\_N2s49I?si=7MoGEoJRAGEV-aa-](https://youtu.be/vpgC_N2s49I?si=7MoGEoJRAGEV-aa-)  
 Listen → [https://www.buzzsprout.com/2092855/episodes/19424515](https://www.buzzsprout.com/2092855/episodes/19424515)
 
-<video controls="" src="bcfad2f59a5ecb58-CFyzKFwyiLnJ.mp4" poster="bcfad2f59a5ecb58-bEf7ya5JBAjC.png"></video>
+<video controls="" src="https://files.mastodon.social/media_attachments/files/116/897/831/519/109/751/original/bcfad2f59a5ecb58.mp4" poster="bcfad2f59a5ecb58-bEf7ya5JBAjC.png"></video>

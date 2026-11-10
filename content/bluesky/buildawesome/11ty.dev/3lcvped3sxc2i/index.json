@@ -20,7 +20,7 @@
 			"author": {
 				"name": "Build Awesome (11ty)",
 				"url": "https://bsky.app/profile/11ty.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
 			},
 			"date": "2024-12-09T21:51:23.540Z",
 			"content": "<p>contributions welcome</p>",
@@ -36,7 +36,7 @@
 				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:c2elcig7pt6yeihcq3odnrcm/bafkreicsayl3jqhrmo2bupuy6qdq66vd7vru6gmbbpl4iof5y3mg5rcceq"
 			},
 			"date": "2024-12-09T22:15:55.915Z",
-			"content": "<p>Progress. probably could use some more.</p>",
+			"content": "<p>Progress. probably could use some more.</p>\n<img src=\"https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:c2elcig7pt6yeihcq3odnrcm/bafkreibylvktnacshwshbtj4rs4bymhq2hwsgud46uywrfw6zaa7clfuey\" alt=\"The Mona Lisa, wearing possum glasses, holding a red balloon, but now there are 4 possums floating with balloons in the background at varying distances \">",
 			"via": "bluesky"
 		},
 		{
@@ -62,7 +62,7 @@
 				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:ark7nxcfhgxp4gwdsbzcpnoo/bafkreidrkmxmq7bqxl6sf2hezydqndwqdtbutmilm7s4mz3a7m2tnlabmi"
 			},
 			"date": "2024-12-12T19:15:42.324Z",
-			"content": "<p>Got reminded of <a href=\"https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2\">@11ty.dev</a> after seeing ‘opossum ornaments’. 😊<br>\n<a href=\"https://bsky.app/profile/kateammann.bsky.social/post/3lcxo3ruums2h\">bsky.app/profile/kate...</a></p>",
+			"content": "<p>Got reminded of <a href=\"https://bsky.app/profile/did:plc:i3khfmz4tvrcu7fwrdoqr4u2\">@11ty.dev</a> after seeing ‘opossum ornaments’. 😊<br>\n<a href=\"https://bsky.app/profile/kateammann.bsky.social/post/3lcxo3ruums2h\">bsky.app/profile/kate...</a></p>\n<p><a href=\"https://bsky.app/profile/kateammann.bsky.social/post/3lcxo3ruums2h\">Quoted post</a></p>",
 			"via": "bluesky"
 		},
 		{
@@ -72,7 +72,7 @@
 			"author": {
 				"name": "Build Awesome (11ty)",
 				"url": "https://bsky.app/profile/11ty.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
 			},
 			"date": "2024-12-12T20:52:19.755Z",
 			"content": "<p>yes thank you—instant buy</p>",
@@ -98,10 +98,10 @@
 			"author": {
 				"name": "Build Awesome (11ty)",
 				"url": "https://bsky.app/profile/11ty.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
 			},
 			"date": "2024-12-19T22:17:36.875Z",
-			"content": "<p>we did it <a href=\"https://bsky.app/profile/11ty.dev/post/3ldosohohrr2y\">bsky.app/profile/11ty...</a></p>",
+			"content": "<p>we did it <a href=\"https://bsky.app/profile/11ty.dev/post/3ldosohohrr2y\">bsky.app/profile/11ty...</a></p>\n<p><a href=\"https://bsky.app/profile/11ty.dev/post/3ldosohohrr2y\">Quoted post</a></p>",
 			"via": "bluesky"
 		}
 	],

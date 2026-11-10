@@ -7,7 +7,7 @@
 			"author": {
 				"name": "Build Awesome (11ty)",
 				"url": "https://bsky.app/profile/11ty.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
 			},
 			"date": "2025-03-25T15:03:25.996Z",
 			"content": "<p>We made a small modification to the leaderboards this time: for scaling and maintenance reasons (this list now includes over 1100 web sites!) the results will only show sites that have scored 400 on Lighthouse. Thanks y’all!</p>",
@@ -33,7 +33,7 @@
 			"author": {
 				"name": "Build Awesome (11ty)",
 				"url": "https://bsky.app/profile/11ty.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
 			},
 			"date": "2025-03-25T16:16:12.619Z",
 			"content": "<p>there are a lot of netlify sites on the leaderboards</p>",
@@ -85,7 +85,7 @@
 			"author": {
 				"name": "Build Awesome (11ty)",
 				"url": "https://bsky.app/profile/11ty.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
 			},
 			"date": "2025-03-25T19:25:34.669Z",
 			"content": "<p>oh interesting — I use preload for fonts on both 11ty.dev (×1) and <a href=\"https://zachleat.com\">zachleat.com</a> (×2)</p>\n<p>there might be some ordering variation you can do to workaround the issue?</p>",
@@ -98,7 +98,7 @@
 			"author": {
 				"name": "Build Awesome (11ty)",
 				"url": "https://bsky.app/profile/11ty.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
 			},
 			"date": "2025-03-25T19:26:33.248Z",
 			"content": "<p>you’re talking about this site right? it tested as 100 perf <a href=\"https://www.11ty.dev/speedlify/sia-codes/\">www.11ty.dev/speedlify/si...</a></p>",

@@ -7,7 +7,7 @@
 			"author": {
 				"name": "Web Awesome",
 				"url": "https://bsky.app/profile/webawesome.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uocu7waljw6y5e474k26n7ve/bafkreifmutcbbb4zymyndqeiv2itph3pm7e7zxaagnxxgxq6giateydjby"
+				"avatarUrl": "bafkreifmutcbbb4zymyndqeiv2itp-mpEBSdL0x2Ga.webp"
 			},
 			"date": "2025-09-15T23:33:18.185Z",
 			"content": "<p>Details on the affected dependency can be found here: <a href=\"https://t.co/pvhIvAA7N1\">t.co/pvhIvAA7N1</a></p>",
@@ -20,10 +20,10 @@
 			"author": {
 				"name": "Web Awesome",
 				"url": "https://bsky.app/profile/webawesome.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uocu7waljw6y5e474k26n7ve/bafkreifmutcbbb4zymyndqeiv2itph3pm7e7zxaagnxxgxq6giateydjby"
+				"avatarUrl": "bafkreifmutcbbb4zymyndqeiv2itp-mpEBSdL0x2Ga.webp"
 			},
 			"date": "2025-09-15T23:34:54.726Z",
-			"content": "<p><a href=\"https://bsky.app/profile/socket.dev/post/3lyvx6vlqc227\">bsky.app/profile/sock...</a></p>",
+			"content": "<p><a href=\"https://bsky.app/profile/socket.dev/post/3lyvx6vlqc227\">bsky.app/profile/sock...</a></p>\n<p><a href=\"https://bsky.app/profile/socket.dev/post/3lyvx6vlqc227\">Quoted post</a></p>",
 			"via": "bluesky"
 		},
 		{
@@ -33,10 +33,10 @@
 			"author": {
 				"name": "Web Awesome",
 				"url": "https://bsky.app/profile/webawesome.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:uocu7waljw6y5e474k26n7ve/bafkreifmutcbbb4zymyndqeiv2itph3pm7e7zxaagnxxgxq6giateydjby"
+				"avatarUrl": "bafkreifmutcbbb4zymyndqeiv2itp-mpEBSdL0x2Ga.webp"
 			},
 			"date": "2025-09-15T23:36:32.169Z",
-			"content": "<p>Update: <a href=\"https://bsky.app/profile/webawesome.com/post/3lyvxw2temc2a\">bsky.app/profile/weba...</a></p>",
+			"content": "<p>Update: <a href=\"https://bsky.app/profile/webawesome.com/post/3lyvxw2temc2a\">bsky.app/profile/weba...</a></p>\n<p><a href=\"https://bsky.app/profile/webawesome.com/post/3lyvxw2temc2a\">Quoted post</a></p>",
 			"via": "bluesky"
 		}
 	],

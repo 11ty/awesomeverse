@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3m63lkvf2o32g
   type: bluesky
   url: https://bsky.app/profile/fontawesome.com/post/3m63lkvf2o32g
-  importHash: c35cab45788655a6
+  importHash: 2033012eb54a358d
 ---
 What’s better than a full-featured Figma file?  
 A future where you don’t need one. 😎
@@ -20,4 +20,4 @@ Lindsay + Cory dream big in the latest Podcast Awesome:
 
 Designers: meet your future-friendly toolbox → [youtu.be/MiNQNUFlrcU?si=yS1mV...](https://youtu.be/MiNQNUFlrcU?si=yS1mVtlvL2mnp0UD)
 
-<video controls="" src="com.atproto.sync-aAIl1saFKSbi.getBlob" poster="thumbnail-munZFSH1Ek0d.jpg"></video>
+<video controls="" src="https://splitgill.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Aspcmfh6ub7op2y2rrondrfwg&amp;cid=bafkreihnfitq5d6ax42tf43o57hiffo5di6rcmk4qi6g6sx54jiarlqxeu" poster="thumbnail-munZFSH1Ek0d.jpg"></video>

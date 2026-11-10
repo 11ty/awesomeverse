@@ -9,10 +9,10 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mtw6vqnu3q2h
   type: bluesky
   url: https://bsky.app/profile/fontawesome.com/post/3mtw6vqnu3q2h
-  importHash: 115048c53bcacc13
+  importHash: 70d6f3aacf7181ce
 ---
 Icon Wizard 2.0 is out and it's a real upgrade: mix icon styles, layer up to 20 elements, build your own custom characters, and (new) run Power Transforms in web fonts, not just SVG. New Podcast Awesome episode has the whole story.
 
 Watch → [youtu.be/xbjXi0eXXFA?si=-V4VK...](https://youtu.be/xbjXi0eXXFA?si=-V4VKN7xqvPA-qj8)
 
-<video controls="" src="com.atproto.sync-8bZd1tzQyp06.getBlob" poster="thumbnail-CHYGED5JAl7w.jpg"></video>
+<video controls="" src="https://splitgill.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Aspcmfh6ub7op2y2rrondrfwg&amp;cid=bafkreiacz7qcktryjgwykf2uojvohkdbwunr5xxcram2tc3wvwdzytckjy" poster="thumbnail-CHYGED5JAl7w.jpg"></video>

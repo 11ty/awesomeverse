@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3mdntfb7r4c2r
   type: bluesky
   url: https://bsky.app/profile/fontawesome.com/post/3mdntfb7r4c2r
-  importHash: c38361c817a5ea90
+  importHash: f8003c56d6632661
 ---
 🖥️ Want to use Font Awesome icons in your desktop design tools? Well, we have the screencast for you!
 
@@ -20,4 +20,4 @@ What You’ll Learn:
 
 [youtu.be/5lx3v5FJ\_cY?si=udfdf...](https://youtu.be/5lx3v5FJ_cY?si=udfdfQBSQPuBYVtt)
 
-<video controls="" src="com.atproto.sync-pQ6jXPyPTmVw.getBlob" poster="thumbnail-z22rad3vnMLi.jpg"></video>
+<video controls="" src="https://splitgill.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Aspcmfh6ub7op2y2rrondrfwg&amp;cid=bafkreiclns2cjbxigxylyw6wqfropr5icmfs3alt4qs7k4awo6whipiney" poster="thumbnail-z22rad3vnMLi.jpg"></video>

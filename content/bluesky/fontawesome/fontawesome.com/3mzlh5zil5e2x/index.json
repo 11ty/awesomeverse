@@ -7,7 +7,7 @@
 			"author": {
 				"name": "Font Awesome",
 				"url": "https://bsky.app/profile/fontawesome.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+				"avatarUrl": "bafkreifsi5zgl22723hz5bbnpimcu-14D6o86fxh8M.webp"
 			},
 			"date": "2026-11-06T22:59:28.668Z",
 			"content": "<p>The boring fix that worked: our key pages (changelog, both licenses, plans, privacy, refunds) now also ship as markdown. Plus we've got a <a href=\"https://fontawesome.com/llms.txt\">fontawesome.com/llms.txt</a> as a front door for agents. Turns out the answer to \"AI can't read our site\" was just... plain text. Duh.</p>",
@@ -33,7 +33,7 @@
 			"author": {
 				"name": "Font Awesome",
 				"url": "https://bsky.app/profile/fontawesome.com",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:spcmfh6ub7op2y2rrondrfwg/bafkreifsi5zgl22723hz5bbnpimcu75ghtfkdp5euutsgzixepg2vysokq"
+				"avatarUrl": "bafkreifsi5zgl22723hz5bbnpimcu-14D6o86fxh8M.webp"
 			},
 			"date": "2026-11-09T16:56:57.139Z",
 			"content": "<p>Our plans comparison \"table\" was secretly a pile of styled divs. Agents saw a mushy mess. Screen readers saw soup. It's a real table now. Semantic HTML remains undefeated.</p>",

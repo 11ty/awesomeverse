@@ -9,7 +9,7 @@ metadata:
   uuid: 11ty/import::rss::at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3m6wum7raxa2k
   type: bluesky
   url: https://bsky.app/profile/fontawesome.com/post/3m6wum7raxa2k
-  importHash: 9c68c4b67cb43fb7
+  importHash: f0003cd050710381
 ---
 In this episode of Podcast Awesome, we sit down with the founder of SOON Agency to talk about:  
 🎨 How oil painting makes you a better designer  
@@ -18,4 +18,4 @@ In this episode of Podcast Awesome, we sit down with the founder of SOON Agency 
 Watch here → [youtu.be/IpgwIf0vqXQ?si=Rw4TN...](https://youtu.be/IpgwIf0vqXQ?si=Rw4TNw8Adrt6F-AU)  
 Listen here → [www.podcastawesome.com/209285...](https://www.podcastawesome.com/2092855/episodes/18253336)
 
-<video controls="" src="com.atproto.sync-3lPpxtZOJt2R.getBlob" poster="thumbnail-nXcEYkKCX1OY.jpg"></video>
+<video controls="" src="https://splitgill.us-east.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did%3Aplc%3Aspcmfh6ub7op2y2rrondrfwg&amp;cid=bafkreibgnbx3sjebfv6t76x3tpk7zzrz36av4m3un2kswg3aubpgig2khi" poster="thumbnail-nXcEYkKCX1OY.jpg"></video>

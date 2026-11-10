@@ -20,10 +20,10 @@
 			"author": {
 				"name": "Build Awesome (11ty)",
 				"url": "https://bsky.app/profile/11ty.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
 			},
 			"date": "2025-03-03T22:53:51.817Z",
-			"content": "<p>the Image plugin has a few different cache layers</p>\n<p>1. *Remote* images (via Eleventy fetch) are stored in .cache<br>\n2. Disk cache (optimized outputs) are typically stored in output folder (though you can change this as shown)<br>\n3. Memory cache de-dupes multiple requests for same image</p>\n<p>More info:</p>",
+			"content": "<p>the Image plugin has a few different cache layers</p>\n<p>1. *Remote* images (via Eleventy fetch) are stored in .cache<br>\n2. Disk cache (optimized outputs) are typically stored in output folder (though you can change this as shown)<br>\n3. Memory cache de-dupes multiple requests for same image</p>\n<p>More info:</p>\n<p><a href=\"https://www.11ty.dev/docs/plugins/image/#build-performance\">Image</a><br>\nA docs page for Eleventy, a simpler static site generator.</p>",
 			"via": "bluesky"
 		}
 	],

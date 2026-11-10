@@ -20,7 +20,7 @@
 			"author": {
 				"name": "Build Awesome (11ty)",
 				"url": "https://bsky.app/profile/11ty.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
 			},
 			"date": "2025-11-24T17:47:31.138Z",
 			"content": "<p>Reducing our security footprint, one package at a time 🏆</p>",
@@ -46,10 +46,10 @@
 			"author": {
 				"name": "Build Awesome (11ty)",
 				"url": "https://bsky.app/profile/11ty.dev",
-				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3khfmz4tvrcu7fwrdoqr4u2/bafkreidzde3yokaujkz2ehb45zixt7sini43onzs4swwgomffecc5n2jsu"
+				"avatarUrl": "bafkreidzde3yokaujkz2ehb45zixt-nqFRNPD9bUHv.webp"
 			},
 			"date": "2025-11-25T19:11:49.836Z",
-			"content": "<p>Update: at time of writing Eleventy core (0.x, 1.x, 2.x, 3.x, 4.x prereleases) and our official plugins are still unaffected.</p>\n<p>(Compromised package count was updated to 834 from 533 in the latest <a href=\"https://bsky.app/profile/did:plc:n6f3j47vjucu5ijwdmow7n2w\">@socket.dev</a> update)</p>",
+			"content": "<p>Update: at time of writing Eleventy core (0.x, 1.x, 2.x, 3.x, 4.x prereleases) and our official plugins are still unaffected.</p>\n<p>(Compromised package count was updated to 834 from 533 in the latest <a href=\"https://bsky.app/profile/did:plc:n6f3j47vjucu5ijwdmow7n2w\">@socket.dev</a> update)</p>\n<p><a href=\"https://bsky.app/profile/socket.dev/post/3m6hyoikkh223\">Quoted post</a></p>",
 			"via": "bluesky"
 		},
 		{

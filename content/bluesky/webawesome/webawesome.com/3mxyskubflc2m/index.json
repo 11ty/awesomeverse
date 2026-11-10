@@ -18,7 +18,7 @@
 				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:prsjlcqmyr3unqje5g6gzbxw/bafkreicmgiut2fprnqwxl77xndpf3jcrftazwaurgpy7lqotoz7b46qjne"
 			},
 			"date": "2026-10-17T08:32:10.833Z",
-			"content": "<p>DSD - Declarative ShadowDOM is handled by the Browser</p>",
+			"content": "<p>DSD - Declarative ShadowDOM is handled by the Browser</p>\n<img src=\"https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:prsjlcqmyr3unqje5g6gzbxw/bafkreia6jbd5o2i7hzzsurhzkdiwj7yrzlnapj3j3ueaotnbdshdrt5s64\" alt=\"\">",
 			"via": "bluesky"
 		},
 		{
@@ -60,7 +60,7 @@
 				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:pefubtxqc5svtvsds725qgx3/bafkreiflfqfme6bk7akho6uhsi3bnjxrwgoh3gkb6lisi7lg4vhxjqaxzy"
 			},
 			"date": "2026-10-18T11:25:07.219Z",
-			"content": "<p>Why do you need a shadow DOM in a Vuejs template? Nuxt has SSR and Vuejs already has slots and style encapsulation (although not as strict as a shadow DOM).</p>",
+			"content": "<p>Why do you need a shadow DOM in a Vuejs template? Nuxt has SSR and Vuejs already has slots and style encapsulation (although not as strict as a shadow DOM).</p>\n<p><a href=\"https://do.you\">https://do.you</a></p>",
 			"via": "bluesky"
 		},
 		{
