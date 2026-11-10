@@ -1,0 +1,22 @@
+{
+	"comments": [
+		{
+			"id": "117589710721872262",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117589710721872262",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-11-10T02:09:51.823Z",
+			"content": "<p>Update: The issues have been fixed so you can go back to making something awesome!</p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"likes": 3,
+		"comments": 1,
+		"via": "fediverse"
+	}
+}
