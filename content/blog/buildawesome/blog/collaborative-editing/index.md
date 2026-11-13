@@ -7,7 +7,7 @@ metadata:
   uuid: 11ty/import::atom::https://www.11ty.dev/blog/collaborative-editing/
   type: atom
   url: https://www.11ty.dev/blog/collaborative-editing/
-  importHash: 1fd45e95e52acd7b
+  importHash: 618006b0451ee6ee
 ---
 **TL;DR** After a [whoopsie-daisy false-start on our initial Kickstarter campaign](https://blog.fontawesome.com/pausing-kickstarter/), we’re ramping up again to launch [Kickstarter Final\_FINAL\_v2 on **April 28, 2026**](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro?ref=43ttgb).
 
@@ -71,7 +71,7 @@ This will render the template’s new `title` property in the data cascade (wher
 
 At some future time, if you decide that editing is no longer necessary for your project, your Build Awesome project will still build using the open source engine for hosting wherever you’d like, without any changes! **No lock-in, no shenanigans.**
 
-_Check out this [lower-level (developer-specific) example of full template editing and build-in-a-browser on our home page.](https://www.11ty.dev/#try-eleventy-in-your-browser)_
+_Check out this [lower-level (developer-specific) example of full template editing and build-in-a-browser.](https://www.11ty.dev/docs/try/)_
 
 ## Get notified — April 28!
 
