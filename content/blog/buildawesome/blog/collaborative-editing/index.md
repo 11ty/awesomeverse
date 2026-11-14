@@ -7,7 +7,7 @@ metadata:
   uuid: 11ty/import::atom::https://www.11ty.dev/blog/collaborative-editing/
   type: atom
   url: https://www.11ty.dev/blog/collaborative-editing/
-  importHash: 618006b0451ee6ee
+  importHash: 371fda983223a300
 ---
 **TL;DR** After a [whoopsie-daisy false-start on our initial Kickstarter campaign](https://blog.fontawesome.com/pausing-kickstarter/), we’re ramping up again to launch [Kickstarter Final\_FINAL\_v2 on **April 28, 2026**](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro?ref=43ttgb).
 
@@ -42,14 +42,14 @@ title: World
 # Hello, {{ title | editable }}
 ```
 
-<details><summary>Expand to see what the API might look like in a JavaScript content file.</summary><pre class="language-js" tabindex="0"><code class="language-js">
+<details><summary>Expand to see what the API might look like in a JavaScript content file.</summary><div class="syntax-highlight"><is-land on:visible="" data-wa-copy-button-target="highlighted-source-11" import="/static/web-awesome/components/copy-button/copy-button.js"><wa-copy-button from="highlighted-source-11" tooltip-placement="left"></wa-copy-button></is-land><pre class="language-js" tabindex="0" id="highlighted-source-11"><code class="language-js">
 <span class="token keyword">import</span> <span class="token punctuation">{</span> editable <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">"@awesome.me/build-pro"</span><span class="token punctuation">;</span>
 
 <span class="token keyword">export</span> <span class="token keyword">function</span> <span class="token function">render</span><span class="token punctuation">(</span><span class="token parameter"><span class="token punctuation">{</span> title <span class="token punctuation">}</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
 	<span class="token keyword">return</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">&lt;h1&gt;Hello, </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span><span class="token function">editable</span><span class="token punctuation">(</span>title<span class="token punctuation">)</span><span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">&lt;/h1&gt;</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">;</span>
 <span class="token punctuation">}</span>
 
-</code></pre></details>
+</code></pre></div></details>
 
 When using Build Awesome Pro (and with the proper permissions for editing), the `title` data property will render as an editable value on the page. Edits can be made directly in-browser and are applied in the data cascade to apply _project-wide_.
 
