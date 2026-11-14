@@ -7,7 +7,7 @@ metadata:
   uuid: 11ty/import::atom::https://www.11ty.dev/blog/collaborative-editing/
   type: atom
   url: https://www.11ty.dev/blog/collaborative-editing/
-  importHash: 95eedd2ae22424da
+  importHash: 618006b0451ee6ee
 ---
 **TL;DR** After a [whoopsie-daisy false-start on our initial Kickstarter campaign](https://blog.fontawesome.com/pausing-kickstarter/), we’re ramping up again to launch [Kickstarter Final\_FINAL\_v2 on **April 28, 2026**](https://www.kickstarter.com/projects/fontawesome/build-awesome-pro?ref=43ttgb).
 
@@ -59,11 +59,9 @@ Build Awesome Pro will expose controls in your project to make your content edit
 
 ```diff-md
 ---
-
 -title: World
 +title: Moon
 ---
-
 # Hello, {{ title | editable }}
 ```
 
