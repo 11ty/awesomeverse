@@ -12,10 +12,23 @@
 			"date": "2026-11-06T22:52:00.990Z",
 			"content": "<p>Why do vector pixels make bigger files? A smooth circle needs four points and some Bézier curves. A pixelated circle needs a point at every single jaggedy step. As Noah put it, imagine a plotter going around each little corner. That's a lot of information.</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:z2ifqfazewmriuuur23tbo7x/app.bsky.feed.post/3n2k63icra22l",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/axialis.com/post/3n2k63icra22l",
+			"author": {
+				"name": "Axialis",
+				"url": "https://bsky.app/profile/axialis.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2ifqfazewmriuuur23tbo7x/bafkreifr32q5h4hloliteothko26nuouqb3vcwu6eyvm2pikwrcm3e2prq"
+			},
+			"date": "2026-11-17T23:11:15.832Z",
+			"content": "<p>How did you choose the 10–16 icons for those test sets? Were you deliberately mixing simple shapes with the most detailed ones to see where each grid and line weight stopped working?</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
-		"comments": 1,
+		"comments": 2,
 		"via": "bluesky"
 	}
 }
