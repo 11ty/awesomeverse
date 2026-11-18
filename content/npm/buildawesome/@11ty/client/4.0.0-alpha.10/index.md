@@ -9,13 +9,11 @@ metadata:
   name: '@11ty/client'
   version: 4.0.0-alpha.10
   prerelease: true
-  distTags:
-    - canary
   license: MIT
   repository: https://github.com/11ty/buildawesome
   uuid: 11ty/import::npm::@11ty/client::4.0.0-alpha.10
   type: npm
   url: https://www.npmjs.com/package/@11ty/client/v/4.0.0-alpha.10
-  importHash: 66ccc1c7179dce1c
+  importHash: 8e2be0b23d17dc67
 ---
 

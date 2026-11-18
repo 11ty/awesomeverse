@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "117638609993376511",
+			"parentId": 0,
+			"url": "https://mastodon.social/@webawesome/117638609993376511",
+			"author": {
+				"name": "Web Awesome",
+				"url": "https://mastodon.social/@webawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/115/270/996/054/162/025/original/9337c79b15adc441.jpg"
+			},
+			"date": "2026-11-18T17:25:35.491Z",
+			"content": "<p>Built with Web Awesome Create</p><p><a href=\"https://webawesome.com/create/7ELAKsw1HoMQtBxKl3crC\" target=\"_blank\" rel=\"nofollow noopener\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">webawesome.com/create/7ELAKsw1</span><span class=\"invisible\">HoMQtBxKl3crC</span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

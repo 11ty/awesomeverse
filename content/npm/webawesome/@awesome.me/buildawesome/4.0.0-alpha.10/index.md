@@ -9,13 +9,11 @@ metadata:
   name: '@awesome.me/buildawesome'
   version: 4.0.0-alpha.10
   prerelease: true
-  distTags:
-    - alpha
   license: MIT
   repository: https://github.com/11ty/buildawesome
   uuid: 11ty/import::npm::@awesome.me/buildawesome::4.0.0-alpha.10
   type: npm
   url: https://www.npmjs.com/package/@awesome.me/buildawesome/v/4.0.0-alpha.10
-  importHash: 403d74a4b42fa40c
+  importHash: 66f4a8253d819603
 ---
 

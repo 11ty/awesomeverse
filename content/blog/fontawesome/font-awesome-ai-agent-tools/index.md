@@ -7,7 +7,7 @@ metadata:
   uuid: 11ty/import::atom::https://blog.fontawesome.com/font-awesome-ai-agent-tools/
   type: atom
   url: https://blog.fontawesome.com/font-awesome-ai-agent-tools/
-  importHash: 1dab3ec9b80ae5d0
+  importHash: 97c5f524910b1685
 ---
 > I know…
 
@@ -90,7 +90,7 @@ Here’s the peanut-butter-and-jelly part: Agent Tools automatically look for fa
 
 ## Try It
 
-![4 Font Awesome icons on a navy background: download, screwdriver  wrench, running to portal, question comment](ksmuI_Qbd3-1440-3GbPsKpvHDND.png)
+![4 Font Awesome icons on a navy background: download, screwdriver & wrench, running to portal, question comment](ksmuI_Qbd3-1440-3GbPsKpvHDND.png)
 
 Install the CLI. Install the agent tools. Log in once. Then ask your agent for an icon. It already knows where to look.
 
