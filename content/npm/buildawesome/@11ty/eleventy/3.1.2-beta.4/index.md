@@ -9,8 +9,6 @@ metadata:
   name: '@11ty/eleventy'
   version: 3.1.2-beta.4
   prerelease: true
-  distTags:
-    - beta
   license: MIT
   repository: https://github.com/11ty/eleventy
   tags:
@@ -33,7 +31,7 @@ metadata:
   uuid: 11ty/import::npm::@11ty/eleventy::3.1.2-beta.4
   type: npm
   url: https://www.npmjs.com/package/@11ty/eleventy/v/3.1.2-beta.4
-  importHash: ce7dd0fe3c8a77bd
+  importHash: 4fb5412050061297
 tags:
   - static-site-generator
   - static-site
