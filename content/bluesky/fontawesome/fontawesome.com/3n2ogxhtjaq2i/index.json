@@ -1,0 +1,35 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:z2ifqfazewmriuuur23tbo7x/app.bsky.feed.post/3n2qihrgkis2a",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/axialis.com/post/3n2qihrgkis2a",
+			"author": {
+				"name": "Axialis",
+				"url": "https://bsky.app/profile/axialis.com",
+				"avatarUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:z2ifqfazewmriuuur23tbo7x/bafkreifr32q5h4hloliteothko26nuouqb3vcwu6eyvm2pikwrcm3e2prq"
+			},
+			"date": "2026-11-20T11:33:03.895Z",
+			"content": "<p>With a 2px stroke, do you aim for a 2px gap between strokes too, or does that depend on the icon?</p>",
+			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3n2r2fhpkf22t",
+			"parentId": "at://did:plc:z2ifqfazewmriuuur23tbo7x/app.bsky.feed.post/3n2qihrgkis2a",
+			"url": "https://bsky.app/profile/fontawesome.com/post/3n2r2fhpkf22t",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "bafkreifsi5zgl22723hz5bbnpimcu-14D6o86fxh8M.webp"
+			},
+			"date": "2026-11-20T16:53:53.948Z",
+			"content": "<p>Great question! It depends on the style. Utility Semibold uses primarily 2px gaps and cutouts between elements, while Font Awesome Classic &amp; Sharp use 1.5px.</p>\n<p>But of course, sometimes an icon marches to the beat of its own pixel grid. 😉</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"likes": 1,
+		"comments": 1,
+		"via": "bluesky"
+	}
+}
