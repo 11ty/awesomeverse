@@ -1,6 +1,22 @@
 {
 	"counts": {
 		"likes": 1,
+		"comments": 1,
 		"via": "fediverse"
-	}
+	},
+	"comments": [
+		{
+			"id": "117651050162405261",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117651050162405261",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-11-20T22:09:17.419Z",
+			"content": "<p>Noah’s take on why Utility works in so many places: the mix of sharp and round details matches what a lot of typefaces do. That lets it fit in more contexts than an all-rounded or all-sharp style. <a href=\"https://mastodon.social/tags/Typography\" class=\"mention hashtag\" rel=\"tag\">#<span>Typography</span></a></p>",
+			"via": "fediverse"
+		}
+	]
 }

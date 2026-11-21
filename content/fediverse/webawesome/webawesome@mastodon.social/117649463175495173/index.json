@@ -2,7 +2,18 @@
 	"counts": {
 		"likes": 10,
 		"reposts": 8,
+		"comments": 1,
 		"quotes": 1,
 		"via": "fediverse"
-	}
+	},
+	"comments": [
+		{
+			"id": "117651623417488123",
+			"parentId": 0,
+			"url": "https://mastodon.ml/@bano/117651623381951499",
+			"private": true,
+			"date": "2026-11-21T00:35:04.000Z",
+			"via": "fediverse"
+		}
+	]
 }

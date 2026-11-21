@@ -25,11 +25,24 @@
 			"date": "2026-11-20T16:53:53.948Z",
 			"content": "<p>Great question! It depends on the style. Utility Semibold uses primarily 2px gaps and cutouts between elements, while Font Awesome Classic &amp; Sharp use 1.5px.</p>\n<p>But of course, sometimes an icon marches to the beat of its own pixel grid. 😉</p>",
 			"via": "bluesky"
+		},
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3n2rlv6cfqk2c",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3n2rlv6cfqk2c",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "bafkreifsi5zgl22723hz5bbnpimcu-14D6o86fxh8M.webp"
+			},
+			"date": "2026-11-20T22:06:54.563Z",
+			"content": "<p>We fixed an icon live during the recording. While walking through the highlighter, Jory looked back at the Utility rules sheet, decided the tip corner should be rounded, and went into the master component to change it.</p>\n<p>Podcasting and production design all at the same time!</p>",
+			"via": "bluesky"
 		}
 	],
 	"counts": {
 		"likes": 1,
-		"comments": 1,
+		"comments": 2,
 		"via": "bluesky"
 	}
 }
