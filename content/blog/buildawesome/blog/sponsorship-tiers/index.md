@@ -7,9 +7,9 @@ metadata:
   uuid: 11ty/import::atom::https://www.11ty.dev/blog/sponsorship-tiers/
   type: atom
   url: https://www.11ty.dev/blog/sponsorship-tiers/
-  importHash: 7b9c157c3c4dc725
+  importHash: 145b88a8ea3b0409
 ---
-[![New Sponsorship Tiers for the Build Awesome Kickstarter](-Wlx8lYZtoiEb.svg+xml)](https://blog.fontawesome.com/new-build-awesome-sponsorship-tiers/)
+[![New Sponsorship Tiers for the Build Awesome Kickstarter](-Wlx8lYZtoiEb.jpeg)](https://blog.fontawesome.com/new-build-awesome-sponsorship-tiers/)
 
 We’ve added a bit more [information about the new sponsorship tiers for the Build Awesome Kickstarter](https://blog.fontawesome.com/new-build-awesome-sponsorship-tiers/).
 

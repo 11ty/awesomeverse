@@ -7,11 +7,11 @@ metadata:
   uuid: 11ty/import::atom::https://www.11ty.dev/blog/community-survey-2025/
   type: atom
   url: https://www.11ty.dev/blog/community-survey-2025/
-  importHash: a6ab1a8aacc841d3
+  importHash: 2c98ecabb6672c41
 ---
 Please participate in the [**Eleventy Community Survey (and Suggestion Box) (2025)**](https://www.11ty.dev/survey/2025/)!
 
-[![Eleventy Community Survey (2025)](-jsyXaFEiYYXm.svg+xml)](https://www.11ty.dev/survey/2025/)
+[![Eleventy Community Survey (2025)](-jsyXaFEiYYXm.jpeg)](https://www.11ty.dev/survey/2025/)
 
 As we look to our current and future priorities, this survey offers folks from the community an opportunity to weigh in on what they’d like to see moving forward!
 
