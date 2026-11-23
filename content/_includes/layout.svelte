@@ -265,7 +265,7 @@ more.addEventListener("click", showMore);`;
 		--hackernews: #ff6600;
 		--blog: #475569;
 		--podcast: #0f766e;
-		--radius: 12px;
+		--radius: 4px;
 	}
 	@media (prefers-color-scheme: dark) {
 		:root:not([data-theme="light"]) {
@@ -312,7 +312,7 @@ more.addEventListener("click", showMore);`;
 		-webkit-font-smoothing: antialiased;
 	}
 	a { color: var(--link); text-underline-offset: .15em; }
-	img, video { max-width: 100%; height: auto; border-radius: 8px; }
+	img, video { max-width: 100%; height: auto; border-radius: 4px; }
 	.wrap { max-width: var(--wrap-max); margin-inline: auto; padding-inline: 16px; }
 
 	.site-header { padding-block: 2.5rem 1.5rem; }
