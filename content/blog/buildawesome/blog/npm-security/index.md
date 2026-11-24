@@ -7,7 +7,7 @@ metadata:
   uuid: 11ty/import::atom::https://www.11ty.dev/blog/npm-security/
   type: atom
   url: https://www.11ty.dev/blog/npm-security/
-  importHash: 89fd6f126c709404
+  importHash: 17896570990359de
 ---
 As we harden our release practices in the wake of numerous recent vulnerabilities in npm packages amongst high profile authors, it seems worthwhile to celebrate a major milestone for 11ty core and our official suite of plugins: _we are now npm Access Token-free!_
 
@@ -15,7 +15,7 @@ The `@11ty/*` ecosystem on npm is now fully migrated to [Trusted Publishers](htt
 
 If you’re interested in taking steps to improve your own security footprint, you can read more about the steps we took at [_No more tokens! Locking down npm Publish Workflows_](https://www.zachleat.com/web/npm-security/)
 
-[![No more tokens! Locking down npm Publish Workflows](-Lszj2CK4iPu0.svg+xml)](https://www.zachleat.com/web/npm-security/)
+[![No more tokens! Locking down npm Publish Workflows](-Lszj2CK4iPu0.jpeg)](https://www.zachleat.com/web/npm-security/)
 
 ## Dependency Watch
 
