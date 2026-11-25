@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "117678197707576473",
+			"parentId": 0,
+			"url": "https://mastodon.social/@fontawesome/117678197707576473",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://mastodon.social/@fontawesome",
+				"avatarUrl": "https://files.mastodon.social/accounts/avatars/116/007/580/585/820/350/original/e86e5974126c82ef.jpg"
+			},
+			"date": "2026-11-25T17:13:16.077Z",
+			"content": "<p>Pipeline detail from Grid to Glyph: Noah removes end caps, merges everything into a single Boolean union, then exports into Font Awesome&#39;s build system. <a href=\"https://mastodon.social/tags/IconDesign\" class=\"mention hashtag\" rel=\"tag\">#<span>IconDesign</span></a> <a href=\"https://mastodon.social/tags/DesignSystems\" class=\"mention hashtag\" rel=\"tag\">#<span>DesignSystems</span></a></p>",
+			"via": "fediverse"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "fediverse"
+	}
+}

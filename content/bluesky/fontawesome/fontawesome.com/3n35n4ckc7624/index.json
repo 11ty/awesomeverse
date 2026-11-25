@@ -1,0 +1,21 @@
+{
+	"comments": [
+		{
+			"id": "at://did:plc:spcmfh6ub7op2y2rrondrfwg/app.bsky.feed.post/3n35p4wtdyk2r",
+			"parentId": 0,
+			"url": "https://bsky.app/profile/fontawesome.com/post/3n35p4wtdyk2r",
+			"author": {
+				"name": "Font Awesome",
+				"url": "https://bsky.app/profile/fontawesome.com",
+				"avatarUrl": "bafkreifsi5zgl22723hz5bbnpimcu-14D6o86fxh8M.webp"
+			},
+			"date": "2026-11-25T17:36:53.250Z",
+			"content": "<p>Nerdy detail from the episode: the end caps come off before export because everything gets merged into one Boolean union for the build system. If that sentence filled you with glee, you are indeed a nerd and Grid to Glyph will be right up your alley.</p>",
+			"via": "bluesky"
+		}
+	],
+	"counts": {
+		"comments": 1,
+		"via": "bluesky"
+	}
+}
